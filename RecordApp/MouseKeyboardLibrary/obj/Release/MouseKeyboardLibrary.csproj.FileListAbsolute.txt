@@ -1,0 +1,14 @@
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\FatigueMonitorRecord\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\FatigueMonitorRecord\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\FatigueMonitorRecord\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+E:\Workspace\GitHub\FatigueMonitorRecord\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\FatigueMonitorRecord\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb

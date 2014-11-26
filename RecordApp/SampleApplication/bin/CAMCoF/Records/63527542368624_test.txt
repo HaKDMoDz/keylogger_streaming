@@ -1,0 +1,235 @@
+# user: test #
+SW,63527542385628,
+SW,63527542394770,http://www.google.com/ is not available - Google Chrome
+SW,63527542407340,EasySettingsMainDlg
+SW,63527542449620,Adobe Reader Updater
+SW,63527542457357,
+SW,63527542457558,
+SW,63527542462761,Facebook - Google Chrome
+SW,63527542550493,
+SW,63527542552224,Dialog
+SW,63527542791580,
+SW,63527543100477,Untitled - Google Chrome
+SW,63527543112136,TVGOLO.com | Últimos golos e resumos das melhores ligas de futebol actualizados ao minuto! - Google Chrome
+SW,63527568969366,Networks
+SW,63527568973238,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527569141516,
+SW,63527569639558,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527569650634,Project
+SW,63527569653860,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527569670154,Project
+SW,63527569673790,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527569676506,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527569684774,
+SW,63527569960348,Project
+SW,63527569966794,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527570009742,
+SW,63527570023238,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527570023293,Sporttvhdmi.com | Sport tv Online, gratis, benfica Tv online - Google Chrome
+SW,63527570032163,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527570040112,
+SW,63527570041675,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527570047620,Sporttvhdmi.com | Sport tv Online, gratis, benfica Tv online - Google Chrome
+SW,63527570139767,
+SW,63527570830203,
+SW,63527570830436,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527570868481,
+SW,63527571394384,FC Porto vs Pacos de Ferreira Live Stream Online - Google Chrome
+SW,63527571406927,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527571493274,FC Porto vs Pacos de Ferreira Live Stream Online - Google Chrome
+SW,63527571528101,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527571696976,FC Porto vs Pacos de Ferreira Live Stream Online - Google Chrome
+SW,63527571716426,zerozero.pt :: Porque todos os jogos começam assim... - Google Chrome
+SW,63527571721218,FC Porto vs Pacos de Ferreira Live Stream Online - Google Chrome
+SW,63527571733219,Premier League 2013/2014 :: zerozero.pt - Google Chrome
+SW,63527571741263,FC Porto vs Pacos de Ferreira Live Stream Online - Google Chrome
+SW,63527571772765,Tottenham 1-0 Everton :: Premier League 2013/2014 :: zerozero.pt - Google Chrome
+SW,63527571785433,Sporttvhdmi.com | Sport tv Online, gratis, benfica Tv online - Google Chrome
+SW,63527571800946,abola.pt - Google Chrome
+SW,63527571813293,Sporttvhd.tv | Sport tv 1 online em directo, Sporttv Gratis - Google Chrome
+SW,63527571829874,abola.pt - Google Chrome
+SW,63527571842273,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527571842483,
+SW,63527571852893,Task Switching
+SW,63527571852911,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527571853971,Task Switching
+SW,63527571854584,Task Switching
+SW,63527571854675,
+SW,63527571855320,Task Switching
+SW,63527571855347,Sporttvhd.tv | Sport tv 1 Veetle online em directo, Sporttv gratis online - Google Chrome
+SW,63527571866117,Task Switching
+SW,63527571866154,Sporttvhdmi.com | Sport tv Online, gratis, benfica Tv online - Google Chrome
+SW,63527571866893,Task Switching
+SW,63527571866965,
+SW,63527571869176,António messaged you - Google Chrome
+SW,63527573041230,
+SW,63527573041423,Battery Meter
+SW,63527573043993,File Explorer
+SW,63527573051393,(1) Facebook - Google Chrome
+SW,63527575151040,
+SW,63527575151242,(2) Oficina - Google Chrome
+SW,63527575152992,Sporttvhdmi.com | Sport tv Online, gratis, benfica Tv online - Google Chrome
+SW,63527575153428,(2) Oficina - Google Chrome
+SW,63527576711612,
+SW,63527576711975,
+SW,63527576712130,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527576712662,Microsoft Word
+SW,63527576718149,TexMaker
+SW,63527576720145,Texmaker
+SW,63527576855380,
+SW,63527576860500,
+SW,63527576860955,Word
+SW,63527576890913,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527576903358,Document1 - Word
+SW,63527576928022,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527576930946,Document1 - Word
+SW,63527577115403,
+SW,63527577116294,Sporttvhdmi.com | Sport tv Online, gratis, benfica Tv online - Google Chrome
+SW,63527577131857,Document1 - Word
+SW,63527577372749,FirstRow Live Football Stream | Watch Live Football Online | Live Soccer Stream - Google Chrome
+SW,63527577498579,Document1 - Word
+SW,63527577525043,Facebook - Google Chrome
+SW,63527577548178,Document1 - Word
+SW,63527577667598,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527577677229,Document1 - Word
+SW,63527577697955,Facebook - Google Chrome
+SW,63527577716452,Document1 - Word
+SW,63527577717956,Google Tradutor - Google Chrome
+SW,63527577962780,Document1 - Word
+SW,63527577973631,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527578002768,Document1 - Word
+SW,63527578016881,Google Tradutor - Google Chrome
+SW,63527578020329,Document1 - Word
+SW,63527578027859,Google Tradutor - Google Chrome
+SW,63527578183348,Document1 - Word
+SW,63527578207831,Google Tradutor - Google Chrome
+SW,63527578460110,Document1 - Word
+SW,63527578469815,Google Tradutor - Google Chrome
+SW,63527578566365,Document1 - Word
+SW,63527578571460,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578683963,Texmaker : pdf preview
+SW,63527578729175,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578734493,File Explorer
+SW,63527578742146,Photos
+SW,63527578743611,Photos
+SW,63527578750263,
+SW,63527578751161,
+SW,63527578751242,Photos
+SW,63527578751624,Photos
+SW,63527578757794,
+SW,63527578758021,Start menu
+SW,63527578760878,DoubleClickShield
+SW,63527578760895,
+SW,63527578760918,Dropbox
+SW,63527578780575,
+SW,63527578780661,latex
+SW,63527578781320,review_cc.pdf - Adobe Reader
+SW,63527578800208,
+SW,63527578800929,review_cc.pdf - Adobe Reader
+SW,63527578800933,
+SW,63527578801357,
+SW,63527578802282,Milton diz… - Google Chrome
+SW,63527578866624,Task Switching
+SW,63527578866638,review_cc.pdf - Adobe Reader
+SW,63527578868825,latex
+SW,63527578874761,C:\Users\André\Desktop\chica\2012-06-09 (1).log - Sublime Text (UNREGISTERED)
+SW,63527578880426,Task Switching
+SW,63527578880503,latex
+SW,63527578881235,Task Switching
+SW,63527578881288,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527578881642,Task Switching
+SW,63527578882064,review_cc.pdf - Adobe Reader
+SW,63527578885614,Task Switching
+SW,63527578885673,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527578894475,Task Switching
+SW,63527578894594,review_cc.pdf - Adobe Reader
+SW,63527578895144,Task Switching
+SW,63527578895220,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib • - Sublime Text (UNREGISTERED)
+SW,63527578898622,
+SW,63527578899387,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578903746,Abrir ficheiro
+SW,63527578907997,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578930952,Task Switching
+SW,63527578931004,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527578933452,Task Switching
+SW,63527578933520,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578933929,Task Switching
+SW,63527578933983,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527578947801,Task Switching
+SW,63527578947862,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578956005,Task Switching
+SW,63527578956079,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527578957192,Task Switching
+SW,63527578957264,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527578972608,
+SW,63527578973168,Google Tradutor - Google Chrome
+SW,63527578981097,HAIS14.pdf
+SW,63527578981172,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527578981183,HAIS14.pdf
+SW,63527579045572,Task Switching
+SW,63527579045654,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579061456,Task Switching
+SW,63527579061488,Roberto Machado - Marcelo Rebelo Sousa fala de bitcoins no seu... - Google Chrome
+SW,63527579062112,Task Switching
+SW,63527579062167,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579062466,Task Switching
+SW,63527579062819,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527579082791,Task Switching
+SW,63527579082858,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579111573,Task Switching
+SW,63527579111642,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527579128214,Task Switching
+SW,63527579128282,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579166051,HAIS14.pdf
+SW,63527579166117,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579166130,HAIS14.pdf
+SW,63527579167999,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579181368,HAIS14.pdf
+SW,63527579181417,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579181426,HAIS14.pdf
+SW,63527579209780,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579212313,Task Switching
+SW,63527579212429,HAIS14.pdf
+SW,63527579213196,Task Switching
+SW,63527579213755,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527579222599,Task Switching
+SW,63527579222708,HAIS14.pdf
+SW,63527579223768,Task Switching
+SW,63527579223859,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527579224427,Task Switching
+SW,63527579225083,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579262133,Task Switching
+SW,63527579262199,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527579275292,Task Switching
+SW,63527579275370,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579286239,Task Switching
+SW,63527579286300,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527579294027,Task Switching
+SW,63527579294106,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527579317888,HAIS14.pdf
+SW,63527579317942,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579317951,HAIS14.pdf
+SW,63527579319121,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579335660,HAIS14.pdf
+SW,63527579335713,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579335722,HAIS14.pdf
+SW,63527579353542,latex
+SW,63527579355376,HAIS14.pdf
+SW,63527579359600,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579365263,
+SW,63527579365808,Roberto Machado - Marcelo Rebelo Sousa fala de bitcoins no seu... - Google Chrome
+SW,63527579398461,Task Switching
+SW,63527579398540,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579444146,HAIS14.pdf
+SW,63527579444206,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579444215,HAIS14.pdf
+SW,63527579470804,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527579477430,latex
+SW,63527579489579,
+SW,63527579489677,PDInf
+SW,63527579489784,review_cc.pdf - Adobe Reader
+SW,63527579490270,Occup Med (Lond)-2003-Folkard-95-101.pdf - Adobe Reader
+SW,63527579507376,
+SW,63527579508011,scholar.google.com/scholar.bib?q=info:CVVnUXR0BT8J:scholar.google.com/&output=citation&hl=pt-PT&ct=citation&cd=0 - Google Chrome
+SW,63527579521399,Task Switching
+SW,63527579521517,Occup Med (Lond)-

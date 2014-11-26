@@ -1,0 +1,15 @@
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\bin\CAMCoF\CAMCoF.exe.config
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\bin\CAMCoF\CAMCoF.exe
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\bin\CAMCoF\af-ZA\CAMCoF.resources.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\bin\CAMCoF\af\CAMCoF.resources.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\bin\CAMCoF\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\HookSampleApplication.csprojResolveAssemblyReference.cache
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\CAMCoF.Properties.Resources.resources
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\SampleApplication.UiCapturer.resources
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\SampleApplication.Register.resources
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\SampleApplication.UiCapturer.af-ZA.resources
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\SampleApplication.UiCapturer.af.resources
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\HookSampleApplication.csproj.GenerateResource.Cache
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\af-ZA\CAMCoF.resources.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\af\CAMCoF.resources.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\SampleApplication\obj\CAMCoF\CAMCoF.exe

@@ -1,0 +1,39 @@
+# user: test #
+SW,63525986700793,DoubleClickShield
+SW,63525986700933,
+SW,63525986701043,Program Manager
+SW,63525986703359,Untitled - Google Chrome
+SW,63525986734826,Adobe Reader Updater
+SW,63525986744176,
+SW,63525986819136,
+SW,63525986986346,
+SW,63525987000612,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525987644627,
+SW,63525987644796,
+SW,63525987645319,Word
+SW,63525987701801,Resume Reading
+SW,63525987701966,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525987719012,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525987815460,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525987820891,TexMaker
+SW,63525987821986,Texmaker
+SW,63525988161225,Texmaker : pdf preview
+SW,63525988290816,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525988336741,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525988395903,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525988412775,Open
+SW,63525988414985,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525989538871,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525989561814,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525989621543,
+SW,63525989622679,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63525989635653,
+SW,63525989638062,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525989812445,
+SW,63525989813454,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63525990046638,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525990060700,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525990070409,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525990072207,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525990072256,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525990081003,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google 

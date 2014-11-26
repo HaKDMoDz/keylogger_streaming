@@ -1,0 +1,416 @@
+# user: test #
+SW,63526715211447,DoubleClickShield
+SW,63526715211463,
+SW,63526715211525,Program Manager
+SW,63526715224608,Untitled - Google Chrome
+SW,63526715224759,
+SW,63526715224962,
+SW,63526715244006,
+SW,63526715245401,Adobe Reader Updater
+SW,63526715250960,
+SW,63526715250985,
+SW,63526715260638,Facebook - Google Chrome
+SW,63526715474917,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526715476428,Eclipse
+SW,63526715477560,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526715496515,
+SW,63526715534513,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526715616799,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526715650374,File Explorer
+SW,63526715651995,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526715671457,Task Switching
+SW,63526715671513,This PC
+SW,63526715687145,Facebook - Google Chrome
+SW,63526715724536,Task Switching
+SW,63526715724607,Local_Cliente_v.1.2
+SW,63526715725321,Task Switching
+SW,63526715725385,New Tab - Google Chrome
+SW,63526715725738,Task Switching
+SW,63526715726244,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526715727535,Task Switching
+SW,63526715727576,New Tab - Google Chrome
+SW,63526715806412,Task Switching
+SW,63526715806465,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526715874198,Task Switching
+SW,63526715874301,creating a string attribute in weka java API - Stack Overflow - Google Chrome
+SW,63526715891401,Task Switching
+SW,63526715891437,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526715955352,Task Switching
+SW,63526715955389,Facebook - Google Chrome
+SW,63526715988040,Task Switching
+SW,63526715988080,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526715996730,Local_Cliente_v.1.2
+SW,63526716009698,User Interaction Capturer - ISLab
+SW,63526716015071,C:\Windows\System32\java.exe
+SW,63526716015540,User Interaction Capturer - ISLab
+SW,63526716018275,
+SW,63526716018277,
+SW,63526716018277,
+SW,63526716018278,
+SW,63526716018278,
+SW,63526716018278,
+SW,63526716018316,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716020700,creating a string attribute in weka java API - Stack Overflow - Google Chrome
+SW,63526716061044,User Interaction Capturer - ISLab
+SW,63526716062871,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716082063,
+SW,63526716083919,SampleApplication
+SW,63526716090652,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716090667,SampleApplication
+SW,63526716092274,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716102360,Task Switching
+SW,63526716102405,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526716103609,Task Switching
+SW,63526716103658,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716303507,Task Switching
+SW,63526716303555,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526716304297,Task Switching
+SW,63526716304334,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716306137,
+SW,63526716306426,
+SW,63526716313625,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716315954,Task Switching
+SW,63526716315998,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716320605,Task Switching
+SW,63526716320686,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716322095,Task Switching
+SW,63526716322156,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716323736,Task Switching
+SW,63526716323794,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716326508,Task Switching
+SW,63526716326544,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716328809,Task Switching
+SW,63526716328877,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716330155,Task Switching
+SW,63526716330210,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716331637,Task Switching
+SW,63526716331700,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716333088,Task Switching
+SW,63526716333143,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716334663,Task Switching
+SW,63526716334712,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716335510,Task Switching
+SW,63526716335556,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716345010,Release
+SW,63526716348336,User Interaction Capturer - ISLab
+SW,63526716352612,C:\Windows\System32\java.exe
+SW,63526716353092,User Interaction Capturer - ISLab
+SW,63526716355408,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526716464422,
+SW,63526716465753,SampleApplication
+SW,63526716471814,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716480313,Task Switching
+SW,63526716480387,SampleApplication
+SW,63526716482951,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716482963,SampleApplication
+SW,63526716483041,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716485171,Sousa Tavares apresenta queixa-crime contra Margarida Martins por envio de email com cópia de livros - PÚBLICO - Google Chrome
+SW,63526716578217,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526716615322,Sousa Tavares apresenta queixa-crime contra Margarida Martins por envio de email com cópia de livros - PÚBLICO - Google Chrome
+SW,63526716849020,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716860998,Task Switching
+SW,63526716861062,Facebook - Google Chrome
+SW,63526716861686,Task Switching
+SW,63526716861723,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716862121,Task Switching
+SW,63526716862901,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716866819,Task Switching
+SW,63526716867039,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526716952085,Task Switching
+SW,63526716952138,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526716953284,Task Switching
+SW,63526716954032,Facebook - Google Chrome
+SW,63526717087243,Task Switching
+SW,63526717087265,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526717087927,Task Switching
+SW,63526717088460,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526717132536,Task Switching
+SW,63526717132579,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526717135287,Task Switching
+SW,63526717135384,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526717139807,Task Switching
+SW,63526717139857,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526717143058,Task Switching
+SW,63526717143106,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526717144636,Task Switching
+SW,63526717144671,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526717147053,Task Switching
+SW,63526717147153,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526717165811,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717169152,Release
+SW,63526717172220,User Interaction Capturer - ISLab
+SW,63526717177987,C:\Windows\System32\java.exe
+SW,63526717178483,User Interaction Capturer - ISLab
+SW,63526717182928,GrepCode: weka.core.Instance (.java) - Class - Source Code View - Google Chrome
+SW,63526717300294,
+SW,63526717301981,SampleApplication
+SW,63526717303255,Open
+SW,63526717308017,Open
+SW,63526717308028,SampleApplication
+SW,63526717308124,Open
+SW,63526717309624,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526717321227,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717323746,Task Switching
+SW,63526717323794,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526717389643,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717461061,Release
+SW,63526717463512,User Interaction Capturer - ISLab
+SW,63526717471063,C:\Windows\System32\java.exe
+SW,63526717471519,User Interaction Capturer - ISLab
+SW,63526717473549,Working with Java SE 7 Exception Changes - Google Chrome
+SW,63526717563913,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717599653,
+SW,63526717601317,SampleApplication
+SW,63526717618163,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717618177,SampleApplication
+SW,63526717618264,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717647631,Look How Far We've Come - Imagine Dragons - YouTube - Google Chrome
+SW,63526717659967,Task Switching
+SW,63526717660006,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717790525,Task Switching
+SW,63526717790567,:.: Jornal Record :.: - Google Chrome
+SW,63526717830292,Task Switching
+SW,63526717830386,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526717843128,Release
+SW,63526717846302,User Interaction Capturer - ISLab
+SW,63526717852145,C:\Windows\System32\java.exe
+SW,63526717852624,User Interaction Capturer - ISLab
+SW,63526717853494,Task Switching
+SW,63526717853542,Release
+SW,63526717855604,Printing Exception Message in java - Stack Overflow - Google Chrome
+SW,63526717875676,Task Switching
+SW,63526717875702,Release
+SW,63526717898079,Facebook - Google Chrome
+SW,63526717935642,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526717958221,Task Switching
+SW,63526717958277,António messaged log de festas - Google Chrome
+SW,63526717990422,
+SW,63526717992142,SampleApplication
+SW,63526717998695,Facebook - Google Chrome
+SW,63526717998710,SampleApplication
+SW,63526717998804,Facebook - Google Chrome
+SW,63526718000374,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718031684,Task Switching
+SW,63526718031733,Facebook - Google Chrome
+SW,63526718078394,Task Switching
+SW,63526718078468,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526718100116,Release
+SW,63526718103271,User Interaction Capturer - ISLab
+SW,63526718108567,C:\Windows\System32\java.exe
+SW,63526718109010,User Interaction Capturer - ISLab
+SW,63526718112085,Java stack trace - How to print a stack trace to debug Java exceptions | alvinalexander.com - Google Chrome
+SW,63526718208853,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718231226,
+SW,63526718232455,SampleApplication
+SW,63526718239129,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718239138,SampleApplication
+SW,63526718239213,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718301066,Server Error
+SW,63526718303432,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526718314616,Release
+SW,63526718318265,User Interaction Capturer - ISLab
+SW,63526718322428,C:\Windows\System32\java.exe
+SW,63526718322927,User Interaction Capturer - ISLab
+SW,63526718325449,(2) Facebook - Google Chrome
+SW,63526718439156,User Interaction Capturer - ISLab
+SW,63526718441091,User Interaction Capturer - ISLab
+SW,63526718441096,Facebook - Google Chrome
+SW,63526718443353,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718459258,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718690264,Find/Replace
+SW,63526718713296,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526718735927,Find/Replace
+SW,63526718742673,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526718816644,Find/Replace
+SW,63526718829365,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526718835359,Find/Replace
+SW,63526718840833,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526718850547,Find/Replace
+SW,63526718850771,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718853294,
+SW,63526718854524,SampleApplication
+SW,63526718861055,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718861066,SampleApplication
+SW,63526718861135,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718864803,Release
+SW,63526718867495,User Interaction Capturer - ISLab
+SW,63526718871796,C:\Windows\System32\java.exe
+SW,63526718872267,User Interaction Capturer - ISLab
+SW,63526718874277,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718875122,
+SW,63526718876289,SampleApplication
+SW,63526718883379,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718883391,SampleApplication
+SW,63526718883480,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718890318,Invalid Line Number
+SW,63526718892953,Java - weka.core.Instances - Eclipse
+SW,63526718921069,Release
+SW,63526718923965,User Interaction Capturer - ISLab
+SW,63526718928379,C:\Windows\System32\java.exe
+SW,63526718928829,User Interaction Capturer - ISLab
+SW,63526718930831,
+SW,63526718930832,
+SW,63526718930832,
+SW,63526718930833,
+SW,63526718930834,
+SW,63526718930834,
+SW,63526718930864,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526718932965,Facebook - Google Chrome
+SW,63526719007317,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719042367,
+SW,63526719043590,SampleApplication
+SW,63526719049641,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719049652,SampleApplication
+SW,63526719049719,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719063315,Run As
+SW,63526719065202,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526719069759,Release
+SW,63526719075791,User Interaction Capturer - ISLab
+SW,63526719079916,C:\Windows\System32\java.exe
+SW,63526719080371,User Interaction Capturer - ISLab
+SW,63526719082639,
+SW,63526719082843,
+SW,63526719090021,C:\Users\André\Desktop\test_weka.arff - Sublime Text (UNREGISTERED)
+SW,63526719095623,Anúncios DI: Propostas de Estágio Profissional - Konkconsulting, S.A. - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526719096971,Program Manager
+SW,63526719109841,Weka Explorer
+SW,63526719140488,weka.gui.GenericObjectEditor
+SW,63526719144987,Weka Explorer
+SW,63526719147021,Neural Network
+SW,63526719174527,Weka Explorer
+SW,63526719182414,Save
+SW,63526719193685,Weka Explorer
+SW,63526719196021,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719233063,Name Conflict
+SW,63526719248123,Java - FatigueClassifierServer/src/machineLearning/data/FatigueDataW.java - Eclipse
+SW,63526719321116,Find/Replace
+SW,63526719335457,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526719337506,Anúncios DI: Propostas de Estágio Profissional - Konkconsulting, S.A. - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526719419279,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526719429936,User Interaction Capturer - ISLab
+SW,63526719432934,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526719442357,Task Switching
+SW,63526719443884,
+SW,63526719446950,Task Switching
+SW,63526719447676,Task Switching
+SW,63526719448663,Task Switching
+SW,63526719448863,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719449640,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719467459,Task Switching
+SW,63526719467505,User Interaction Capturer - ISLab
+SW,63526719472350,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526719475329,Task Switching
+SW,63526719475398,User Interaction Capturer - ISLab
+SW,63526719477162,C:\Windows\System32\java.exe
+SW,63526719477661,User Interaction Capturer - ISLab
+SW,63526719479773,
+SW,63526719479773,
+SW,63526719479774,
+SW,63526719479774,
+SW,63526719479775,
+SW,63526719479775,
+SW,63526719479805,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719489161,Anúncios DI: Propostas de Estágio Profissional - Konkconsulting, S.A. - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526719547043,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719631606,Find/Replace
+SW,63526719641293,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526719646399,
+SW,63526719647653,SampleApplication
+SW,63526719654320,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719654330,SampleApplication
+SW,63526719654397,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719660346,Release
+SW,63526719663362,User Interaction Capturer - ISLab
+SW,63526719668233,C:\Windows\System32\java.exe
+SW,63526719668705,User Interaction Capturer - ISLab
+SW,63526719670353,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719677106,Find/Replace
+SW,63526719681516,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526719687329,Anúncios DI: Propostas de Estágio Profissional - Konkconsulting, S.A. - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526719731362,
+SW,63526719732649,SampleApplication
+SW,63526719739236,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719741242,SampleApplication
+SW,63526719741445,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719741459,SampleApplication
+SW,63526719741543,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719780653,Release
+SW,63526719783269,User Interaction Capturer - ISLab
+SW,63526719788395,C:\Windows\System32\java.exe
+SW,63526719788851,User Interaction Capturer - ISLab
+SW,63526719791521,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719823330,Facebook - Google Chrome
+SW,63526719868942,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526719960512,
+SW,63526719961710,SampleApplication
+SW,63526719967871,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526719967882,SampleApplication
+SW,63526719967964,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526719973556,Release
+SW,63526719976769,User Interaction Capturer - ISLab
+SW,63526719983116,C:\Windows\System32\java.exe
+SW,63526719983552,User Interaction Capturer - ISLab
+SW,63526719985833,
+SW,63526719985833,
+SW,63526719985834,
+SW,63526719985834,
+SW,63526719985835,
+SW,63526719985835,
+SW,63526719985865,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526719989603,Descrição Geral do Público-Alvo - Google Analytics - Google Chrome
+SW,63526720051127,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720076547,:.: Jornal Record :.: - Google Chrome
+SW,63526720087126,Task Switching
+SW,63526720087190,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720088890,Task Switching
+SW,63526720088928,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526720093402,Task Switching
+SW,63526720093441,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720094689,Task Switching
+SW,63526720094752,:.: Jornal Record :.: - Google Chrome
+SW,63526720097397,Task Switching
+SW,63526720097469,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720102167,Task Switching
+SW,63526720102217,:.: Jornal Record :.: - Google Chrome
+SW,63526720105599,Task Switching
+SW,63526720105650,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720148977,Task Switching
+SW,63526720149033,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526720167691,Task Switching
+SW,63526720167748,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720168931,Task Switching
+SW,63526720168973,:.: Jornal Record :.: - Google Chrome
+SW,63526720208306,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720215173,
+SW,63526720216386,SampleApplication
+SW,63526720222341,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720222352,SampleApplication
+SW,63526720222437,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720250461,Release
+SW,63526720253188,User Interaction Capturer - ISLab
+SW,63526720257702,C:\Windows\System32\java.exe
+SW,63526720258161,User Interaction Capturer - ISLab
+SW,63526720260705,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63526720443642,Task Switching
+SW,63526720443700,User Interaction Capturer - ISLab
+SW,63526720445830,:.: Jornal Record :.: - Google Chrome
+SW,63526720484556,Task Switching
+SW,63526720484582,User Interaction Capturer - ISLab
+SW,63526720485170,Task Switching
+SW,63526720485683,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526720531489,weka - Making predictions - Google Chrome
+SW,63526720565176,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526720573908,Task Switching
+SW,63526720573972,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526720720912,Task Switching
+SW,63526720720962,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526720723100,Task Switching
+SW,63526720723158,Welcome! | LinkedIn - Google Chrome
+SW,63526720856142,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526720858707,Task Switching
+SW,63526720858761,Adriano Martins | LinkedIn - Google Chrome
+SW,63526720936641,User Interaction Capturer - ISLab
+SW,63526720938508,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63526720952631,User Interaction Capturer - ISLab
+SW,63526720954967,
+SW,63526720958764,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Ec

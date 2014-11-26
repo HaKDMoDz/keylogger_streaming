@@ -1,0 +1,246 @@
+# user: test #
+SW,63526583282914,Google - Google Chrome
+SW,63526583307391,Adobe Reader Updater
+SW,63526583330492,
+SW,63526583575165,
+SW,63526584011308,Save As
+SW,63526584014529,why normalize data neural network - Pesquisa do Google - Google Chrome
+SW,63526584016883,
+SW,63526584016926,why normalize data neural network - Pesquisa do Google - Google Chrome
+SW,63526584017459,TNS97.pdf - Adobe Reader
+SW,63526584063268,why normalize data neural network - Pesquisa do Google - Google Chrome
+SW,63526584146829,normalization - Why do we have to normalize the input for an artificial neural network? - Stack Overflow - Google Chrome
+SW,63526584273717,AgroSocial Admin - Google Chrome
+SW,63526584274724,Neural Network Data Normalization and Encoding -- Visual Studio Magazine - Google Chrome
+SW,63526584324029,:.: Jornal Record :.: - Google Chrome
+SW,63526584325003,Neural Network Data Normalization and Encoding -- Visual Studio Magazine - Google Chrome
+SW,63526584327637,zerozero.pt :: Porque todos os jogos começam assim... - Google Chrome
+SW,63526584335668,Neural Network Data Normalization and Encoding -- Visual Studio Magazine - Google Chrome
+SW,63526584375700,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526584447483,
+SW,63526584447721,
+SW,63526584451817,
+SW,63526584452640,
+SW,63526584452646,Program Manager
+SW,63526584455688,Progress
+SW,63526584457619,Program Manager
+SW,63526584464187,
+SW,63526584465389,normailiza data R - Pesquisa do Google - Google Chrome
+SW,63526584469048,Weka Explorer
+SW,63526584519233,weka.gui.GenericObjectEditor
+SW,63526584521270,Weka Explorer
+SW,63526584522252,Facebook - Google Chrome
+SW,63526584528094,
+SW,63526584533017,Program Manager
+SW,63526584552503,C:\Users\André\Desktop\neuroTraining.csv - Sublime Text (UNREGISTERED)
+SW,63526584625143,Facebook - Google Chrome
+SW,63526584627074,Program Manager
+SW,63526584632304,
+SW,63526584633152,Facebook - Google Chrome
+SW,63526584636916,Weka Explorer
+SW,63526584721551,Save
+SW,63526584727134,Weka Explorer
+SW,63526584727218,Select an Option
+SW,63526584728578,Weka Explorer
+SW,63526584736257,IBM - Prémio Científico - Regulamento - Portugal - Google Chrome
+SW,63526584737931,
+SW,63526584738076,
+SW,63526584741858,C:\Users\André\Desktop\fatigueSet.arff - Sublime Text (UNREGISTERED)
+SW,63526584767534,
+SW,63526584768170,IBM - Prémio Científico - Regulamento - Portugal - Google Chrome
+SW,63526585055920,C:\Users\André\Desktop\fatigueSet.arff - Sublime Text (UNREGISTERED)
+SW,63526585057238,
+SW,63526585058502,Program Manager
+SW,63526585068396,Weka Explorer
+SW,63526585087713,weka.gui.GenericObjectEditor
+SW,63526585091678,Weka Explorer
+SW,63526585092945,Neural Network
+SW,63526585120680,Weka Explorer
+SW,63526585141791,Test Instances 
+SW,63526585144278,Open
+SW,63526585150270,Test Instances 
+SW,63526585152173,Weka Explorer
+SW,63526585169699,Log
+SW,63526585175908,Weka Explorer
+SW,63526585234612,Program Manager
+SW,63526585235817,C:\Users\André\Desktop\fatigueSet.arff - Sublime Text (UNREGISTERED)
+SW,63526585247298,Sublime Text
+SW,63526585248709,C:\Users\André\Desktop\fatigueSet.arff • - Sublime Text (UNREGISTERED)
+SW,63526585250440,Weka Explorer
+SW,63526585250518,C:\Users\André\Desktop\fatigueSet.arff • - Sublime Text (UNREGISTERED)
+SW,63526585253668,
+SW,63526585254188,test values in neural network after training weka - Pesquisa do Google - Google Chrome
+SW,63526585560420,Save As
+SW,63526585564167,encog/encog-java-workbench · GitHub - Google Chrome
+SW,63526585590577,
+SW,63526585590725,
+SW,63526585597858, A extrair C:\Users\André\Des ... rkbench-master.zip
+SW,63526585602357,encog/encog-java-workbench · GitHub - Google Chrome
+SW,63526585603705,Program Manager
+SW,63526585603965,File Explorer
+SW,63526585618026,Untitled - Notepad
+SW,63526585623918,encog-java-workbench-master
+SW,63526585624767,encog/encog-java-workbench · GitHub - Google Chrome
+SW,63526585625876,
+SW,63526585626434,encog/encog-java-workbench · GitHub - Google Chrome
+SW,63526586819807,Save As
+SW,63526586822409,lucashnegri / NeuralView / Downloads — Bitbucket - Google Chrome
+SW,63526586830278,
+SW,63526586830403,
+SW,63526586836026, A extrair C:\Users\André\Des ... iew-win32-1.5.0.7z
+SW,63526586856629,lucashnegri / NeuralView / Downloads — Bitbucket - Google Chrome
+SW,63526586911380,Program Manager
+SW,63526586911630,File Explorer
+SW,63526586922595,C:\WINDOWS\system32\cmd.exe
+SW,63526586922791,lua.exe - System Error
+SW,63526586927119,C:\WINDOWS\system32\cmd.exe
+SW,63526586927135,neuralview-1.5.0
+SW,63526586929176,
+SW,63526586930124,lucashnegri / NeuralView / Downloads — Bitbucket - Google Chrome
+SW,63526586958571,Save As
+SW,63526586960275,FannTool Kilavuzu.zip - fanntool - FannTool Kullanim Kilavuzu - Tool for the Fast Artificial Neural Network Library (FANN) - Google Project Hosting - Google Chrome
+SW,63526586962307,
+SW,63526586962482,
+SW,63526586967872, A extrair C:\Users\André\Des ... nTool Kilavuzu.zip
+SW,63526586968145,FannTool Kilavuzu.zip - fanntool - FannTool Kullanim Kilavuzu - Tool for the Fast Artificial Neural Network Library (FANN) - Google Project Hosting - Google Chrome
+SW,63526586970211,Program Manager
+SW,63526586970455,File Explorer
+SW,63526586975290,
+SW,63526586976012,FannTool Kilavuzu.zip - fanntool - FannTool Kullanim Kilavuzu - Tool for the Fast Artificial Neural Network Library (FANN) - Google Project Hosting - Google Chrome
+SW,63526587411172,Save As
+SW,63526587413992,FannTool-1.0.zip - fanntool - FannTool-1.0. Source + Windows Executable - Tool for the Fast Artificial Neural Network Library (FANN) - Google Project Hosting - Google Chrome
+SW,63526587416703,
+SW,63526587416896,
+SW,63526587422339, A extrair C:\Users\André\Des ... p\FannTool-1.0.zip
+SW,63526587423310,FannTool-1.0.zip - fanntool - FannTool-1.0. Source + Windows Executable - Tool for the Fast Artificial Neural Network Library (FANN) - Google Project Hosting - Google Chrome
+SW,63526587424910,Program Manager
+SW,63526587425158,File Explorer
+SW,63526587428784,FANN Tool 1.0
+SW,63526587460810,Program Manager
+SW,63526587460818,
+SW,63526587460826,FANN Tool 1.0
+SW,63526587463153,FannTool-1.0
+SW,63526587465439,Program Manager
+SW,63526587485728,C:\Users\André\Desktop\fatigueTest.arff - Sublime Text (UNREGISTERED)
+SW,63526587631490,This is an unregistered copy
+SW,63526587633894,C:\Users\André\Desktop\fatigueTest.arff - Sublime Text (UNREGISTERED)
+SW,63526587642551,Save Changes?
+SW,63526587644114,C:\Users\André\Desktop\looool.arff • - Sublime Text (UNREGISTERED)
+SW,63526587649418,FANN Tool 1.0
+SW,63526587650660,Program Manager
+SW,63526587652968,untitled - Sublime Text (UNREGISTERED)
+SW,63526587659004,FANN Tool 1.0
+SW,63526587660277,Program Manager
+SW,63526587662041,C:\Users\André\Desktop\fatigueTest.arff - Sublime Text (UNREGISTERED)
+SW,63526587684533,FANN Tool 1.0
+SW,63526587684602,Select Train Data File 
+SW,63526587746414,FANN Tool 1.0
+SW,63526587747156,FannTool.exe
+SW,63526587762135,FANN Tool 1.0
+SW,63526587762151,FannTool.exe
+SW,63526587762241,C:\Users\André\Desktop\fatigueSet.arff - Sublime Text (UNREGISTERED)
+SW,63526587764130,
+SW,63526587765118,FannTool-1.0.zip - fanntool - FannTool-1.0. Source + Windows Executable - Tool for the Fast Artificial Neural Network Library (FANN) - Google Project Hosting - Google Chrome
+SW,63526587977985,Save As
+SW,63526587983453,Save As
+SW,63526587988563,Download - Google Chrome
+SW,63526587994238,Windows protected your PC
+SW,63526587998353,
+SW,63526587998363,Download - Google Chrome
+SW,63526588004649,AgielNN_1.2_Setup.exe is requesting your permission
+SW,63526588004653,algorithm - What Neural Network framework provides the best balance of performance, ease of use, and correctness of results? - Stack Overflow - Google Chrome
+SW,63526588006358,algorithm - What Neural Network framework provides the best balance of performance, ease of use, and correctness of results? - Stack Overflow - Google Chrome
+SW,63526588006897,AgielNN 1.2 Setup
+SW,63526588018917,algorithm - What Neural Network framework provides the best balance of performance, ease of use, and correctness of results? - Stack Overflow - Google Chrome
+SW,63526588046889,AgielNN 1.2 Setup
+SW,63526588050830,Download - Google Chrome
+SW,63526588053459,Agiel Neural Network
+SW,63526588066270,Agiel Neural Network
+SW,63526588075427,Agiel Neural Network
+SW,63526588103414,Select file
+SW,63526588120801,Agiel Neural Network
+SW,63526588152124,Agiel Neural Network
+SW,63526588154050,Agiel Neural Network
+SW,63526588157178,Agiel Neural Network
+SW,63526588160403,Agiel Neural Network
+SW,63526588191079,Select file
+SW,63526588199920,Agiel Neural Network
+SW,63526588209412,Select file
+SW,63526588217319,Agiel Neural Network
+SW,63526588233708,Export Testing Table
+SW,63526588237910,Agiel Neural Network
+SW,63526588274949,Download - Google Chrome
+SW,63526588335820,Start
+SW,63526588335933,Start menu
+SW,63526588349326,
+SW,63526588349329,(1) Facebook - Google Chrome
+SW,63526588360717,
+SW,63526588360842,
+SW,63526588363702,Agiel Neural Network
+SW,63526588366161,Agiel Neural Network
+SW,63526588368912,Agiel Neural Network
+SW,63526588383623,Program Manager
+SW,63526588403714,
+SW,63526588403817,
+SW,63526588412575,Program Manager
+SW,63526588412577,
+SW,63526588415844,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588437509,Agiel Neural Network
+SW,63526588438834,Select file
+SW,63526588444012,Task Switching
+SW,63526588444599,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588446616,Task Switching
+SW,63526588446678,Select file
+SW,63526588453495,Agiel Neural Network
+SW,63526588465459,Select file
+SW,63526588468478,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588471773,Task Switching
+SW,63526588471835,Select file
+SW,63526588501434,Agiel Neural Network
+SW,63526588511854,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588513382,Task Switching
+SW,63526588513457,Agiel Neural Network
+SW,63526588534689,Agiel Neural Network
+SW,63526588546311,Agiel Neural Network
+SW,63526588549234,Select file
+SW,63526588555149,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588591613,Select file
+SW,63526588594325,Agiel Neural Network
+SW,63526588597904,Agiel Neural Network
+SW,63526588608646,Agiel Neural Network
+SW,63526588611932,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588615565,Agiel Neural Network
+SW,63526588615763,Select file
+SW,63526588670481,Agiel Neural Network
+SW,63526588727331,Agielnn Error
+SW,63526588751316,Agiel Neural Network
+SW,63526588762994,AgielNN.exe
+SW,63526588765147,AgielNN.exe
+SW,63526588765930,AgielNN.exe
+SW,63526588766106,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588767429,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588767447,AgielNN.exe
+SW,63526588767545,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526588769194,
+SW,63526588770878,AgroSocial - Google Chrome
+SW,63526588791592,Settings
+SW,63526588793567,algorithm - What Neural Network framework provides the best balance of performance, ease of use, and correctness of results? - Stack Overflow - Google Chrome
+SW,63526588793789,File Explorer
+SW,63526588804284,Information
+SW,63526588806419,Programs and Features
+SW,63526588812373,
+SW,63526588812640,Uninstalling Software
+SW,63526588813474,Uninstalling Software
+SW,63526588813508,
+SW,63526588813721,Uninstalling Software
+SW,63526588813769,Uninstalling Software
+SW,63526588815593,Uninstalling Software
+SW,63526588815615,Programs and Features
+SW,63526588822197,Information
+SW,63526588823141,Programs and Features
+SW,63526588825861,Programs and Features
+SW,63526588826411,Task Manager
+SW,63526588832965,Task Manager
+SW,63526588867715,algorithm - What Neural Network framework provides the best balance of performance, ease of use, and correctness of results? - Stack Overflow - Google Chrome
+SW,63526588880485,Task Manager
+SW,6352658

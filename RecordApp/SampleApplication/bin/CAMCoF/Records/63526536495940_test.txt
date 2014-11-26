@@ -1,0 +1,92 @@
+# user: test #
+SW,63526536496026,https://mail.google.com/mail/ is not available - Google Chrome
+SW,63526536512205,Project
+SW,63526536517401,https://mail.google.com/mail/ is not available - Google Chrome
+SW,63526536535568,
+SW,63526536550688,Adobe Reader Updater
+SW,63526536554013,
+SW,63526536554215,
+SW,63526536555916,Facebook - Google Chrome
+SW,63526536749161,
+SW,63526536750334,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526536756804,Skype
+SW,63526536760103,
+SW,63526536760318,Skype™ - andre.pimenta.53
+SW,63526536776272,
+SW,63526536781394,
+SW,63526536783922,
+SW,63526536788115,RStudio
+SW,63526536788186,RStudio_LaunchWindow_6dd82276-ccc3-4324-839e-4e6bcd5145bd
+SW,63526536794925,RStudio
+SW,63526536795106,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526536796489,Start
+SW,63526536796802,Start menu
+SW,63526536801877,DoubleClickShield
+SW,63526536801898,
+SW,63526536802525,
+SW,63526536824812,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526536824813,NeurophStudio 201306052037
+SW,63526536952734,
+SW,63526536952987,
+SW,63526536958990,C:\Users\André\Desktop\training.csv - Sublime Text (UNREGISTERED)
+SW,63526536974394,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526536976594,Program Manager
+SW,63526536981818,C:\Users\André\Desktop\tes3.csv.arff - Sublime Text (UNREGISTERED)
+SW,63526536989734,Weka Explorer
+SW,63526536990102,Load Instances
+SW,63526537005878,Weka Explorer
+SW,63526537007210,C:\Users\André\Desktop\looool.arff • - Sublime Text (UNREGISTERED)
+SW,63526537008796,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526537013664,Program Manager
+SW,63526537021919,C:\Users\André\Desktop\looool.arff • - Sublime Text (UNREGISTERED)
+SW,63526537139717,NeurophStudio 201306052037
+SW,63526537147171,New Data Set
+SW,63526537161953,
+SW,63526537164910,Open
+SW,63526537181586,
+SW,63526537184470,New Data Set
+SW,63526537188143,NeurophStudio 201306052037
+SW,63526537232330,Set Learning Parameters
+SW,63526537235632,NeurophStudio 201306052037
+SW,63526537319036,Set Learning Parameters
+SW,63526537322327,NeurophStudio 201306052037
+SW,63526537352911,Set Learning Parameters
+SW,63526537355746,NeurophStudio 201306052037
+SW,63526537377389,Set Learning Parameters
+SW,63526537380235,NeurophStudio 201306052037
+SW,63526537394691,Set Learning Parameters
+SW,63526537402416,NeurophStudio 201306052037
+SW,63526537432890,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526537533598,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526539064764,
+SW,63526539068252,
+SW,63526539069345,Skype™ - andre.pimenta.53
+SW,63526539143491,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526539853821,Skype™
+SW,63526539876106,Agrosocial - Google Chrome
+SW,63526540471942,Save As
+SW,63526540476054,Ovelhas - Vila Real - Animais domésticos - Google Chrome
+SW,63526540486777,Save As
+SW,63526540489214,Ovelhas - Vila Real - Animais domésticos - Google Chrome
+SW,63526540491613,
+SW,63526540491849,
+SW,63526540498627,Paint
+SW,63526540498893,Paint
+SW,63526540515887,
+SW,63526540517335,448610343_4x - Paint
+SW,63526540519168,Fotos-de-Ovelhas_448610343_1 - Paint
+SW,63526540548191,
+SW,63526540549513,Fotos-de-Ovelhas_448610343_1 - Paint
+SW,63526540552009,Ovelhas - Vila Real - Animais domésticos - Google Chrome
+SW,63526540625195,The page at teste94.di.uminho.pt says:
+SW,63526540627945,Agrosocial - Google Chrome
+SW,63526540631479,The page at teste94.di.uminho.pt says:
+SW,63526540633291,Agrosocial - Google Chrome
+SW,63526540730656,Open
+SW,63526540739762,Agrosocial - Google Chrome
+SW,63526540742733,Open
+SW,63526540746338,Agrosocial - Google Chrome
+SW,63526540912252,Save As
+SW,63526540916785,Arrenda-se terreno com alvará de exploração agrícola - Adoufe (Vila Real) - Terrenos e Quintas - terrenos agricolas - Google Chrome
+SW,63526540997163,Task Switching
+SW,63526540997215,Fotos-de-Ovelhas

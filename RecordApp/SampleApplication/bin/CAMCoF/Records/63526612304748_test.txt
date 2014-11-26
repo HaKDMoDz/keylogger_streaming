@@ -1,0 +1,97 @@
+# user: test #
+SW,63526612304858,Program Manager
+SW,63526612307393,Weka Explorer
+SW,63526612307815,Load Instances
+SW,63526612316931,Weka Explorer
+SW,63526612319353,Program Manager
+SW,63526612322934,C:\Users\André\Desktop\fatigueSet.arff - Sublime Text (UNREGISTERED)
+SW,63526612326591,Weka Explorer
+SW,63526612327028,Adobe Reader Updater
+SW,63526612328284,Program Manager
+SW,63526612329034,Weka Explorer
+SW,63526612332221,Program Manager
+SW,63526612336831,C:\Users\André\Desktop\neuroTraining.arff - Sublime Text (UNREGISTERED)
+SW,63526612348431,
+SW,63526612349698,Weka Explorer
+SW,63526612351698,Program Manager
+SW,63526612354261,C:\Users\André\Desktop\neuroTraining.arff - Sublime Text (UNREGISTERED)
+SW,63526612356559,Weka Explorer
+SW,63526612361326,Program Manager
+SW,63526612361560,File Explorer
+SW,63526612371656,Program Manager
+SW,63526612373641,This PC
+SW,63526612373797,Weka Explorer
+SW,63526612374751,Program Manager
+SW,63526612376423,Weka Explorer
+SW,63526612379064,Program Manager
+SW,63526612379252,File Explorer
+SW,63526612397020,Untitled - Google Chrome
+SW,63526612399579,Task Switching
+SW,63526612399641,Untitled - Google Chrome
+SW,63526612405508,Recycle Bin
+SW,63526612424953,Progress
+SW,63526612425997,Recycle Bin
+SW,63526612426161,Weka Explorer
+SW,63526612427674,Recycle Bin
+SW,63526612430157,Program Manager
+SW,63526612436775,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526612440712,Weka Explorer
+SW,63526612441027,Load Instances
+SW,63526612445206,Weka Explorer
+SW,63526612445884,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526612448208,
+SW,63526612449240,Recycle Bin
+SW,63526612456810,C:\Users\André\Desktop\fatigueSet - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63526612458287,
+SW,63526612459941,Program Manager
+SW,63526612461749,C:\Users\André\Desktop\looool.arff - Sublime Text (UNREGISTERED)
+SW,63526612463978,
+SW,63526612467053,Program Manager
+SW,63526612468687,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526612536810,
+SW,63526612540318,Program Manager
+SW,63526612550215,Weka Explorer
+SW,63526612564030,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526612587582,
+SW,63526612588754,Weka Explorer
+SW,63526612589393,
+SW,63526612592550,Program Manager
+SW,63526612599460,
+SW,63526612601985,Weka Explorer
+SW,63526612624555,weka.gui.GenericObjectEditor
+SW,63526612630143,Weka Explorer
+SW,63526612634590,Neural Network
+SW,63526612723702,Weka Explorer
+SW,63526612734415,weka.gui.GenericObjectEditor
+SW,63526612762391,Information
+SW,63526612764411,weka.gui.GenericObjectEditor
+SW,63526612773373,Weka Explorer
+SW,63526612774991,Neural Network
+SW,63526612812308,Fábio messaged you - Google Chrome
+SW,63526612976389,Neural Network
+SW,63526612976489,Facebook - Google Chrome
+SW,63526612978762,Weka Explorer
+SW,63526613027667,weka.gui.GenericObjectEditor
+SW,63526613035448,Information
+SW,63526613036990,weka.gui.GenericObjectEditor
+SW,63526613037903,Information about Capabilities
+SW,63526613047422,weka.gui.GenericObjectEditor
+SW,63526613056499,(1) Facebook - Google Chrome
+SW,63526613105285,weka.gui.GenericObjectEditor
+SW,63526613115846,Weka Explorer
+SW,63526613122012,Classifier evaluation options
+SW,63526613141872,Weka Explorer
+SW,63526613153867,weka.gui.GenericObjectEditor
+SW,63526613157520,Weka Explorer
+SW,63526613163349,Welcome to Dominios.PT Support Center - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526613193561,Weka Explorer
+SW,63526613221497,Facebook - Google Chrome
+SW,63526613245050,Weka Explorer
+SW,63526613275986,
+SW,63526613276141,
+SW,63526613283902,C:\Users\André\Desktop\neuro.arff - Sublime Text (UNREGISTERED)
+SW,63526613305359,Redes neuronais && fadiga - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526613315579,Weka Explorer
+SW,63526613323249,Redes neuronais && fadiga - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526613335651,Weka Explorer
+SW,63526613338538,C:\Users\André\Desktop\neuro.

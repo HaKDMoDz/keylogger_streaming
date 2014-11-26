@@ -1,0 +1,907 @@
+# user: test #
+SW,63527620843899,EasySettingsMainDlg
+SW,63527620845759,Dialog
+SW,63527620849505,Adobe Reader Updater
+SW,63527620853273,
+SW,63527620853367,
+SW,63527620854682,Untitled - Google Chrome
+SW,63527620897428,
+SW,63527621147547,
+SW,63527621690214,TexMaker
+SW,63527621691060,Texmaker
+SW,63527621725104,Task Switching
+SW,63527621725163,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621729481,Task Switching
+SW,63527621729540,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621734270,Task Switching
+SW,63527621734338,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621739940,Task Switching
+SW,63527621740015,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621744732,Task Switching
+SW,63527621744774,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621746237,Task Switching
+SW,63527621746290,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621749070,Task Switching
+SW,63527621749134,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621760147,Task Switching
+SW,63527621760207,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621781278,Task Switching
+SW,63527621781353,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621812450,Task Switching
+SW,63527621812492,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621820905,Task Switching
+SW,63527621820963,Google Tradutor - Google Chrome
+SW,63527621822289,Task Switching
+SW,63527621822345,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621822768,Task Switching
+SW,63527621822809,Google Tradutor - Google Chrome
+SW,63527621830382,Task Switching
+SW,63527621830432,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527621834417,Task Switching
+SW,63527621834474,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621862661,File Explorer
+SW,63527621864865,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621950308,Task Switching
+SW,63527621950377,This PC
+SW,63527621951251,Task Switching
+SW,63527621951290,Surpresa de Jardim feita em farrapos - O Jogo - Google Chrome
+SW,63527621953964,This PC
+SW,63527621980932,Task Switching
+SW,63527621980976,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527621981453,Task Switching
+SW,63527621981505,This PC
+SW,63527622019291,
+SW,63527622019377,ECRC-Author-Instructions-and-tools-LaTeX
+SW,63527622019935,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527622094368,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527622094372,ECRC-Author-Instructions-and-tools-LaTeX
+SW,63527622097092,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622106042,Texmaker : pdf preview
+SW,63527622126547,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622148986,review_cc.pdf
+SW,63527622159682,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622197117,review_cc.pdf
+SW,63527622197201,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622197208,review_cc.pdf
+SW,63527622218578,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622246600,review_cc.pdf
+SW,63527622246671,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622246680,review_cc.pdf
+SW,63527622263417,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622272479,review_cc.pdf
+SW,63527622272559,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622272569,review_cc.pdf
+SW,63527622276728,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622492404,review_cc.pdf
+SW,63527622492491,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622492502,review_cc.pdf
+SW,63527622497705,Task Switching
+SW,63527622497793,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622499537,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527622507295,Task Switching
+SW,63527622507360,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622510543,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527622530083,Task Switching
+SW,63527622530134,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622533734,Task Switching
+SW,63527622533808,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527622534439,Task Switching
+SW,63527622535004,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527622563768,
+SW,63527622565634,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622605607,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527622610528,review_cc.pdf
+SW,63527622636895,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527622669968,review_cc.pdf
+SW,63527622678176,Google Tradutor - Google Chrome
+SW,63527622679343,review_cc.pdf
+SW,63527622684064,Google Tradutor - Google Chrome
+SW,63527622712847,
+SW,63527622713817,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622721997,Task Switching
+SW,63527622722038,Google Tradutor - Google Chrome
+SW,63527622726173,Task Switching
+SW,63527622726234,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622727045,Task Switching
+SW,63527622727085,Google Tradutor - Google Chrome
+SW,63527622731047,review_cc.pdf
+SW,63527622732967,Google Tradutor - Google Chrome
+SW,63527622756057,Task Switching
+SW,63527622756130,review_cc.pdf
+SW,63527622756824,Task Switching
+SW,63527622756922,Google Tradutor - Google Chrome
+SW,63527622757478,Task Switching
+SW,63527622757552,review_cc.pdf
+SW,63527622758997,
+SW,63527622760023,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622763572,Task Switching
+SW,63527622763712,review_cc.pdf
+SW,63527622764313,Task Switching
+SW,63527622764834,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527622765415,Task Switching
+SW,63527622765853,Google Tradutor - Google Chrome
+SW,63527623005926,Task Switching
+SW,63527623006002,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527623009152,Task Switching
+SW,63527623009210,Google Tradutor - Google Chrome
+SW,63527623109022,Task Switching
+SW,63527623109088,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527623119412,review_cc.pdf
+SW,63527623119505,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527623119513,review_cc.pdf
+SW,63527623145439,Task Switching
+SW,63527623145520,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527623146867,Google Tradutor - Google Chrome
+SW,63527623300163,review_cc.pdf
+SW,63527623332037,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527623797846,review_cc.pdf
+SW,63527623837224,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527623886582,review_cc.pdf
+SW,63527624044509,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527624483522,review_cc.pdf
+SW,63527624485729,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527624593002,
+SW,63527624593602,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624637629,review_cc.pdf
+SW,63527624637703,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624637712,review_cc.pdf
+SW,63527624657622,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624660537,Task Switching
+SW,63527624660662,review_cc.pdf
+SW,63527624661058,Task Switching
+SW,63527624661135,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624661582,Task Switching
+SW,63527624662139,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527624694647,review_cc.pdf
+SW,63527624701981,
+SW,63527624702496,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624711399,review_cc.pdf
+SW,63527624780022,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624786579,review_cc.pdf
+SW,63527624786651,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624786659,review_cc.pdf
+SW,63527624792383,Task Switching
+SW,63527624792451,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624816500,Task Switching
+SW,63527624816621,review_cc.pdf
+SW,63527624817071,Task Switching
+SW,63527624817147,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527624817573,Task Switching
+SW,63527624817995,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527624825902,review_cc.pdf
+SW,63527624904151,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527624930885,review_cc.pdf
+SW,63527624937407,Reunião semanal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527625006501,review_cc.pdf
+SW,63527625016077,ECRC-Author-Instructions-and-tools-LaTeX
+SW,63527625017120,ECRC-Author-Instructions-and-tools-LaTeX
+SW,63527625017166,review_cc.pdf
+SW,63527625027245,
+SW,63527625028326,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527625072152,review_cc.pdf
+SW,63527625072238,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527625072247,review_cc.pdf
+SW,63527625103452,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527625523224,
+SW,63527625526105,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527625527440,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527625630528,review_cc.pdf
+SW,63527625663224,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527626187088,review_cc.pdf
+SW,63527626190376,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527626252993,Save As
+SW,63527626255869,Reviews and Comments on Paper 12 - Google Chrome
+SW,63527626280662,
+SW,63527626280698,Reviews and Comments on Paper 12 - Google Chrome
+SW,63527626280761,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527626281053,uminhophdeng1_submission_12.pdf - Adobe Reader
+SW,63527626341324,Reviews and Comments on Paper 12 - Google Chrome
+SW,63527626698413,
+SW,63527626699499,uminhophdeng1_submission_12.pdf - Adobe Reader
+SW,63527626735241,
+SW,63527626736476,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527626768464,ECRC-Author-Instructions-and-tools-LaTeX
+SW,63527626838854,
+SW,63527626838992,Comuciacao_Cientifica
+SW,63527626839063,uminhophdeng1_submission_12.pdf - Adobe Reader
+SW,63527626839627,pesquisa.pdf - Adobe Reader
+SW,63527626933353,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527626957538,Task Switching
+SW,63527626957627,pesquisa.pdf - Adobe Reader
+SW,63527626962475,Task Switching
+SW,63527626962534,Google Tradutor - Google Chrome
+SW,63527627146398,
+SW,63527627146832,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627157694,Task Switching
+SW,63527627157767,Google Tradutor - Google Chrome
+SW,63527627299200,Task Switching
+SW,63527627299296,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627311925,review_cc.pdf
+SW,63527627312014,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627312023,review_cc.pdf
+SW,63527627381838,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627383357,Google Tradutor - Google Chrome
+SW,63527627461291,Task Switching
+SW,63527627461364,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627510803,review_cc.pdf
+SW,63527627510894,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627510903,review_cc.pdf
+SW,63527627511429,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627533343,review_cc.pdf
+SW,63527627533443,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627533451,review_cc.pdf
+SW,63527627534256,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627548577,review_cc.pdf
+SW,63527627548675,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627548682,review_cc.pdf
+SW,63527627586557,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527627680083,review_cc.pdf
+SW,63527627735854,UMinhoPhDEng1 Submission 7 - Google Chrome
+SW,63527627898514,review_cc.pdf
+SW,63527627905313,
+SW,63527627906332,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627922855,review_cc.pdf
+SW,63527627922930,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627922937,review_cc.pdf
+SW,63527627943384,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527627945426,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527627964062,Open
+SW,63527627981647,Submit a New Version - Google Chrome
+SW,63527628197545,Comuciacao_Cientifica
+SW,63527628200433,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527628339927,
+SW,63527628340132,
+SW,63527628343885,Progress
+SW,63527628345261,
+SW,63527628378272,File Explorer
+SW,63527628383661,User Interaction Capturer - ISLab
+SW,63527628385130,Release
+SW,63527628385941,User Interaction Capturer - ISLab
+SW,63527628388537,
+SW,63527628389171,Opening - TexMaker
+SW,63527628390011,PowerPoint
+SW,63527628400678,Cedric diz… - Google Chrome
+SW,63527628490507,PowerPoint
+SW,63527628506213,Comuciacao_Cientifica
+SW,63527628517150,PowerPoint
+SW,63527628559447,Analysis and Monitoring of Mental Fatigue - PowerPoint
+SW,63527628559484,Presentations
+SW,63527628582552,PowerPoint
+SW,63527628589781,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527628597771,review_cc.pdf
+SW,63527628597856,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527628597865,review_cc.pdf
+SW,63527628609603,
+SW,63527628610278,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527628610283,
+SW,63527628610892,Presentations
+SW,63527628612698,Presentations
+SW,63527628612751,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527628615108,
+SW,63527628615301,Jump List
+SW,63527628617360,File Explorer
+SW,63527628632308,
+SW,63527628632406,latex
+SW,63527628632532,pesquisa.pdf - Adobe Reader
+SW,63527628632798,review_cc.pdf - Adobe Reader
+SW,63527628638345,Adobe Reader
+SW,63527628639995,review_cc.pdf - Adobe Reader
+SW,63527628641705,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527628651230,Task Switching
+SW,63527628651293,review_cc.pdf - Adobe Reader
+SW,63527628651866,Task Switching
+SW,63527628651931,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527628653493,
+SW,63527628655278,Presentation1 - PowerPoint
+SW,63527628682060,Cedric diz… - Google Chrome
+SW,63527628706220,Presentation1 - PowerPoint
+SW,63527628719773,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527628776988,Presentation1 - PowerPoint
+SW,63527628814978,Task Switching
+SW,63527628815043,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527628817531,Presentation1 - PowerPoint
+SW,63527628831527,
+SW,63527628832629,Presentation1 - PowerPoint
+SW,63527628835714,User Interaction Capturer - ISLab
+SW,63527628838705,Presentation1 - PowerPoint
+SW,63527628839916,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527628881026,Presentation1 - PowerPoint
+SW,63527628948792,User Interaction Capturer - ISLab
+SW,63527628950242,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527629018103,User Interaction Capturer - ISLab
+SW,63527629018215,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527629018872,Presentation1 - PowerPoint
+SW,63527629019786,
+SW,63527629021183,Presentation1 - PowerPoint
+SW,63527629023332,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527629088783,User Interaction Capturer - ISLab
+SW,63527629093633,C:\Windows\System32\java.exe
+SW,63527629096173,User Interaction Capturer - ISLab
+SW,63527629096298,C:\Windows\System32\java.exe
+SW,63527629096890,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527629850713,User Interaction Capturer - ISLab
+SW,63527629852977,C:\Windows\System32\java.exe
+SW,63527629858346,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527629863533,resubmission of UMinhoPhDEng1 paper 7 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527629863555,C:\Windows\System32\java.exe
+SW,63527629864561,review_cc.pdf - Adobe Reader
+SW,63527630397270,C:\Windows\System32\java.exe
+SW,63527630426655,User Interaction Capturer - ISLab
+SW,63527630440960,C:\Windows\System32\java.exe
+SW,63527630441822,Envio das revisões - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527630672859,C:\Windows\System32\java.exe
+SW,63527630675339,User Interaction Capturer - ISLab
+SW,63527630698590,SSD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527630776114,C:\Windows\System32\java.exe
+SW,63527630777491,User Interaction Capturer - ISLab
+SW,63527630779699,SSD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527630866346,C:\Windows\System32\java.exe
+SW,63527630882994,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527630954040,C:\Windows\System32\java.exe
+SW,63527630955018,User Interaction Capturer - ISLab
+SW,63527630959450,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527631139619,Task Switching
+SW,63527631139702,User Interaction Capturer - ISLab
+SW,63527631140310,Task Switching
+SW,63527631140339,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527631144450,Task Switching
+SW,63527631144508,User Interaction Capturer - ISLab
+SW,63527631145251,Task Switching
+SW,63527631145851,C:\Windows\System32\java.exe
+SW,63527631146410,Task Switching
+SW,63527631146479,User Interaction Capturer - ISLab
+SW,63527631147619,SSD - Google Chrome
+SW,63527631152338,Task Switching
+SW,63527631152399,User Interaction Capturer - ISLab
+SW,63527631153138,Task Switching
+SW,63527631153513,C:\Windows\System32\java.exe
+SW,63527631153986,Task Switching
+SW,63527631154034,User Interaction Capturer - ISLab
+SW,63527631155192,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527631156151,Task Switching
+SW,63527631156212,User Interaction Capturer - ISLab
+SW,63527631159480,SSD - Google Chrome
+SW,63527631316094,C:\Windows\System32\java.exe
+SW,63527631319134,User Interaction Capturer - ISLab
+SW,63527631323775,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527631330421,Facebook - Google Chrome
+SW,63527637647161,User Interaction Capturer - ISLab
+SW,63527637648220,C:\Windows\System32\java.exe
+SW,63527637649986,Probabilistic Logic - Google Chrome
+SW,63527637662855,Save As
+SW,63527637671161,Refinement by interpretation in Observational Logic - Google Chrome
+SW,63527637676070,
+SW,63527637676105,Refinement by interpretation in Observational Logic - Google Chrome
+SW,63527637676193,review_cc.pdf - Adobe Reader
+SW,63527637676632,Refine11Final.pdf - Adobe Reader
+SW,63527637718124,review_cc.pdf - Adobe Reader
+SW,63527637720000,Refinement by interpretation in Observational Logic - Google Chrome
+SW,63527637934267,Save As
+SW,63527637946269,
+SW,63527637946477,Save As
+SW,63527637946481,
+SW,63527637948272,Save As
+SW,63527637948394,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527637949423,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527637949443,review_cc.pdf - Adobe Reader
+SW,63527637979643,
+SW,63527637980115,Microsoft Word
+SW,63527637982527,Word
+SW,63527637983812,Opening - Word
+SW,63527637985189,
+SW,63527637985191,
+SW,63527637985196,
+SW,63527637985199,
+SW,63527637985203,
+SW,63527637985205,
+SW,63527637985428,biosketch-pegojm (Protected View) - Word
+SW,63527637989062,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527638001173,Microsoft Word
+SW,63527638002410,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527638032406,Microsoft Word
+SW,63527638033410,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527638033953,Microsoft Word
+SW,63527638038114,Word
+SW,63527638038341,biosketch - Pesquisa do Google - Google Chrome
+SW,63527638042938,
+SW,63527638043292,
+SW,63527638049741,
+SW,63527638050183,Word
+SW,63527638056701,Microsoft Word
+SW,63527638059634,Word
+SW,63527638059781,latex
+SW,63527638060581,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527638063024,Save As
+SW,63527638066090,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527638068388,
+SW,63527638068847,Word
+SW,63527638081417,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638250645,Task Switching
+SW,63527638250725,Cedric diz… - Google Chrome
+SW,63527638286598,Task Switching
+SW,63527638286666,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638293003,
+SW,63527638295583,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638300686,
+SW,63527638302365,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638314147,Task Switching
+SW,63527638314243,André Pimenta Ribeiro - Google Chrome
+SW,63527638315384,Task Switching
+SW,63527638315466,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638324432,Task Switching
+SW,63527638324565,André Pimenta Ribeiro - Google Chrome
+SW,63527638327579,Task Switching
+SW,63527638327650,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638368751,Task Switching
+SW,63527638368837,André Pimenta Ribeiro - Google Chrome
+SW,63527638371750,Task Switching
+SW,63527638371827,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638400470,Task Switching
+SW,63527638400559,André Pimenta Ribeiro - Google Chrome
+SW,63527638410193,Task Switching
+SW,63527638410276,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638425808,Task Switching
+SW,63527638425896,New Tab - Google Chrome
+SW,63527638453201,Task Switching
+SW,63527638453278,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638462034,Task Switching
+SW,63527638462125,André Pimenta Ribeiro - Google Chrome
+SW,63527638499909,Task Switching
+SW,63527638499981,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638504614,Task Switching
+SW,63527638504693,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527638506063,Task Switching
+SW,63527638506134,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638527100,Task Switching
+SW,63527638527193,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527638528013,Task Switching
+SW,63527638528086,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638528509,Task Switching
+SW,63527638528548,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638529224,Task Switching
+SW,63527638529294,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527638533745,Task Switching
+SW,63527638533826,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638613237,
+SW,63527638614169,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638624629,Task Switching
+SW,63527638624699,André Pimenta Ribeiro - Google Chrome
+SW,63527638632008,Task Switching
+SW,63527638632084,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638653769,
+SW,63527638655278,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638758346,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527638768142,Task Switching
+SW,63527638768224,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638771044,Task Switching
+SW,63527638771129,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527638774486,Task Switching
+SW,63527638774569,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638781242,Program Manager
+SW,63527638783154,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527638929607,Task Switching
+SW,63527638929679,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527638931064,André Pimenta Ribeiro - Google Chrome
+SW,63527638951089,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639014647,CAMCoF - Google Chrome
+SW,63527639030468,Task Switching
+SW,63527639030558,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639036160,Google Tradutor - Google Chrome
+SW,63527639042560,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639159030,CAMCoF - Google Chrome
+SW,63527639161181,
+SW,63527639164439,Presentations
+SW,63527639176140,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639176485,Word
+SW,63527639228652,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639282781,Task Switching
+SW,63527639282897,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527639290177,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639321964,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527639373895,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639380877,Task Switching
+SW,63527639380945,André Pimenta Ribeiro - Google Chrome
+SW,63527639383061,
+SW,63527639387261,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639435197,André Pimenta Ribeiro - Google Chrome
+SW,63527639442341,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639453413,Tiago Oliveira - Academic - Google Chrome
+SW,63527639477069,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639526892,Fábio Silva - Google Chrome
+SW,63527639531707,
+SW,63527639534454,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639540235,
+SW,63527639540366,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639542092,
+SW,63527639547355,
+SW,63527639547650,
+SW,63527639550071,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639550570,Word
+SW,63527639574384,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639612593,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527639615882,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639716296,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527639718523,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639787128,
+SW,63527639789169,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639792724,Task Switching
+SW,63527639792770,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639793307,Task Switching
+SW,63527639793402,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527639803822,SampleApplication
+SW,63527639825673,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527639825683,SampleApplication
+SW,63527639825797,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527639869506,
+SW,63527639871504,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639876227,Task Switching
+SW,63527639876265,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527639878559,Task Switching
+SW,63527639878656,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527639888696,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527639916223,
+SW,63527639917523,CV
+SW,63527639919446,Task Switching
+SW,63527639919535,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527639971494,Task Switching
+SW,63527639971587,CV
+SW,63527639972406,Task Switching
+SW,63527639972498,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527640028564,
+SW,63527640030242,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640038674,Task Switching
+SW,63527640038760,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527640040149,Google Tradutor - Google Chrome
+SW,63527640063281,Task Switching
+SW,63527640063303,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527640064431,Task Switching
+SW,63527640064525,IS Lab - Google Chrome
+SW,63527640064973,Task Switching
+SW,63527640065526,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640068061,Task Switching
+SW,63527640068142,IS Lab - Google Chrome
+SW,63527640069312,Task Switching
+SW,63527640069382,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640070485,Task Switching
+SW,63527640070570,IS Lab - Google Chrome
+SW,63527640071350,Task Switching
+SW,63527640071432,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640074041,Task Switching
+SW,63527640074128,IS Lab - Google Chrome
+SW,63527640077281,Task Switching
+SW,63527640077355,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640082065,Task Switching
+SW,63527640082152,IS Lab - Google Chrome
+SW,63527640084279,Task Switching
+SW,63527640084353,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640085820,Task Switching
+SW,63527640085907,IS Lab - Google Chrome
+SW,63527640102262,Task Switching
+SW,63527640102355,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640102853,Task Switching
+SW,63527640102955,IS Lab - Google Chrome
+SW,63527640109452,Task Switching
+SW,63527640109520,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640114848,Task Switching
+SW,63527640114924,IS Lab - Google Chrome
+SW,63527640118350,Task Switching
+SW,63527640118449,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640124624,Task Switching
+SW,63527640124699,IS Lab - Google Chrome
+SW,63527640161332,Task Switching
+SW,63527640161401,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640163382,human behaviours - Pesquisa do Google - Google Chrome
+SW,63527640191482,
+SW,63527640193506,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527640197821,EDITAL: Concurso para 1 Bolsa de Pós-Doutoramento - Refª BBP1-2014_PTDC/EEI-SII/1386/2012_UMINHO - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527640199329,
+SW,63527640203848,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640218025,
+SW,63527640218931,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640242095,
+SW,63527640243966,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527640265449,Task Switching
+SW,63527640265545,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640300047,Task Switching
+SW,63527640300136,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527640303215,Task Switching
+SW,63527640303309,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640330122,Task Switching
+SW,63527640330214,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527640340173,Task Switching
+SW,63527640340256,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640380894,Task Switching
+SW,63527640380985,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527640382594,
+SW,63527640385519,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527640387979,Task Switching
+SW,63527640388022,biosketch-pegojm [Compatibility Mode] - Word
+SW,63527640388804,Task Switching
+SW,63527640388891,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527640391108,EDITAL: Concurso para 1 Bolsa de Pós-Doutoramento - Refª BBP1-2014_PTDC/EEI-SII/1386/2012_UMINHO - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527640393543,
+SW,63527640402158,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640472932,
+SW,63527640474505,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640524547,EDITAL: Concurso para 1 Bolsa de Pós-Doutoramento - Refª BBP1-2014_PTDC/EEI-SII/1386/2012_UMINHO - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527640535768,Task Switching
+SW,63527640535834,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640539397,Task Switching
+SW,63527640539476,eRA - Pesquisa do Google - Google Chrome
+SW,63527640554977,Task Switching
+SW,63527640555052,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640602005,Save As
+SW,63527640626478,biosketch-pegojm (1) [Compatibility Mode] - Word
+SW,63527640650595,
+SW,63527640653066,biosketch-apimenta [Compatibility Mode] - Word
+SW,63527640678368,Task Switching
+SW,63527640678446,eRA COMMONS USER NAME - Pesquisa do Google - Google Chrome
+SW,63527640728856,Open
+SW,63527640759863,CV - Escola Saúde - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527640908448,
+SW,63527640912928,Facebook - Google Chrome
+SW,63527640914562,Skype
+SW,63527640916994,
+SW,63527640917196,Skype™ - andre.pimenta.53
+SW,63527640928758,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527641050463,
+SW,63527641053110,
+SW,63527641053362,Skype™ [1] - andre.pimenta.53
+SW,63527641061918,
+SW,63527641067840,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527641316579,
+SW,63527641319671,Analysis and Monitoring of Mental Fatigue - PowerPoint
+SW,63527641337787,
+SW,63527641338312,Presentation1 - PowerPoint
+SW,63527641345478,
+SW,63527641348089,Presentation1 - PowerPoint
+SW,63527641348207,
+SW,63527641350230,latex
+SW,63527641351918,
+SW,63527641353255,review_cc.pdf - Adobe Reader
+SW,63527641371281,Presentation1 - PowerPoint
+SW,63527641382768,Task Switching
+SW,63527641382821,Presentation1 - PowerPoint
+SW,63527641384077,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527641447047,
+SW,63527641451110,pesquisa.pdf - Adobe Reader
+SW,63527641453216,
+SW,63527641453950,uminhophdeng1_submission_12.pdf - Adobe Reader
+SW,63527641455598,
+SW,63527641456236,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527641457581,
+SW,63527641458758,review_cc.pdf - Adobe Reader
+SW,63527641472143,Adobe Reader
+SW,63527641474215,review_cc.pdf - Adobe Reader
+SW,63527641475453,Presentation1 - PowerPoint
+SW,63527641504524,review_cc.pdf - Adobe Reader
+SW,63527641516436,Adobe Reader
+SW,63527641518510,review_cc.pdf - Adobe Reader
+SW,63527641520108,Presentation1 - PowerPoint
+SW,63527641533404,review_cc.pdf - Adobe Reader
+SW,63527641536469,Presentation1 - PowerPoint
+SW,63527641556383,review_cc.pdf - Adobe Reader
+SW,63527641561910,Presentation1 - PowerPoint
+SW,63527641593279,review_cc.pdf - Adobe Reader
+SW,63527641599750,Presentation1 - PowerPoint
+SW,63527641620179,
+SW,63527641621460,Presentation1 - PowerPoint
+SW,63527641648223,Task Switching
+SW,63527641648303,review_cc.pdf - Adobe Reader
+SW,63527641649851,Presentation1 - PowerPoint
+SW,63527641753548,Save As
+SW,63527641771263,Save As
+SW,63527641772880,Save As
+SW,63527641778000,Save As
+SW,63527641780808,Save As
+SW,63527641787465,Presentation1 - PowerPoint
+SW,63527641826585,CCPD 2013: Apresentação - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527642709328,
+SW,63527642711268,latex
+SW,63527642744853,
+SW,63527642745004,Referencias
+SW,63527642745217,review_cc.pdf - Adobe Reader
+SW,63527642745582,JNeves-Asphalt_Pavement_Modeling_versao_2.pdf - Adobe Reader
+SW,63527642770159,review_cc.pdf - Adobe Reader
+SW,63527642770871,Task Switching
+SW,63527642770952,Referencias
+SW,63527642773208,Facebook - Google Chrome
+SW,63527642778066,Open
+SW,63527642792700,(1) Facebook - Google Chrome
+SW,63527642803862,Open
+SW,63527642821884,Daniel Araújo - Messages - Google Chrome
+SW,63527642826093,Task Switching
+SW,63527642826153,Referencias
+SW,63527642828074,
+SW,63527642833091,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527642833515,Task Switching
+SW,63527642833587,Referencias
+SW,63527642835215,
+SW,63527642835950,Referencias
+SW,63527642837108,
+SW,63527642837264,Referencias
+SW,63527642837425,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527642837701,JNeves-Asphalt_Pavement_Modeling_versao_2.pdf - Adobe Reader
+SW,63527642843941,Task Switching
+SW,63527642844017,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527642845481,Daniel Araújo - Messages - Google Chrome
+SW,63527642864532,Open
+SW,63527642868729,Daniel Araújo - Messages - Google Chrome
+SW,63527642884104,Save As
+SW,63527642886871,Daniel Araújo - Messages - Google Chrome
+SW,63527643014464,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527643014491,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527643246462,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527643246661,Google Tradutor - Google Chrome
+SW,63527643249499,
+SW,63527643250159,
+SW,63527643250750,Visio Professional
+SW,63527643257477,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643265182,Google Tradutor - Google Chrome
+SW,63527643304131,Task Switching
+SW,63527643304200,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643438324,
+SW,63527643439237,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643495416,
+SW,63527643496188,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643508621,Task Switching
+SW,63527643508702,Your Profile | LinkedIn - Google Chrome
+SW,63527643514771,Task Switching
+SW,63527643514793,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643515351,Task Switching
+SW,63527643515426,Your Profile | LinkedIn - Google Chrome
+SW,63527643517601,Task Switching
+SW,63527643517663,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643528081,Task Switching
+SW,63527643528152,Facebook - Google Chrome
+SW,63527643548838,Task Switching
+SW,63527643548906,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643555908,Task Switching
+SW,63527643555983,Your Profile | LinkedIn - Google Chrome
+SW,63527643558578,
+SW,63527643559604,CV
+SW,63527643562042,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643562237,Word
+SW,63527643570960,Task Switching
+SW,63527643571035,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643665276,Save As
+SW,63527643675284,Microsoft Word
+SW,63527643676552,Save As
+SW,63527643676635,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643678741,
+SW,63527643678962,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527643679332,Europass-CV-20130801-PimentaRibeiro-EN.pdf - Adobe Reader
+SW,63527643683165,ios-book-article_LaTeX_Instructions.pdf - Adobe Reader
+SW,63527643684559,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643686958,Microsoft Word
+SW,63527643691503,Europass-CV-20130801-PimentaRibeiro-EN [Compatibility Mode] - Word
+SW,63527643692082,biosketch-apimenta [Compatibility Mode] - Word
+SW,63527643694287,Microsoft Word
+SW,63527643695670,Word
+SW,63527643696065,curriculum
+SW,63527643699216,Your Profile | LinkedIn - Google Chrome
+SW,63527643768495,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527643862172,Drawing1 - Visio Professional
+SW,63527643872081,Business Process Model and Notation - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527644002994,Drawing1 - Visio Professional
+SW,63527644051329,bpmn - Pesquisa do Google - Google Chrome
+SW,63527644214242,Drawing1 - Visio Professional
+SW,63527644231207,Business Process Model and Notation - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527644463492,Drawing1 - Visio Professional
+SW,63527644469088,Task Switching
+SW,63527644469164,bpmn - Pesquisa do Google - Google Chrome
+SW,63527644571540,Drawing1 - Visio Professional
+SW,63527644587266,Task Switching
+SW,63527644587314,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527644593782,Drawing1 - Visio Professional
+SW,63527644751892,Business Process Model and Notation - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527644760268,Drawing1 - Visio Professional
+SW,63527644824663,Task Switching
+SW,63527644824752,Google Tradutor - Google Chrome
+SW,63527644825385,Task Switching
+SW,63527644825469,Drawing1 - Visio Professional
+SW,63527644826394,Google Tradutor - Google Chrome
+SW,63527644886901,Drawing1 - Visio Professional
+SW,63527644957338,bpmn - Pesquisa do Google - Google Chrome
+SW,63527644975142,
+SW,63527644988382,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527644988389,
+SW,63527645013179,Drawing1 - Visio Professional
+SW,63527645016257,Task Switching
+SW,63527645016319,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527645126826,Drawing1 - Visio Professional
+SW,63527645137911,Task Switching
+SW,63527645137977,File:BPMN-DiscussionCycle.jpg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527645138663,Task Switching
+SW,63527645138726,Drawing1 - Visio Professional
+SW,63527645139544,File:BPMN-DiscussionCycle.jpg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527645444391,Drawing1 - Visio Professional
+SW,63527645460510,Google Tradutor - Google Chrome
+SW,63527645565854,Drawing1 - Visio Professional
+SW,63527645663475,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527645680204,Drawing1 - Visio Professional
+SW,63527645873994,Google Tradutor - Google Chrome
+SW,63527645883792,Drawing1 - Visio Professional
+SW,63527646225640,Google Tradutor - Google Chrome
+SW,63527646260334,Drawing1 - Visio Professional
+SW,63527646287191,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527646314975,Drawing1 - Visio Professional
+SW,63527646318576,
+SW,63527646320232,curriculum
+SW,63527646346010,Drawing1 - Visio Professional
+SW,63527646347253,File:BPMN-DiscussionCycle.jpg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527646347319,Drawing1 - Visio Professional
+SW,63527646348439,Referencias
+SW,63527646348587,Drawing1 - Visio Professional
+SW,63527646349952,Analysis and Monitoring of Mental Fatigue - PowerPoint
+SW,63527646350160,Drawing1 - Visio Professional
+SW,63527646351468,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527646351638,Drawing1 - Visio Professional
+SW,63527646352500,Program Manager
+SW,63527646354323,Task Switching
+SW,63527646354375,Drawing1 - Visio Professional
+SW,63527646355728,
+SW,63527646356696,Data (E:)
+SW,63527646364445,Progress
+SW,63527646364786,Check For Updates
+SW,63527646365777,Update Finished!
+SW,63527646377314,Workspace
+SW,63527646392996,
+SW,63527646393109,Fatigue
+SW,63527646393767,Speech-Based Five Features Extraction and Hardware Trade-Off Design for Mental Fatigue Monitoring - Adobe Reader
+SW,63527646403824,Fatigue
+SW,63527646415507,
+SW,63527646416056,Word
+SW,63527646423958,Braga_26_12_2013
+SW,63527646470247,File:BPMN-DiscussionCycle.jpg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527646487724,Task Switching
+SW,63527646487768,SVN
+SW,63527646548105,Drawing1 - Visio Professional
+SW,63527647665714,Drawing1 - Visio Professional
+SW,63527647675994,Save As
+SW,63527647696866,Google Tradutor - Google Chrome
+SW,63527647716818,Save As
+SW,63527647728125,Drawing1 - Visio Professional
+SW,63527647729155,PNG Output Options
+SW,63527647731067,Drawing1 - Visio Professional
+SW,63527647740509,Microsoft Visio
+SW,63527647741206,Drawing1 - Visio Professional
+SW,63527647741616,Microsoft Visio
+SW,63527647741662,Drawing1 - Visio Professional (Not Responding)
+SW,63527647742804,Microsoft Visio
+SW,63527647742838,Drawing1 - Visio Professional (Not Responding)
+SW,63527647743842,Google Tradutor - Google Chrome
+SW,63527647743852,Drawing1 - Visio Professional
+SW,63527647745255,Save As
+SW,63527647747051,Drawing1 - Visio Professional
+SW,63527647750694,Save As
+SW,63527647763950,Drawing1 - Visio Professional
+SW,63527647767112,Google Tradutor - Google Chrome
+SW,63527647768565,
+SW,63527647769890,IMAGES
+SW,63527647771134,
+SW,63527647771673,Referencias
+SW,63527647774263,Task Switching
+SW,63527647774305,IMAGES
+SW,63527647785552,
+SW,63527647785652,database-architecture
+SW,63527647786288,camcof-db.pdf - Adobe Reader
+SW,63527647791815,database-architecture
+SW,63527647836778,Commit
+SW,63527647895204,Workspace
+SW,63527647895334,Progress
+SW,63527647899918,Workspace
+SW,63527647934023,Commit
+SW,63527647947740,Workspace
+SW,63527647947874,Progress
+SW,63527647951417,Workspace
+SW,63527647957812,Photos
+SW,63527647959030,Photos
+SW,63527647963474,
+SW,63527647963494,BPMN
+SW,63527647965560,Google Tradutor - Google Chrome
+SW,63527648019763,
+SW,63527648020904,CAMCoF - Wall - Google Chrome
+SW,63527648022424,The page at https://freedcamp.com says:
+SW,63527648025201,CAMCoF - Wall - Google Chrome
+SW,6352764

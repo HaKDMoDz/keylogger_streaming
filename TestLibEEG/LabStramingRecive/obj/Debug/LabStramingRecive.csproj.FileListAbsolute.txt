@@ -1,0 +1,6 @@
+E:\Workspace\Tests\TestLibEEG\LabStramingRecive\bin\Debug\LabStramingRecive.exe.config
+E:\Workspace\Tests\TestLibEEG\LabStramingRecive\bin\Debug\LabStramingRecive.exe
+E:\Workspace\Tests\TestLibEEG\LabStramingRecive\bin\Debug\LabStramingRecive.pdb
+E:\Workspace\Tests\TestLibEEG\LabStramingRecive\obj\Debug\LabStramingRecive.csprojResolveAssemblyReference.cache
+E:\Workspace\Tests\TestLibEEG\LabStramingRecive\obj\Debug\LabStramingRecive.exe
+E:\Workspace\Tests\TestLibEEG\LabStramingRecive\obj\Debug\LabStramingRecive.pdb

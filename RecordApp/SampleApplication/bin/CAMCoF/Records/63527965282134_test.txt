@@ -1,0 +1,457 @@
+# user: test #
+SW,63527965284510,Sign in
+SW,63527965299080,
+SW,63527965299088,Networks
+SW,63527965303565,
+SW,63527965304851,http://www.google.com/ is not available - Google Chrome
+SW,63527965325004,
+SW,63527965456050,File Explorer
+SW,63527965477244,
+SW,63527965477314,Presentations
+SW,63527965480485,Detecting and Monitoring Fatigue A review.pdf - Adobe Reader
+SW,63527965528761,Updates & Announcements - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527965568163,
+SW,63527965692656,Detecting and Monitoring Fatigue A review.pdf - Adobe Reader
+SW,63527965717876,Updates & Announcements - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527966214827,Detecting and Monitoring Fatigue A review.pdf - Adobe Reader
+SW,63527966427261,1º UMinho PhD Engineering Winter Symposium - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527967941309,Detecting and Monitoring Fatigue A review.pdf - Adobe Reader
+SW,63527975326072,Detecting and Monitoring Fatigue A review.pdf - Adobe Reader
+SW,63527975328053,1º UMinho PhD Engineering Winter Symposium - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527975342328,Presentations
+SW,63527975360686,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527975587030,Descrição geral do público-alvo - Google Analytics - Google Chrome
+SW,63527975661645,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527975676690,
+SW,63527975678271,InputReport
+SW,63527975696005,C:\WINDOWS\System32\cmd.exe
+SW,63527975696766,InputReport
+SW,63527975699373,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527975788523,Start
+SW,63527975788653,Start menu
+SW,63527975804220,DoubleClickShield
+SW,63527975804240,
+SW,63527975804309,Weka 3.6
+SW,63527975804811,Facebook - Google Chrome
+SW,63527975811424,Project
+SW,63527975815806,Weka GUI Chooser
+SW,63527975815895,Facebook - Google Chrome
+SW,63527975818197,Project
+SW,63527975820530,Facebook - Google Chrome
+SW,63527975825911,Weka Explorer
+SW,63527975827614,Open
+SW,63527975842848,Weka Explorer
+SW,63527975882572,Save
+SW,63527975891113,Weka Explorer
+SW,63527975893340,(1) Facebook - Google Chrome
+SW,63527976032673,InputReport
+SW,63527976050433,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527976050858,Eclipse
+SW,63527976082922,Eclipse
+SW,63527976084969,Facebook - Google Chrome
+SW,63527976106404,Java - Eclipse
+SW,63527976123320,Java - Eclipse
+SW,63527976134754,Save and Launch
+SW,63527976137043,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527976181872,Facebook - Google Chrome
+SW,63527976288368,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527976291711,Records_fava
+SW,63527976301636,Task Switching
+SW,63527976301694,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527976303956,Task Switching
+SW,63527976303995,Records_fava
+SW,63527976305564,Task Switching
+SW,63527976305602,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527976307743,Close Friends - Google Chrome
+SW,63527976574933,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527976582253,Close Friends - Google Chrome
+SW,63527976659436,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527976678164,Records_fava
+SW,63527976709876,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527977051983,Save As
+SW,63527977054741,Untitled - Google Chrome
+SW,63527977057874,
+SW,63527977057906,ICMM | Publications • - Google Chrome
+SW,63527977057968,Detecting and Monitoring Fatigue A review.pdf - Adobe Reader
+SW,63527977058285,ICMM Health and safety performance indicators - 2013 final.pdf - Adobe Reader
+SW,63527977081121,ICMM | Publications • - Google Chrome
+SW,63527977330681,
+SW,63527977331800,ICMM Health and safety performance indicators - 2013 final.pdf - Adobe Reader
+SW,63527977352463,Task Switching
+SW,63527977352516,Fatigue Management Global Community -Mining ,Oil and Gas | LinkedIn - Google Chrome
+SW,63527977751314,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527977762635,Records_fava
+SW,63527977783354,Obrigado por participar no concurso definitiva aventura interrailing de Hostelworld.com. - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527978642275,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527978656563,Records_fava
+SW,63527978677379,CQUniversity Australia - People - Google Chrome
+SW,63527979274814,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527979275567,
+SW,63527979275672,Battery Meter
+SW,63527979277425,File Explorer
+SW,63527979282333,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527979302318,"natercia pares nunes" - Pesquisa do Google - Google Chrome
+SW,63527979308819,
+SW,63527980756127,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527980767854,Untitled - Google Chrome
+SW,63527980800809,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527980803779,Gmail - Google Chrome
+SW,63527981298541,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527981303628,FW: Provas de Doutoramento - Escola de Engenharia - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527981572757,
+SW,63527981575317,FW: Provas de Doutoramento - Escola de Engenharia - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527981575319,
+SW,63527981578138,FW: Provas de Doutoramento - Escola de Engenharia - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527981671690,
+SW,63527981671901,File Explorer
+SW,63527981691743,Portugal cresceu acima da média europeia mas está fora do pódium - Economia - Sol - Google Chrome
+SW,63527981693713,Records_fava
+SW,63527981704170,Portugal cresceu acima da média europeia mas está fora do pódium - Economia - Sol - Google Chrome
+SW,63527986861875,Facebook - Google Chrome
+SW,63527986878684,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527986886260,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987066042,The page at https://mail.google.com says:
+SW,63527987068368,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987144684,Task Switching
+SW,63527987144771,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987160237,Task Switching
+SW,63527987161052,Facebook - Google Chrome
+SW,63527987314955,Task Switching
+SW,63527987315007,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987336569,Task Switching
+SW,63527987336625,António messaged you - Google Chrome
+SW,63527987392482,Task Switching
+SW,63527987392589,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987397150,Task Switching
+SW,63527987397225,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987400460,
+SW,63527987406430,Skype
+SW,63527987408265,
+SW,63527987408431,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987408521,Skype™ - andre.pimenta.53
+SW,63527987433420,Task Switching
+SW,63527987433472,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987446011,Task Switching
+SW,63527987446115,Skype™ - andre.pimenta.53
+SW,63527987448642,Task Switching
+SW,63527987448705,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987451432,Task Switching
+SW,63527987451932,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987459010,Records_fava
+SW,63527987471757,Task Switching
+SW,63527987471851,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987474554,Task Switching
+SW,63527987474606,Records_fava
+SW,63527987521158,Task Switching
+SW,63527987521211,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987523684,Task Switching
+SW,63527987523773,Records_fava
+SW,63527987636742,Task Switching
+SW,63527987636793,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987639429,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987739423,Task Switching
+SW,63527987739497,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987749846,Task Switching
+SW,63527987749883,FW: CONVITE | Dia do Departamento de Produção e Sistemas - UMinho | 21 fevereiro 2014 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527987856431,Task Switching
+SW,63527987856475,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987862613,Task Switching
+SW,63527987862673,Records_fava
+SW,63527987910518,Task Switching
+SW,63527987910571,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987912743,Task Switching
+SW,63527987912810,Records_fava
+SW,63527987927430,Task Switching
+SW,63527987927563,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527987961706,Task Switching
+SW,63527987961741,Records_fava
+SW,63527987963813,Adriana messaged you - Google Chrome
+SW,63527987977467,Task Switching
+SW,63527987977514,Records_fava
+SW,63527987990578,Task Switching
+SW,63527987990632,André Pimenta - Foste nomeado para virar uma maceira! siga :D - Google Chrome
+SW,63527988001272,Task Switching
+SW,63527988001388,Records_fava
+SW,63527988002368,Task Switching
+SW,63527988002444,Messages - Google Chrome
+SW,63527988017773,Task Switching
+SW,63527988017833,Records_fava
+SW,63527988051956,Facebook - Google Chrome
+SW,63527988218872,Skype™ [1] - andre.pimenta.53
+SW,63527988248149,Introduction | Deloitte University Press - Google Chrome
+SW,63527988272464,Skype™ [1] - andre.pimenta.53
+SW,63527988311340,Task Switching
+SW,63527988311382,Fwd: New MM User Manual & Self-Training Guide - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527988312376,Task Switching
+SW,63527988312432,Skype™ - andre.pimenta.53
+SW,63527988419676,Task Switching
+SW,63527988419728,Fwd: New MM User Manual & Self-Training Guide - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527988960124,Task Switching
+SW,63527988960178,Skype™ - andre.pimenta.53
+SW,63527988961186,Task Switching
+SW,63527988961820,Records_fava
+SW,63527988962596,Task Switching
+SW,63527988963326,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989069077,Task Switching
+SW,63527989069212,Records_fava
+SW,63527989073288,Facebook - Google Chrome
+SW,63527989182296,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989207884,Fwd: New MM User Manual & Self-Training Guide - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527989511545,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989522304,Records_fava
+SW,63527989536482,Task Switching
+SW,63527989536552,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989542881,Task Switching
+SW,63527989542924,Records_fava
+SW,63527989551292,Task Switching
+SW,63527989551345,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989567077,Task Switching
+SW,63527989567116,Records_fava
+SW,63527989572488,Task Switching
+SW,63527989572541,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989574615,Task Switching
+SW,63527989574640,Records_fava
+SW,63527989592553,Task Switching
+SW,63527989592661,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989610709,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527989831918,Task Switching
+SW,63527989831965,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527989837865,Task Switching
+SW,63527989837920,"Paulo Jorge Freitas de Oliveira Novais" - Pesquisa do Google - Google Chrome
+SW,63527995251825,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527995251826,Microsoft Windows
+SW,63527995276498,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527995294962,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527995551067,Project
+SW,63527995557041,Facebook - Google Chrome
+SW,63527995563884,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527995573799,(1) Facebook - Google Chrome
+SW,63527997010595,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527997014135,Records_fava
+SW,63527997070850,Anúncios DI: Impactzero - Oferta de Emprego - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527997188889,Page(s) Unresponsive
+SW,63527997193028,Welcome! | LinkedIn - Google Chrome
+SW,63527997501362,Power Options
+SW,63527997503349,
+SW,63527997513478,
+SW,63527997514895,Skype™ - andre.pimenta.53
+SW,63527997519930,
+SW,63527997520704,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527998102764,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527998108243,Facebook - Google Chrome
+SW,63528016286862,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528016289804,Task Switching
+SW,63528016289874,Facebook - Google Chrome
+SW,63528017912629,Charm Bar
+SW,63528017912636,FW: Recent publication updates from your network - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528017912722,Charm Bar
+SW,63528017914830,FW: Recent publication updates from your network - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528019326566,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528019399562,Facebook - Google Chrome
+SW,63528019758708,
+SW,63528019758849,Battery Meter
+SW,63528019760880,File Explorer
+SW,63528019763696,wareztuga.tv - O Sobrevivente (2013) - Google Chrome
+SW,63528019791444,Confirm Re-enable
+SW,63528019793300,Extensions - Google Chrome
+SW,63528019839030,Project
+SW,63528019843251,wareztuga.tv - O Sobrevivente (2013) - Google Chrome
+SW,63528020001470,
+SW,63528020062313,wareztuga.tv - O Sobrevivente (2013) - Google Chrome
+SW,63528020100808,
+SW,63528020426692,wareztuga.tv - O Sobrevivente (2013) - Google Chrome
+SW,63528020451697,
+SW,63528020483585,wareztuga.tv - O Sobrevivente (2013) - Google Chrome
+SW,63528020556189,
+SW,63528027279607,wareztuga.tv - O Sobrevivente (2013) - Google Chrome
+SW,63528027284236,Power Options
+SW,63528027288695,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528056363106,Project
+SW,63528056378048,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528056382666,Records_fava
+SW,63528056392419,Project
+SW,63528056396003,Records_fava
+SW,63528056442271,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528056451033,Untitled - Google Chrome
+SW,63528056601969,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528056606033,Davide Carneiro - Google Chrome
+SW,63528056615078,Untitled - Google Chrome
+SW,63528056617099,A Grande Aventura dos Livros Grátis - Google Chrome
+SW,63528056628113,Untitled - Google Chrome
+SW,63528056648360,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528056660140,A Grande Aventura dos Livros Grátis - Google Chrome
+SW,63528058379563,Open
+SW,63528058390753,Classificados grátis em Portugal - Google Chrome
+SW,63528058393012,Open
+SW,63528058396966,Classificados grátis em Portugal - Google Chrome
+SW,63528059883379,Records_fava
+SW,63528059894461,Task Switching
+SW,63528059894508,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528059895994,Task Switching
+SW,63528059896075,Records_fava
+SW,63528059973654,Task Switching
+SW,63528059973694,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528059974472,Task Switching
+SW,63528059974522,Records_fava
+SW,63528059975006,Task Switching
+SW,63528059975680,Unlock iPhone 3GS 4 4S, 5, 5C and 5S, Official iPhone Unlock, Apple iTunes Unlock - Google Chrome
+SW,63528060523767,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528060528397,Task Switching
+SW,63528060528461,How To Unlock Your iPhone 4, 4S And 5 Using Ultrasnow, Gevey Sim Card, R-Sim Card, IMEI Number And SAM Ticket - Google Chrome
+SW,63528061042316,Untitled - Google Chrome
+SW,63528061042882,A Grande Aventura dos Livros Grátis - Google Chrome
+SW,63528061231306,Confirm Navigation
+SW,63528061234045,Redirecting … - Google Chrome
+SW,63528061239960,Confirm Navigation
+SW,63528061241732,Redirecting … - Google Chrome
+SW,63528061246090,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528061278832,Task Switching
+SW,63528061278892,Free iPhone 5 unlock at&t phone? - Google Chrome
+SW,63528062772820,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528062777936,Records_fava
+SW,63528062831144,Facebook - Google Chrome
+SW,63528064483613,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528064487567,Records_fava
+SW,63528064499653,Task Switching
+SW,63528064499705,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528064501822,Francisca messaged you - Google Chrome
+SW,63528064682449,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528064684301,Task Switching
+SW,63528064684351,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528064685897,Records_fava
+SW,63528064691380,Task Switching
+SW,63528064691429,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528064692255,Task Switching
+SW,63528064692329,Records_fava
+SW,63528064697137,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528064762966,Open
+SW,63528064765681,(1) António Cascais - Google Chrome
+SW,63528066147905,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528066155269,António Cascais - Google Chrome
+SW,63528066156325,Records_fava
+SW,63528066177354,untitled - Sublime Text (UNREGISTERED)
+SW,63528066382102,InputReport
+SW,63528066383763,Start
+SW,63528066384046,Start menu
+SW,63528066391314,DoubleClickShield
+SW,63528066391334,
+SW,63528066391498,Weka 3.6
+SW,63528066392340,InputReport
+SW,63528066396213,António Cascais - Google Chrome
+SW,63528066405248,Weka GUI Chooser
+SW,63528066412275,Weka Explorer
+SW,63528066418470,Open
+SW,63528066438032,Weka Explorer
+SW,63528066465402,Save
+SW,63528066474546,Weka Explorer
+SW,63528066476268,Weka GUI Chooser
+SW,63528066478101,InputReport
+SW,63528066486790,
+SW,63528066487045,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63528066615929,InputReport
+SW,63528066617495,Weka GUI Chooser
+SW,63528066620477,Weka Explorer
+SW,63528066622062,Open
+SW,63528066643530,Weka Explorer
+SW,63528066669179,weka.gui.GenericObjectEditor
+SW,63528066673413,Weka Explorer
+SW,63528066688502,António Cascais - Google Chrome
+SW,63528066696849,
+SW,63528066699049,Weka Explorer
+SW,63528066898722,(1) António Cascais - Google Chrome
+SW,63528066937269,
+SW,63528066938336,Weka Explorer
+SW,63528066953808,weka.gui.GenericObjectEditor
+SW,63528066959708,Weka Explorer
+SW,63528066968899,Save
+SW,63528066996168,Weka Explorer
+SW,63528066997884,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528067028172,Microsoft Visual Studio
+SW,63528067028999,Facebook - Google Chrome
+SW,63528067030495,
+SW,63528067034401,Weka Explorer
+SW,63528067082746,Task Switching
+SW,63528067082809,Facebook - Google Chrome
+SW,63528067085340,Task Switching
+SW,63528067085394,Weka Explorer
+SW,63528067087886,Start Page - Microsoft Visual Studio
+SW,63528067097470,Microsoft Visual Studio
+SW,63528067100685,Start Page - Microsoft Visual Studio
+SW,63528067101847,InputReport
+SW,63528067117559,Progress
+SW,63528067120486,Mouse&Keyboard_Record
+SW,63528067126492,Start Page - Microsoft Visual Studio
+SW,63528067131499,Open Project
+SW,63528067142082,Start Page - Microsoft Visual Studio
+SW,63528067169840,Client
+SW,63528067171767,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528067179994,Java - InputReport/src/report/Report.java - Eclipse
+SW,63528067192805,User_verification
+SW,63528067196932,
+SW,63528067197196,
+SW,63528067198012,Program Manager
+SW,63528067198014,
+SW,63528067202021,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067223961,
+SW,63528067225389,
+SW,63528067225626,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067235081,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067237812,Run As
+SW,63528067239473,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067241527,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067242518,Progress Information
+SW,63528067242797,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067249903,
+SW,63528067250913,
+SW,63528067251029,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067273365,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528067293209,
+SW,63528067295122,Weka Explorer
+SW,63528067309602,Task Switching
+SW,63528067309657,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528067313580,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067316019,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528067364145,
+SW,63528067364679,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067365008,
+SW,63528067393336,
+SW,63528067394456,
+SW,63528067398148,Register
+SW,63528067404566,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067404667,
+SW,63528067417176,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067422090,
+SW,63528067422584,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067422891,
+SW,63528067427170,
+SW,63528067428252,User Interaction Capturer - ISLab
+SW,63528067434427,
+SW,63528067435573,User Interaction Capturer - ISLab
+SW,63528067436908,Register
+SW,63528067447834,
+SW,63528067455839,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067508247,Microsoft Visual Studio
+SW,63528067508787,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528067513969,Microsoft Visual Studio
+SW,63528067514590,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528067533813,
+SW,63528067535017,
+SW,63528067535451,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067535818,C:\Windows\System32\java.exe
+SW,63528067535967,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067541160,
+SW,63528067541244,User Interaction Capturer - ISLab
+SW,63528067546688,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067558230,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067560282,User Interaction Capturer - ISLab
+SW,63528067561606,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067569054,Microsoft Visual Studio
+SW,63528067571048,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067611646,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067657438,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067659158,André Pimenta - Foste nomeado para virar uma maceira! siga :D - Google Chrome
+SW,63528067706468,Java - User_verification/src/Monitor.java - Eclipse
+SW,63528067724991,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528067822387,
+SW,63528067822473,
+SW,63528067827387,User Interaction Capturer - ISLab

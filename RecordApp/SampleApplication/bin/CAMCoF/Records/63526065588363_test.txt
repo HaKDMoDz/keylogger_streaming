@@ -1,0 +1,865 @@
+# user: test #
+SW,63526065588520,Google - Google Chrome
+SW,63526065613574,Adobe Reader Updater
+SW,63526065617352,
+SW,63526065617441,
+SW,63526065618550,Facebook - Google Chrome
+SW,63526065639056,
+SW,63526065724183,
+SW,63526065724636,
+SW,63526065725492,Word
+SW,63526065732121,Resume Reading
+SW,63526065735148,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526065742726,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526065775250,Save As
+SW,63526065779875,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526065782247,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526065782365,Opening - survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526065783855,Word
+SW,63526065784578,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526065890611,
+SW,63526065895617,apps-for-office-challenge-project-template (Protected View) - Word
+SW,63526065984770,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526065984871,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526065987170,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526066402633,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526066418617,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526066598674,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526066609768,Google Tradutor - Google Chrome
+SW,63526066614927,TexMaker
+SW,63526066615736,Texmaker
+SW,63526066723074,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526066738088,File Explorer
+SW,63526066758998,Google Tradutor - Google Chrome
+SW,63526066825750,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526066828086,PDInf
+SW,63526066841408,
+SW,63526066841492,Physiological
+SW,63526066842412,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526066983573,FW: André, 4 researchers viewed your profile - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526066992852,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067001465,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067001522,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526067006773,Physiological
+SW,63526067009586,
+SW,63526067009698,PERCELOS
+SW,63526067009820,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526067010169,Hardware Design of Fatigue Detection System Based on PERCLOS - Adobe Reader
+SW,63526067080079,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067084501,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526067105650,Save As
+SW,63526067123059,
+SW,63526067123183,
+SW,63526067130582,Save As
+SW,63526067145836,sccn.ucsd.edu/~scott/pdf/BioPsy.pdf - Google Chrome
+SW,63526067283041,
+SW,63526067283072,sccn.ucsd.edu/~scott/pdf/BioPsy.pdf - Google Chrome
+SW,63526067283153,Hardware Design of Fatigue Detection System Based on PERCLOS - Adobe Reader
+SW,63526067283444,BioPsy.pdf - Adobe Reader
+SW,63526067286971,sccn.ucsd.edu/~scott/pdf/BioPsy.pdf - Google Chrome
+SW,63526067310957,Task Switching
+SW,63526067311009,BioPsy.pdf - Adobe Reader
+SW,63526067361413,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067373477,
+SW,63526067374414,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067376367,
+SW,63526067377158,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067379843,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526067382284,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067388417,
+SW,63526067390188,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526067413883,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067441569,
+SW,63526067444526,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067510761,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526067589170,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067610284,
+SW,63526067611703,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067643744,Google Tradutor - Google Chrome
+SW,63526067650560,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067667296,
+SW,63526067668182,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067672456,Google Tradutor - Google Chrome
+SW,63526067694337,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067722118,
+SW,63526067724052,
+SW,63526067727710,
+SW,63526067727735,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067728791,
+SW,63526067729509,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067730455,
+SW,63526067731286,
+SW,63526067732238,
+SW,63526067732261,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067735437,
+SW,63526067736566,
+SW,63526067739985,
+SW,63526067740007,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067749671,Google Tradutor - Google Chrome
+SW,63526067762832,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526067786700,
+SW,63526067789433,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526067841831,Adobe Reader
+SW,63526067843415,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526067844821,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526067859851,Task Switching
+SW,63526067859874,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526067874113,Adobe Reader
+SW,63526067875008,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526067875510,Task Switching
+SW,63526067875603,Google Tradutor - Google Chrome
+SW,63526067990136,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068005823,Task Switching
+SW,63526068006745,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068020050,Task Switching
+SW,63526068020103,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068021897,Task Switching
+SW,63526068021951,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068022613,Task Switching
+SW,63526068022679,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068023742,Task Switching
+SW,63526068024530,Google Tradutor - Google Chrome
+SW,63526068028312,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068038971,Task Switching
+SW,63526068039013,Google Tradutor - Google Chrome
+SW,63526068039542,Task Switching
+SW,63526068040304,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068043461,Task Switching
+SW,63526068043512,Google Tradutor - Google Chrome
+SW,63526068046774,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068058193,Task Switching
+SW,63526068059157,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068060850,Task Switching
+SW,63526068062029,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068069304,Task Switching
+SW,63526068070277,Google Tradutor - Google Chrome
+SW,63526068072855,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068089387,
+SW,63526068090348,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068091715,
+SW,63526068092578,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068110641,
+SW,63526068111626,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068113886,Google Tradutor - Google Chrome
+SW,63526068263194,
+SW,63526068266430,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068297213,Adobe Reader
+SW,63526068298578,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068299850,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068301435,FW: André, 4 researchers viewed your profile - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526068397470,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068406284,Task Switching
+SW,63526068407176,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068408848,Task Switching
+SW,63526068408909,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068414240,Task Switching
+SW,63526068415049,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068416283,Task Switching
+SW,63526068416971,Google Tradutor - Google Chrome
+SW,63526068421091,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068452426,Google Tradutor - Google Chrome
+SW,63526068456625,Task Switching
+SW,63526068456675,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068458903,
+SW,63526068460537,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068463876,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068469374,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068479602,
+SW,63526068479615,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068481612,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068489082,
+SW,63526068489100,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068494059,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068502965,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068637052,
+SW,63526068638085,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068639087,
+SW,63526068639902,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068640692,
+SW,63526068641511,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068646793,
+SW,63526068648091,
+SW,63526068651424,
+SW,63526068651452,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068653568,
+SW,63526068654793,
+SW,63526068657457,
+SW,63526068657485,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068660322,
+SW,63526068661429,
+SW,63526068665764,
+SW,63526068665794,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068680802,Google Tradutor - Google Chrome
+SW,63526068698486,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526068700201,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068705674,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526068721792,Texmaker : pdf preview
+SW,63526068770890,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068782289,
+SW,63526068782306,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068791936,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526068802352,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526068952674,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526068964690,
+SW,63526068965917,
+SW,63526068970726,
+SW,63526068970896,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069039110,
+SW,63526069040224,review_cc.pdf
+SW,63526069041164,
+SW,63526069041615,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526069051343,review_cc.pdf
+SW,63526069051410,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526069051422,review_cc.pdf
+SW,63526069083792,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526069095239,Google Tradutor - Google Chrome
+SW,63526069185775,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069195781,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526069269911,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069285294,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526069403899,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526069409685,Facebook - Google Chrome
+SW,63526069434122,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526069440645,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526069567270,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069638603,Imagine Cup - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526069647578,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069659609,Google Tradutor - Google Chrome
+SW,63526069661289,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069664643,
+SW,63526069665807,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526069681001,
+SW,63526069682472,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526070486153,Google Tradutor - Google Chrome
+SW,63526072248646,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526072755764,RT task fatigue - Pesquisa do Google - Google Chrome
+SW,63526072869536,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526072984696,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526073002305,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073081959,Google Tradutor - Google Chrome
+SW,63526073105161,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073114902,
+SW,63526073116212,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073199919,Google Tradutor - Google Chrome
+SW,63526073207364,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073219430,Google Tradutor - Google Chrome
+SW,63526073259887,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073269932,
+SW,63526073271144,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526073291047,review_cc.pdf
+SW,63526073291136,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526073291145,review_cc.pdf
+SW,63526073303397,Google Tradutor - Google Chrome
+SW,63526073368774,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073375012,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526073462797,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073478004,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526073518625,Task Switching
+SW,63526073518688,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073520787,r t task - Pesquisa do Google - Google Chrome
+SW,63526073556989,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073558649,
+SW,63526073559921,
+SW,63526073560752,
+SW,63526073561129,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073586951,
+SW,63526073588081,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073590194,
+SW,63526073591402,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073593501,
+SW,63526073602465,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073689746,Google Tradutor - Google Chrome
+SW,63526073778458,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073799289,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526073869546,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073876340,
+SW,63526073877342,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073889187,Google Tradutor - Google Chrome
+SW,63526073911123,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073922026,
+SW,63526073923049,
+SW,63526073927287,
+SW,63526073927309,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073975794,
+SW,63526073976918,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073983610,
+SW,63526073984811,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526073989282,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526073993344,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526074004003,review_cc.pdf
+SW,63526074004067,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526074004076,review_cc.pdf
+SW,63526074038100,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074102129,review_cc.pdf
+SW,63526074147117,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526074151575,review_cc.pdf
+SW,63526074155414,Google Tradutor - Google Chrome
+SW,63526074222758,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074225479,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526074231439,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074244047,
+SW,63526074244062,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074290197,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526074294534,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526074354959,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526074410742,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074434360,Google Tradutor - Google Chrome
+SW,63526074461596,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074485764,RR - Wikipedia, the free encyclopedia - Google Chrome
+SW,63526074496116,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074515964,Google Tradutor - Google Chrome
+SW,63526074580109,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074586291,Google Tradutor - Google Chrome
+SW,63526074597518,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074602685,Heart rate - Wikipedia, the free encyclopedia - Google Chrome
+SW,63526074616280,Task Switching
+SW,63526074616337,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074617554,Google Tradutor - Google Chrome
+SW,63526074627277,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074634837,Heart rate - Wikipedia, the free encyclopedia - Google Chrome
+SW,63526074675669,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074678922,Google Tradutor - Google Chrome
+SW,63526074681562,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074701644,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526074715084,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074730847,
+SW,63526074732196,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526074743064,review_cc.pdf
+SW,63526074743134,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526074743144,review_cc.pdf
+SW,63526074805455,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074808874,
+SW,63526074808925,Heart rate - Wikipedia, the free encyclopedia - Google Chrome
+SW,63526074895548,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526074954147,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526074970018,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526074994639,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526075021301,Google Tradutor - Google Chrome
+SW,63526075102674,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526075113133,
+SW,63526075114305,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526075125189,review_cc.pdf
+SW,63526075125259,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526075125268,review_cc.pdf
+SW,63526075149136,Google Tradutor - Google Chrome
+SW,63526075229563,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526075313070,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526075331867,Save As
+SW,63526075336586,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526075338655,
+SW,63526075338688,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526075338817,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526075339306,Thesis.pdf - Adobe Reader
+SW,63526075809445,Save As
+SW,63526075812202,Confirm Save As
+SW,63526075814495,Save As
+SW,63526075814570,Thesis.pdf - Adobe Reader
+SW,63526075816395,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526075850545,Open
+SW,63526075857618,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526075889595,Thesis.pdf - Adobe Reader
+SW,63526075897146,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526075903083,Thesis.pdf - Adobe Reader
+SW,63526075924216,Daniel messaged you - Google Chrome
+SW,63526075942202,Thesis.pdf - Adobe Reader
+SW,63526075982107,Facebook - Google Chrome
+SW,63526076003496,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076039712,
+SW,63526076043450,BioPsy.pdf - Adobe Reader
+SW,63526076045841,
+SW,63526076051596,Thesis.pdf - Adobe Reader
+SW,63526076067075,BioPsy.pdf - Adobe Reader
+SW,63526076070017,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076072880,
+SW,63526076075043,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526076086545,Daniel messaged you - Google Chrome
+SW,63526076166229,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526076199246,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076215257,Task Switching
+SW,63526076215326,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526076239703,Task Switching
+SW,63526076239764,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076303615,
+SW,63526076304373,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076310527,Rascunhos (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526076488327,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076491966,"unread" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526076512094,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076515086,Google Tradutor - Google Chrome
+SW,63526076536030,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076557437,Google Tradutor - Google Chrome
+SW,63526076566542,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526076579430,Google Tradutor - Google Chrome
+SW,63526076697987,Facebook - Google Chrome
+SW,63526082989522,Open
+SW,63526083002157,Agrosocial - Google Chrome
+SW,63526083267986,Save As
+SW,63526083270682,399714.jpg (400×300) - Google Chrome
+SW,63526083273783,Open
+SW,63526083280399,Agrosocial - Google Chrome
+SW,63526083898006,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526083903352,
+SW,63526083906963,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526083955400,
+SW,63526083975992,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526083986247,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526084097909,
+SW,63526084098040,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084103277,
+SW,63526084104111,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084109670,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526084326558,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084347028,Google Tradutor - Google Chrome
+SW,63526084680210,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084694089,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526084725018,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084735183,
+SW,63526084736755,
+SW,63526084739714,
+SW,63526084739740,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084741830,
+SW,63526084742740,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084760011,
+SW,63526084762272,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084767345,Google Tradutor - Google Chrome
+SW,63526084821441,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084823442,AgroSocial - Google Chrome
+SW,63526084833008,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084870769,
+SW,63526084871785,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526084883455,Google Tradutor - Google Chrome
+SW,63526084888780,review_cc.pdf
+SW,63526084888847,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526084888859,review_cc.pdf
+SW,63526084969512,
+SW,63526084991138,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526084992880,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526085011771,
+SW,63526085013143,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526085094241,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526085113846,
+SW,63526085113976,review_cc.pdf
+SW,63526085137807,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526085160480,
+SW,63526085161406,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526085183236,review_cc.pdf
+SW,63526085183332,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526085183341,review_cc.pdf
+SW,63526085199333,? Metallica - One [Official Music Video] - YouTube - Google Chrome
+SW,63526085244235,
+SW,63526085244946,? Metallica - One [Official Music Video] - YouTube - Google Chrome
+SW,63526085244950,
+SW,63526085245771,
+SW,63526085246328,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526086112647,Metallica - One [Official Music Video] - YouTube - Google Chrome
+SW,63526086187946,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086212446,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526086458948,
+SW,63526086461580,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086479139,Adobe Reader
+SW,63526086480478,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086481995,Adobe Reader
+SW,63526086483093,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086490860,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526086531069,Task Switching
+SW,63526086531164,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086533255,Task Switching
+SW,63526086533345,Google Tradutor - Google Chrome
+SW,63526086565333,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086615020,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526086641423,
+SW,63526086642941,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086654624,Adobe Reader
+SW,63526086656124,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086657226,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526086700669,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086716457,Task Switching
+SW,63526086716523,Google Tradutor - Google Chrome
+SW,63526086717236,Task Switching
+SW,63526086718131,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086739196,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086747243,Google Tradutor - Google Chrome
+SW,63526086753297,Task Switching
+SW,63526086753364,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086754020,Task Switching
+SW,63526086754428,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086759090,Task Switching
+SW,63526086759151,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086760075,Task Switching
+SW,63526086760564,Google Tradutor - Google Chrome
+SW,63526086857611,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526086877957,Task Switching
+SW,63526086878016,Google Tradutor - Google Chrome
+SW,63526086878773,Task Switching
+SW,63526086879230,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526086898055,Task Switching
+SW,63526086898120,Google Tradutor - Google Chrome
+SW,63526087009154,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087021504,Google Tradutor - Google Chrome
+SW,63526087027019,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087037099,
+SW,63526087039360,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087043937,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087074467,
+SW,63526087075334,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087109094,
+SW,63526087110308,
+SW,63526087113330,
+SW,63526087113616,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087118329,Task Switching
+SW,63526087118379,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087119162,Task Switching
+SW,63526087119344,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087120214,Google Tradutor - Google Chrome
+SW,63526087151450,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087163649,
+SW,63526087164807,
+SW,63526087166477,
+SW,63526087166507,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087177527,Google Tradutor - Google Chrome
+SW,63526087181907,Task Switching
+SW,63526087181972,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087182818,Task Switching
+SW,63526087183354,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087204371,Task Switching
+SW,63526087204441,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087207166,Google Tradutor - Google Chrome
+SW,63526087249432,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087253971,
+SW,63526087254977,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526087270404,review_cc.pdf
+SW,63526087270473,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526087270481,review_cc.pdf
+SW,63526087316070,Google Tradutor - Google Chrome
+SW,63526087455695,Task Switching
+SW,63526087455763,review_cc.pdf
+SW,63526087459300,
+SW,63526087460647,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087461948,Task Switching
+SW,63526087462018,review_cc.pdf
+SW,63526087463900,Facebook - Google Chrome
+SW,63526087545806,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087555469,
+SW,63526087556255,review_cc.pdf
+SW,63526087557156,
+SW,63526087558533,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087559558,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087567930,Task Switching
+SW,63526087567985,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087570379,Google Tradutor - Google Chrome
+SW,63526087599021,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087623159,Task Switching
+SW,63526087623925,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087637981,Task Switching
+SW,63526087638041,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087638693,Task Switching
+SW,63526087639521,Google Tradutor - Google Chrome
+SW,63526087653149,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087661594,
+SW,63526087663897,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087663901,
+SW,63526087664829,
+SW,63526087666176,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087687396,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087688898,
+SW,63526087690330,
+SW,63526087694642,
+SW,63526087694671,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087704447,
+SW,63526087705374,
+SW,63526087706790,
+SW,63526087706820,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087716061,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526087718817,Task Switching
+SW,63526087718872,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087719658,Task Switching
+SW,63526087720274,Google Tradutor - Google Chrome
+SW,63526087728287,Task Switching
+SW,63526087728356,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087788700,Google Tradutor - Google Chrome
+SW,63526087790644,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087792176,
+SW,63526087794992,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526087842738,
+SW,63526087843932,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526087859355,review_cc.pdf
+SW,63526087859427,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526087859438,review_cc.pdf
+SW,63526087908642,FW: Q&A Highlights for André Pimenta Ribeiro - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526087991732,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526088032017,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526088166916,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526088174282,
+SW,63526088175857,review_cc.pdf
+SW,63526088219527,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526088968308,Confirm Navigation
+SW,63526088969907,Francisca Guedes - Google Chrome
+SW,63526089016523,
+SW,63526089019059,1-s2.0-S0169814105000806-main.pdf - Adobe Reader
+SW,63526089020361,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089022105,PERCELOS
+SW,63526089031394,
+SW,63526089031511,subjective_fatigue
+SW,63526089031645,BioPsy.pdf - Adobe Reader
+SW,63526089032041,1-s2.0-S0003687011000123-main.pdf - Adobe Reader
+SW,63526089049257,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089070538,Task Switching
+SW,63526089070602,1-s2.0-S0003687011000123-main.pdf - Adobe Reader
+SW,63526089073448,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089074777,subjective_fatigue
+SW,63526089076057,
+SW,63526089076206,subjective_fatigue
+SW,63526089076335,BioPsy.pdf - Adobe Reader
+SW,63526089076770,1-s2.0-S096969971000027X-main.pdf - Adobe Reader
+SW,63526089089171,BioPsy.pdf - Adobe Reader
+SW,63526089090175,Task Switching
+SW,63526089090313,subjective_fatigue
+SW,63526089090972,Task Switching
+SW,63526089091035,BioPsy.pdf - Adobe Reader
+SW,63526089091726,subjective_fatigue
+SW,63526089093875,
+SW,63526089094019,subjective_fatigue
+SW,63526089094103,Hardware Design of Fatigue Detection System Based on PERCLOS - Adobe Reader
+SW,63526089094472,1-s2.0-S0169814101000403-main.pdf - Adobe Reader
+SW,63526089115743,Task Switching
+SW,63526089115842,Hardware Design of Fatigue Detection System Based on PERCLOS - Adobe Reader
+SW,63526089116799,Task Switching
+SW,63526089117689,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089307000,
+SW,63526089307168,review_cc.pdf
+SW,63526089332520,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089528224,
+SW,63526089529503,Hardware Design of Fatigue Detection System Based on PERCLOS - Adobe Reader
+SW,63526089530557,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089531780,1-s2.0-S0169814101000403-main.pdf - Adobe Reader
+SW,63526089916692,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526089959651,
+SW,63526089960318,review_cc.pdf
+SW,63526089965452,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526090044122,
+SW,63526090124561,:.: Vítor Pereira aponta "big coach" entre jornalistas - Vídeos - Jornal Record :.: - Google Chrome
+SW,63526090400811,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526090403747,
+SW,63526090405565,
+SW,63526090407377,
+SW,63526090407443,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526090408663,Measurement and prediction of subject... [J Int Neuropsychol Soc. 2005] - PubMed - NCBI - Google Chrome
+SW,63526090438365,Save As
+SW,63526090440672,The Development and Validation of a Checklist for Measuring Subjective Fatigue - Google Chrome
+SW,63526090458567,
+SW,63526090458605,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526090458688,1-s2.0-S0169814101000403-main.pdf - Adobe Reader
+SW,63526090459041,AD0128756.pdf - Adobe Reader
+SW,63526090532878,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526091321216,
+SW,63526091321332,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526091322881,
+SW,63526091334305,1-s2.0-S0169814101000403-main.pdf - Adobe Reader
+SW,63526091337359,
+SW,63526091337954,AD0128756.pdf - Adobe Reader
+SW,63526091362314,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526091409316,Task Switching
+SW,63526091409377,AD0128756.pdf - Adobe Reader
+SW,63526091433409,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526091449630,Task Switching
+SW,63526091449704,AD0128756.pdf - Adobe Reader
+SW,63526091487696,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526091492277,Task Switching
+SW,63526091492364,AD0128756.pdf - Adobe Reader
+SW,63526091492996,Task Switching
+SW,63526091493548,RPD - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526091503315,Task Switching
+SW,63526091503398,AD0128756.pdf - Adobe Reader
+SW,63526091505568,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526091548097,
+SW,63526091549029,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526091555796,
+SW,63526091558071,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526091560855,AD0128756.pdf - Adobe Reader
+SW,63526091576799,Save As
+SW,63526091603472,AD0128756.pdf - Adobe Reader
+SW,63526091607409,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526091612319,
+SW,63526091613448,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526091630247,review_cc.pdf
+SW,63526091630310,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526091630320,review_cc.pdf
+SW,63526091655598,Facebook - Google Chrome
+SW,63526092382571,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526092390138,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526092536778,
+SW,63526092537170,Networks
+SW,63526092545281,
+SW,63526092552824,Facebook - Google Chrome
+SW,63526092734947,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526092748137,Task Switching
+SW,63526092748190,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526092809206,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526092833942,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526094579851,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526094612010,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526094682669,Task Switching
+SW,63526094682724,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526094684192,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526095295054,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526095350654,Bolsa em projeto em parceria com a Bosch - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526095362798,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526095370814,
+SW,63526095372712,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526095379475,Google Tradutor - Google Chrome
+SW,63526095502094,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526095521291,Bolsa em projeto em parceria com a Bosch - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526095596052,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526095613643,Google Tradutor - Google Chrome
+SW,63526096085321,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096087383,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526096116128,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096193741,subjective_fatigue
+SW,63526096197460,
+SW,63526096197605,subjective_fatigue
+SW,63526096197793,esta.pdf - Adobe Reader
+SW,63526096198241,Cao NASA TLX Software BRM 2009.pdf - Adobe Reader
+SW,63526096211823,Task Switching
+SW,63526096211882,esta.pdf - Adobe Reader
+SW,63526096213437,Google Tradutor - Google Chrome
+SW,63526096238350,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096273175,
+SW,63526096274075,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096275161,
+SW,63526096277114,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096280315,
+SW,63526096281241,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096282693,
+SW,63526096283978,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096286677,
+SW,63526096288154,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096297125,Google Tradutor - Google Chrome
+SW,63526096315694,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096323213,
+SW,63526096324729,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096326396,Google Tradutor - Google Chrome
+SW,63526096342975,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096353410,
+SW,63526096354978,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096355841,
+SW,63526096357297,
+SW,63526096359974,
+SW,63526096360002,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096361325,Google Tradutor - Google Chrome
+SW,63526096397229,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096401951,
+SW,63526096402618,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096403310,
+SW,63526096404206,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096407507,
+SW,63526096408810,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096437820,Google Tradutor - Google Chrome
+SW,63526096493070,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096499672,
+SW,63526096500990,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526096516988,review_cc.pdf
+SW,63526096517079,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63526096517090,review_cc.pdf
+SW,63526096552149,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526096623491,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096638547,
+SW,63526096639547,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096642066,
+SW,63526096648339,review_cc.pdf
+SW,63526096655370,subjective_fatigue
+SW,63526096670121,Progress
+SW,63526096671257,Articles
+SW,63526096689208,
+SW,63526096689375,latex
+SW,63526096689477,esta.pdf - Adobe Reader
+SW,63526096689880,review_cc.pdf - Adobe Reader
+SW,63526096698211,Adobe Reader
+SW,63526096699841,review_cc.pdf - Adobe Reader
+SW,63526096702291,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096714393,Word
+SW,63526096836054,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096844526,Document1 - Word
+SW,63526096847227,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526096857367,Os 20 melhores golos de Falcao - O Jogo - Google Chrome
+SW,63526096944248,
+SW,63526096945452,Document1 - Word
+SW,63526096959895,Microsoft Word
+SW,63526096960796,Document1 - Word
+SW,63526096961034,Microsoft Word
+SW,63526096966108,Document1 - Word
+SW,63526096966233,(1) Facebook - Google Chrome
+SW,63526097610732,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526097648698,Rascunhos (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526098047394,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526098052381,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526098052447,Facebook - Google Chrome
+SW,63526098053664,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526098054639,latex
+SW,63526098073703,
+SW,63526098073835,subjective_fatigue
+SW,63526098074017,review_cc.pdf - Adobe Reader
+SW,63526098074430,1-s2.0-S0169814108000309-main.pdf - Adobe Reader
+SW,63526098102312,review_cc.pdf - Adobe Reader
+SW,63526098103984,Task Switching
+SW,63526098104048,subjective_fatigue
+SW,63526098105276,
+SW,63526098105426,subjective_fatigue
+SW,63526098105567,review_cc.pdf - Adobe Reader
+SW,63526098105926,1-s2.0-S0301051196052234-main.pdf - Adobe Reader
+SW,63526098131379,Task Switching
+SW,63526098131442,review_cc.pdf - Adobe Reader
+SW,63526098133150,Daniel messaged log de festas - Google Chrome
+SW,63526098229317,subjective_fatigue
+SW,63526098230747,
+SW,63526098230890,subjective_fatigue
+SW,63526098231024,review_cc.pdf - Adobe Reader
+SW,63526098231584,1-s2.0-S0747563209001976-main.pdf - Adobe Reader
+SW,63526098238966,
+SW,63526098240713,1-s2.0-S0301051196052234-main.pdf - Adobe Reader
+SW,63526098278382,Agrosocial - Google Chrome
+SW,63526098564903,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63526098583767,
+SW,63526098584896,review_cc.pdf
+SW,63526098590157,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526099372079,Oracle WebLogic - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526153641828,Task Switching
+SW,63526153641917,review_cc.pdf
+SW,63526153642924,Task Switching
+SW,63526153643008,www.ashgate.com/pdf/SamplePages/Handbook_of_Operator_Fatigue_Index.pdf - Google Chrome
+SW,63526153644631,www.ashgate.com/pdf/SamplePages/Handbook_of_Operator_Fatigue_Index.pdf - Google Chrome
+SW,63526153644655,review_cc.pdf
+SW,63526154049894,Task Switching
+SW,63526154049962,review_cc.pdf
+SW,63526154051260,Task Switching
+SW,63526154051307,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526154051843,Task Switching
+SW,63526154061336,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526154077348,Task Switching
+SW,63526154077407,review_cc.pdf
+SW,63526154078107,Task Switching
+SW,63526154078172,Google Tradutor - Google Chrome
+SW,63526154094992,Task Switching
+SW,63526154095045,review_cc.pdf
+SW,63526154110080,Task Switching
+SW,63526154110145,Google Tradutor - Google Chrome
+SW,63526154115393,Task Switching
+SW,63526154115454,review_cc.pdf
+SW,63526154117754,Google Tradutor - Google Chrome
+SW,63526154138208,Task Switching
+SW,63526154138275,review_cc.pdf
+SW,63526154204758,Task Switching
+SW,63526154204819,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526154330126,Task Switching
+SW,63526154330191,review_cc.pdf
+SW,63526154332250,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526154333255,Task Switching
+SW,63526154333318,review_cc.pdf
+SW,63526154334377,Task Switching
+SW,63526154334441,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526154721244,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526170223207,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526171215165,Task Switching
+SW,63526171215244,review_cc.pdf
+SW,63526171226454,Task Switching
+SW,63526171226556,Rui Oliveira - Google Académico - Google Chrome
+S

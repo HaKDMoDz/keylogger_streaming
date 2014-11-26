@@ -1,0 +1,10 @@
+# user: test #
+SW,63528183524017,Microsoft Windows Search Indexer
+SW,63528183540067,Untitled - Google Chrome
+SW,63528183567799,Microsoft Windows Search Indexer
+SW,63528183568664,
+SW,63528183612484,Microsoft Windows Search Indexer
+SW,63528183636813,Microsoft Windows Search Indexer
+SW,63528183641174,
+SW,63528183641376,
+SW,63528183643043,User Interaction Capturer - ISLab

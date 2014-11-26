@@ -1,0 +1,13 @@
+<Config>
+  <UserDB>
+    <Logged>test</Logged>
+    <UserRecords>
+      <User username="test">
+        <Pw>098f6bcd4621d373cade4e832627b4f6</Pw>
+        <Occupation>test</Occupation>
+        <Age>12</Age>
+        <Gender>male</Gender>
+      </User>
+    </UserRecords>
+  </UserDB>
+</Config>

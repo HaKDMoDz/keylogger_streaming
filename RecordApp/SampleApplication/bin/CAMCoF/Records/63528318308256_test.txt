@@ -1,0 +1,140 @@
+# user: test #
+SW,63528318311046,User Interaction Capturer - ISLab
+SW,63528318313504,Untitled - Google Chrome
+SW,63528318315257,File Explorer
+SW,63528318352282,Progress
+SW,63528318353833,não_apagar
+SW,63528318373424, A comprimir não_apagar.zip
+SW,63528318373989,Public
+SW,63528318377497,Google - Google Chrome
+SW,63528318383439,
+SW,63528318565970,User Interaction Capturer - ISLab
+SW,63528318567755,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528318624385,
+SW,63528318691352,
+SW,63528318691594,
+SW,63528318692581,Word
+SW,63528318699686,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528318733238,Task Switching
+SW,63528318733313,Word
+SW,63528318733992,Task Switching
+SW,63528318734058,New Tab - Google Chrome
+SW,63528319225733,Task Switching
+SW,63528319225781,Word
+SW,63528319226579,Task Switching
+SW,63528319226622,Spam (96) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528319230527,Task Switching
+SW,63528319230552,Word
+SW,63528319231399,Task Switching
+SW,63528319231425,Google Tradutor - Google Chrome
+SW,63528319485245,
+SW,63528319485464,
+SW,63528319492987,File Explorer
+SW,63528319512825,
+SW,63528319513730,Program Manager
+SW,63528319517835,Suporte e Carregador de isqueiro iphone 5 (Kit mãos livres) - Braga - Peças e acessórios - Google Chrome
+SW,63528319540638,Open
+SW,63528319546772,Anúncios grátis em Portugal, Anúncios classificados em Portugal (Compra em Portugal, Venda em Portugal, Contactos em Portugal, Motor em Portugal, Moradia - Google Chrome
+SW,63528319698956,Open
+SW,63528319700191,
+SW,63528319701323,Public
+SW,63528319714472, A comprimir ISAI_14_SUBMITED.zip
+SW,63528319714795,Articles
+SW,63528319716174,Open
+SW,63528319721254,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528319742988,
+SW,63528319744187,Articles
+SW,63528319748706,
+SW,63528319748857,ISAI_14_SUBMITED
+SW,63528319749471,ISAI.pdf - Adobe Reader
+SW,63528319754194,ISAI_14_SUBMITED
+SW,63528319783653,
+SW,63528319790082,Recycle Bin
+SW,63528319792112,Articles
+SW,63528319793351,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528319922197,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528319922217,Articles
+SW,63528320075422,Articles
+SW,63528320172309,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528320263333,Word
+SW,63528320291981,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528320544666,Dropbox
+SW,63528320566420,Records_pimenta
+SW,63528320566422,Ian Dunican | LinkedIn - Google Chrome
+SW,63528320570657,Records_pimenta
+SW,63528320575811,Untitled - Google Chrome
+SW,63528320665194,Untitled - Google Chrome
+SW,63528320666617,63517627600234_pimenta.txt - Dropbox - Google Chrome
+SW,63528322326774,Word
+SW,63528322332078,Task Switching
+SW,63528322332145,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528322337964,Task Switching
+SW,63528322338029,Document1 - Word
+SW,63528322344191,Task Switching
+SW,63528322344285,Cedric diz… - Google Chrome
+SW,63528322354402,Task Switching
+SW,63528322354481,Document1 - Word
+SW,63528322361311,Task Switching
+SW,63528322361376,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528322373795,Task Switching
+SW,63528322373860,Document1 - Word
+SW,63528322388608,
+SW,63528322389873,Document1 - Word
+SW,63528322391716,
+SW,63528322392411,Document1 - Word
+SW,63528322394888,Task Switching
+SW,63528322394956,Cedric diz… - Google Chrome
+SW,63528322413772,Document1 - Word
+SW,63528322418027,Task Switching
+SW,63528322418103,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528322418585,Task Switching
+SW,63528322418615,Document1 - Word
+SW,63528322419352,Task Switching
+SW,63528322419391,Document1 - Word
+SW,63528322419849,Task Switching
+SW,63528322419915,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528322456284,Document1 - Word
+SW,63528322468947,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528322538386,Task Switching
+SW,63528322538432,Document1 - Word
+SW,63528322540123,CAMCoF - Google Chrome
+SW,63528322742705,Document1 - Word
+SW,63528322754010,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528322837113,Document1 - Word
+SW,63528322853984,texto identico - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528323106210,"Universidade" (4) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528327532284,
+SW,63528327532379,
+SW,63528327533682,
+SW,63528327540962,Skype
+SW,63528327543385,
+SW,63528327543614,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528327543773,Skype™ - andre.pimenta.53
+SW,63528327564586,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528328552810,Records_pimenta
+SW,63528328575983,Task Switching
+SW,63528328576047,Estudo do efeito da Música no Stress - Google Chrome
+SW,63528328584838,Task Switching
+SW,63528328584991,Release
+SW,63528328588820,
+SW,63528328592255,Browse For Folder
+SW,63528328594770,User Interaction Capturer - ISLab
+SW,63528328623451,
+SW,63528328623666,
+SW,63528328625706,User Interaction Capturer - ISLab
+SW,63528328627848,Browse For Folder
+SW,63528328631153,User Interaction Capturer - ISLab
+SW,63528328662632,Program Manager
+SW,63528328666202,Release
+SW,63528328677706,Estudo do efeito da Música no Stress - Google Chrome
+SW,63528328897790,User Interaction Capturer - ISLab
+SW,63528328901537,
+SW,63528328901799,Microsoft .NET Framework
+SW,63528328905952,
+SW,63528328906004,Microsoft .NET Framework
+SW,63528328906639,
+SW,63528328906825,Microsoft .NET Framework
+SW,63528328907488,
+SW,63528328907508,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528328909192,
+SW,6

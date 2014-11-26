@@ -1,0 +1,1098 @@
+# user: test #
+SW,63527880147646,Dialog
+SW,63527880186867,
+SW,63527880428687,
+SW,63527880457348,Start
+SW,63527880457449,Start menu
+SW,63527880462495,DoubleClickShield
+SW,63527880462722,
+SW,63527880464324,Opening - Outlook
+SW,63527880464345,Outlook
+SW,63527880561141,Office: Overview | LinkedIn - Google Chrome
+SW,63527880616053,Inbox - apr.pimenta@hotmail.com - Outlook
+SW,63527880620562,O mesmo nome, o mesmo serviço fantástico - Message (HTML) 
+SW,63527880636107,Inbox - apr.pimenta@hotmail.com - Outlook
+SW,63527880640680,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527880914730,Eclipse
+SW,63527880969380,Java - Eclipse
+SW,63527881071489,
+SW,63527881072215,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881422471,
+SW,63527881422739,
+SW,63527881425645,File Explorer
+SW,63527881444974,C:\Users\André\Desktop\Release\Output\test_63526702261435.fatigue - Sublime Text (UNREGISTERED)
+SW,63527881460765,Output
+SW,63527881461932,Output
+SW,63527881462019,
+SW,63527881484940,C:\Users\André\Desktop\Release\Output\test_63526702261435.fatigue - Sublime Text (UNREGISTERED)
+SW,63527881539556,Records_fava
+SW,63527881543894,E:\Dropbox\Records\original_data\Records_fava\63519686381961_champion.txt - Sublime Text (UNREGISTERED)
+SW,63527881638747,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527881658940,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881807921,
+SW,63527881808783,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881821570,Run As
+SW,63527881826022,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881858459,E:\Dropbox\Records\original_data\Records_fava\63519686381961_champion.txt - Sublime Text (UNREGISTERED)
+SW,63527881860266,Task Switching
+SW,63527881860294,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881904373,Save and Launch
+SW,63527881905861,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881909318,Properties for java.lang.ArrayIndexOutOfBoundsException
+SW,63527881910661,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527881992924,
+SW,63527881994091,Opening - Excel
+SW,63527881994361,Excel
+SW,63527882120795,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882128193,Book1 - Excel
+SW,63527882132364,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882157202,Book1 - Excel
+SW,63527882177563,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882189015,Find/Replace
+SW,63527882204979,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882211674,Book1 - Excel
+SW,63527882220504,Find/Replace
+SW,63527882235206,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882238009,Book1 - Excel
+SW,63527882242297,Find/Replace
+SW,63527882250127,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882271533,Find/Replace
+SW,63527882277398,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882378988,Find/Replace
+SW,63527882387137,
+SW,63527882387351,
+SW,63527882388046,Word
+SW,63527882397624,Find/Replace
+SW,63527882410502,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882414076,Find/Replace
+SW,63527882414186,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882459827,Find/Replace
+SW,63527882465786,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882468362,Find/Replace
+SW,63527882494942,
+SW,63527882495218,
+SW,63527882496708,File Explorer
+SW,63527882512891,User Interaction Capturer - ISLab
+SW,63527882519882,C:\Windows\System32\java.exe
+SW,63527882522055,Release
+SW,63527882538638,Book1 - Excel
+SW,63527882540240,Task Switching
+SW,63527882540295,Output
+SW,63527882541932,Five Questions on How Fatigue Risk Management Systems Can Help Your Business - Google Chrome
+SW,63527882542881,Task Switching
+SW,63527882542958,Output
+SW,63527882554060,Task Switching
+SW,63527882554136,Five Questions on How Fatigue Risk Management Systems Can Help Your Business - Google Chrome
+SW,63527882566579,Task Switching
+SW,63527882566593,Output
+SW,63527882570126,Book1 - Excel
+SW,63527882571888,Output
+SW,63527882573793,
+SW,63527882574703,Records_fava
+SW,63527882618329,
+SW,63527882619853,Records_fava
+SW,63527882621192,
+SW,63527882622215,Output
+SW,63527882625770,C:\Users\André\Desktop\Ultimo_test\Release\Output\test_63527882520488.fatigue - Sublime Text (UNREGISTERED)
+SW,63527882635761,Output
+SW,63527882637036,C:\Windows\System32\java.exe
+SW,63527882638052,User Interaction Capturer - ISLab
+SW,63527882642405,Output
+SW,63527882644829,
+SW,63527882645059,
+SW,63527882650513,File Explorer
+SW,63527882670894,Output
+SW,63527882674157,Program Manager
+SW,63527882674387,File Explorer
+SW,63527882677627,Output
+SW,63527882679938,Program Manager
+SW,63527882680176,File Explorer
+SW,63527882707015,Output
+SW,63527882708818,Program Manager
+SW,63527882712257,File Explorer
+SW,63527882714789,Output
+SW,63527882716011,Program Manager
+SW,63527882716273,File Explorer
+SW,63527882727086,Output
+SW,63527882728693,
+SW,63527882731918,Records_fava
+SW,63527882760679,
+SW,63527882767697,
+SW,63527882768619,User Interaction Capturer - ISLab
+SW,63527882769662,Register
+SW,63527882776563,Register
+SW,63527882778029,Register
+SW,63527882779124,User Interaction Capturer - ISLab
+SW,63527882781317,Release
+SW,63527882782923,Book1 - Excel
+SW,63527882784596,Task Switching
+SW,63527882784644,Release
+SW,63527882785287,Task Switching
+SW,63527882785350,Book1 - Excel
+SW,63527882787946,Document1 - Word
+SW,63527882788992,Task Switching
+SW,63527882789068,Book1 - Excel
+SW,63527882791882,User Interaction Capturer - ISLab
+SW,63527882795390,Book1 - Excel
+SW,63527882795935,Task Switching
+SW,63527882795983,User Interaction Capturer - ISLab
+SW,63527882796907,Task Switching
+SW,63527882796971,Book1 - Excel
+SW,63527882797378,Task Switching
+SW,63527882797772,Document1 - Word
+SW,63527882799443,Book1 - Excel
+SW,63527882801034,User Interaction Capturer - ISLab
+SW,63527882802695,Book1 - Excel
+SW,63527882803863,
+SW,63527882806037,Release
+SW,63527882841109,C:\Users\André\Desktop\Ultimo_test\Release\Output\test_63527882520488.fatigue - Sublime Text (UNREGISTERED)
+SW,63527882849473,Book1 - Excel
+SW,63527882851810,Task Switching
+SW,63527882851884,E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection_music\SampleApplication\bin\x86\Release\Records\63527882794208_test.txt - Sublime Text (UNREGISTERED)
+SW,63527882858819,Task Switching
+SW,63527882858940,Book1 - Excel
+SW,63527882860760,Task Switching
+SW,63527882860859,E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection_music\SampleApplication\bin\x86\Release\Records\63527882794208_test.txt - Sublime Text (UNREGISTERED)
+SW,63527882861828,Task Switching
+SW,63527882861891,Book1 - Excel
+SW,63527882866040,Task Switching
+SW,63527882866112,E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection_music\SampleApplication\bin\x86\Release\Records\63527882794208_test.txt - Sublime Text (UNREGISTERED)
+SW,63527882867915,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882881339,Book1 - Excel
+SW,63527882905100,
+SW,63527882907546,Book1 - Excel
+SW,63527882909508,
+SW,63527882911157,Book1 - Excel
+SW,63527882917557,
+SW,63527882919712,Book1 - Excel
+SW,63527882921227,
+SW,63527882923000,Book1 - Excel
+SW,63527882929070,
+SW,63527882930587,Book1 - Excel
+SW,63527882933729,
+SW,63527882935803,Book1 - Excel
+SW,63527882937899,
+SW,63527882940482,Book1 - Excel
+SW,63527882951531,Find/Replace
+SW,63527882951642,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527882998316,Book1 - Excel
+SW,63527883010738,
+SW,63527883012225,Book1 - Excel
+SW,63527883015844,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883022492,Book1 - Excel
+SW,63527883029027,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883046146,Book1 - Excel
+SW,63527883053548,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883085032,Book1 - Excel
+SW,63527883090259,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883101802,Book1 - Excel
+SW,63527883105819,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883113066,Book1 - Excel
+SW,63527883117058,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883132434,Book1 - Excel
+SW,63527883135955,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883284329,Book1 - Excel
+SW,63527883316929,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883318775,Five Questions on How Fatigue Risk Management Systems Can Help Your Business - Google Chrome
+SW,63527883360354,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883369328,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527883381646,arraylist with values - Pesquisa do Google - Google Chrome
+SW,63527883381666,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883498041,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883519194,
+SW,63527883520097,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883533429,Book1 - Excel
+SW,63527883536894,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883541829,Book1 - Excel
+SW,63527883545054,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883559733,Book1 - Excel
+SW,63527883562702,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883569604,Book1 - Excel
+SW,63527883573358,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883592758,Book1 - Excel
+SW,63527883595998,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883600198,Book1 - Excel
+SW,63527883602839,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883606598,Book1 - Excel
+SW,63527883608333,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883657645,Book1 - Excel
+SW,63527883662438,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883733293,Book1 - Excel
+SW,63527883738541,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883760405,Book1 - Excel
+SW,63527883764597,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883788077,Book1 - Excel
+SW,63527883793332,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883801251,java - Initializing ArrayList with some predefined values - Stack Overflow - Google Chrome
+SW,63527883842154,Task Switching
+SW,63527883842208,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883843396,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527883894083,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527883939457,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527884014420,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884098399,
+SW,63527884099217,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884218048,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527884337177,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884380332,Find/Replace
+SW,63527884388356,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884468863,Task Switching
+SW,63527884468923,In Java, how to check if a string contains a substring ( ignoring the case )? - Stack Overflow - Google Chrome
+SW,63527884471777,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884473093,In Java, how to check if a string contains a substring ( ignoring the case )? - Stack Overflow - Google Chrome
+SW,63527884477511,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884728205,In Java, how to check if a string contains a substring ( ignoring the case )? - Stack Overflow - Google Chrome
+SW,63527884750326,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527884850524,Facebook - Google Chrome
+SW,63527884861126,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527885459706,
+SW,63527885460846,Records
+SW,63527885470315,Progress
+SW,63527885471907,Downloads
+SW,63527885504583,E:\Dropbox\Records\original_data\Records_fava\63519466494606_champion.txt - Sublime Text (UNREGISTERED)
+SW,63527885524299,Records_fava
+SW,63527885525736,Task Switching
+SW,63527885525811,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527885527299,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527885592787,Records_fava
+SW,63527885597732,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527885689417,Facebook - Google Chrome
+SW,63527885776773,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527886276988,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527886466143,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527886627453,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527886670910,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527886694666,Generate Getters and Setters
+SW,63527886698173,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527886916853,
+SW,63527886917628,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527886931621,
+SW,63527886932354,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527887089636,
+SW,63527887096197,Records_temp
+SW,63527887163911,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527887171179,
+SW,63527887173376,test
+SW,63527887176306,
+SW,63527887176504,Jump List
+SW,63527887178505,test
+SW,63527887182973,
+SW,63527887183163,Jump List
+SW,63527887186019,File Explorer
+SW,63527887192433,
+SW,63527887192549,analysis_2
+SW,63527887193712,report.pdf - Adobe Reader
+SW,63527887202729,analysis_2
+SW,63527887207012,
+SW,63527887209071,test
+SW,63527887215730,E:\Dropbox\Records\original_data\Records_fava\63519466494606_champion.txt - Sublime Text (UNREGISTERED)
+SW,63527887229520,test
+SW,63527887237501,TexMaker
+SW,63527887238483,Texmaker
+SW,63527887255557,Abrir ficheiro
+SW,63527887267844,Texmaker
+SW,63527887286092,
+SW,63527887287582,test
+SW,63527887291291,Task Switching
+SW,63527887291323,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527887316927,Task Switching
+SW,63527887317008,test
+SW,63527887319147,Task Switching
+SW,63527887319211,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527887327820,Task Switching
+SW,63527887327886,test
+SW,63527887329134,Task Switching
+SW,63527887329199,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527887330258,Task Switching
+SW,63527887330329,test
+SW,63527887331074,Task Switching
+SW,63527887331145,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527888513053,For each loop on Java HashMap - Stack Overflow - Google Chrome
+SW,63527888592105,Start
+SW,63527888594806,
+SW,63527888594883,Run
+SW,63527888602261,Run
+SW,63527888602396,
+SW,63527888602397,Program Manager
+SW,63527888602589,Registry Editor
+SW,63527888660529,Edit DWORD (32-bit) Value
+SW,63527888662905,Impressoras Departamentais - Google Chrome
+SW,63527888664968,Edit DWORD (32-bit) Value
+SW,63527888669726,Registry Editor
+SW,63527888675093,Impressoras Departamentais - Google Chrome
+SW,63527888686205,Start
+SW,63527888687313,
+SW,63527888687400,Run
+SW,63527888691323,
+SW,63527888691332,Program Manager
+SW,63527888691552,File Explorer
+SW,63527888692084,Windows Security
+SW,63527888701592,Impressoras Departamentais - Google Chrome
+SW,63527888705572,Task Switching
+SW,63527888705663,Windows Security
+SW,63527888707341,Task Switching
+SW,63527888707372,Impressoras - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527888712944,Task Switching
+SW,63527888713014,Windows Security
+SW,63527888716674,File Explorer
+SW,63527888721434,Windows Printer Installation
+SW,63527888721738,Connect to Printer
+SW,63527888726373,Windows Printer Installation
+SW,63527888728650,Add Printer Wizard
+SW,63527888731493,Windows Printer Installation
+SW,63527888733890,printers2.di.uminho.pt
+SW,63527888734445,ricoh2060 on printers2.di.uminho.pt
+SW,63527888738299,printers2.di.uminho.pt
+SW,63527888739502,Windows Printer Installation
+SW,63527888739693,Connect to Printer
+SW,63527888741026,Windows Printer Installation
+SW,63527888742227,Add Printer Wizard
+SW,63527888751326,Windows Printer Installation
+SW,63527888752721,printers2.di.uminho.pt
+SW,63527888753037,oki9300 on printers2.di.uminho.pt
+SW,63527888755855,printers2.di.uminho.pt
+SW,63527888756934,Windows Printer Installation
+SW,63527888757181,Connect to Printer
+SW,63527888758044,Windows Printer Installation
+SW,63527888759070,Add Printer Wizard
+SW,63527888760580,Windows Printer Installation
+SW,63527888762067,printers2.di.uminho.pt
+SW,63527888762327,hp1606dn on printers2.di.uminho.pt
+SW,63527888764037,printers2.di.uminho.pt
+SW,63527888765442,Impressoras - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527888769495,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889103780,
+SW,63527889105006,test
+SW,63527889106565,
+SW,63527889106703,test
+SW,63527889107268,report.pdf - Adobe Reader
+SW,63527889118637,Task Switching
+SW,63527889118706,test
+SW,63527889120739,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889124740,Task Switching
+SW,63527889124811,test
+SW,63527889125658,Task Switching
+SW,63527889125728,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889145542,
+SW,63527889148396,test
+SW,63527889150745,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889166274,report.pdf - Adobe Reader
+SW,63527889167694,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889169636,Impressoras - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527889195054,Task Switching
+SW,63527889195131,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889201898,
+SW,63527889203158,test
+SW,63527889204310,
+SW,63527889204422,test
+SW,63527889204969,report.pdf - Adobe Reader
+SW,63527889242199,Task Switching
+SW,63527889242266,test
+SW,63527889244578,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889254258,Task Switching
+SW,63527889254327,test
+SW,63527889255117,Task Switching
+SW,63527889255155,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889255488,Task Switching
+SW,63527889256043,report.pdf - Adobe Reader
+SW,63527889257302,Task Switching
+SW,63527889257380,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889287129,report.pdf - Adobe Reader
+SW,63527889288143,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889292874,Impressoras - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527889326211,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889328509,
+SW,63527889331323,test
+SW,63527889332471,
+SW,63527889332595,test
+SW,63527889333182,report.pdf - Adobe Reader
+SW,63527889383009,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889386161,Task Switching
+SW,63527889386220,report.pdf - Adobe Reader
+SW,63527889388846,Task Switching
+SW,63527889388912,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889390056,Task Switching
+SW,63527889390121,report.pdf - Adobe Reader
+SW,63527889391105,Task Switching
+SW,63527889391175,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889399472,report.pdf - Adobe Reader
+SW,63527889401161,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889405060,
+SW,63527889407890,test
+SW,63527889443315,
+SW,63527889450292,Records_fava
+SW,63527889463626,
+SW,63527889465483,analysis_2
+SW,63527889467966,Records_temp
+SW,63527889469056,
+SW,63527889471562,Records_temp
+SW,63527889508478,Progress
+SW,63527889510119,Records_temp
+SW,63527889511858,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527889528568,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889554943,Impressoras - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527889589132,
+SW,63527889592825,Records_temp
+SW,63527889602948,
+SW,63527889603043,test
+SW,63527889603732,report_um_dia.pdf - Adobe Reader
+SW,63527889606326,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889610263,report_um_dia.pdf - Adobe Reader
+SW,63527889662735,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889664518,Task Switching
+SW,63527889664586,report_um_dia.pdf - Adobe Reader
+SW,63527889692062,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527889704093,
+SW,63527889706263,test
+SW,63527889707469,
+SW,63527889707616,test
+SW,63527889707695,report_um_dia.pdf - Adobe Reader
+SW,63527889708018,report.pdf - Adobe Reader
+SW,63527889802882,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527889839039,report.pdf - Adobe Reader
+SW,63527889860258,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527889866079,report.pdf - Adobe Reader
+SW,63527889965090,
+SW,63527889966686,report_um_dia.pdf - Adobe Reader
+SW,63527890035322,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527890136752,report_um_dia.pdf - Adobe Reader
+SW,63527890186344,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527890229349,report_um_dia.pdf - Adobe Reader
+SW,63527890231997,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527890235961,Git Bash
+SW,63527890375723,Impressoras - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527890398763,Task Switching
+SW,63527890398825,MINGW32:/e/Workspace/GitHub/CAMCoF
+SW,63527890438009,Google Tradutor - Google Chrome
+SW,63527890525315,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527890559106,[ALUNOS-PDINf-154] Fwd: Abertura do ano letivo para os alunos da 3.ª fase e presentação das unidades transversais da EEUM - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527890660395,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527890681200,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527890710955,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527890766624,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527890833347,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527890900199,For each loop on Java HashMap - Stack Overflow - Google Chrome
+SW,63527890937936,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527890952791,
+SW,63527890954094,report_um_dia.pdf - Adobe Reader
+SW,63527891055635,HAIS14 submission 22 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527891064116,report_um_dia.pdf - Adobe Reader
+SW,63527891113348,HAIS14 submission 22 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527891168626,
+SW,63527891169844,test
+SW,63527891172483,
+SW,63527891172599,Data (E:)
+SW,63527891172731,report_um_dia.pdf - Adobe Reader
+SW,63527891173465,rhytms2.pdf - Adobe Reader
+SW,63527891185607,Print
+SW,63527891194874,rhytms2.pdf - Adobe Reader
+SW,63527891195577,Progress
+SW,63527891207980,rhytms2.pdf - Adobe Reader
+SW,63527891208013,Progress
+SW,63527891208033,rhytms2.pdf - Adobe Reader
+SW,63527891211234,report_um_dia.pdf - Adobe Reader
+SW,63527891212586,Data (E:)
+SW,63527891212953,
+SW,63527891213060,Data (E:)
+SW,63527891213196,report_um_dia.pdf - Adobe Reader
+SW,63527891213573,rythms.pdf - Adobe Reader
+SW,63527891220821,Print
+SW,63527891226554,rythms.pdf - Adobe Reader
+SW,63527891227281,Progress
+SW,63527891237973,rythms.pdf - Adobe Reader
+SW,63527891238011,Progress
+SW,63527891238028,rythms.pdf - Adobe Reader
+SW,63527891375769,Facebook - Google Chrome
+SW,63527891416587,Save As
+SW,63527891421360,HAIS14 Submission 22 - Google Chrome
+SW,63527891424133,
+SW,63527891424166,HAIS14 Submission 22 - Google Chrome
+SW,63527891424253,rythms.pdf - Adobe Reader
+SW,63527891424605,hais14_submission_22.pdf - Adobe Reader
+SW,63527891701183,
+SW,63527891702359,rythms.pdf - Adobe Reader
+SW,63527891707861,
+SW,63527891707958,
+SW,63527891710756,Print
+SW,63527891731681,rythms.pdf - Adobe Reader
+SW,63527891732437,Progress
+SW,63527891741696,rythms.pdf - Adobe Reader
+SW,63527891741729,Progress
+SW,63527891741746,rythms.pdf - Adobe Reader
+SW,63527891746991,
+SW,63527891749304,
+SW,63527891751348,rythms.pdf - Adobe Reader
+SW,63527891755526,
+SW,63527891755535,
+SW,63527891756922,File Explorer
+SW,63527891775980,
+SW,63527891776992,Data (E:)
+SW,63527891778307,
+SW,63527891778414,Data (E:)
+SW,63527891778539,rythms.pdf - Adobe Reader
+SW,63527891778877,rhytms2.pdf - Adobe Reader
+SW,63527891786906,Print
+SW,63527891801915,rhytms2.pdf - Adobe Reader
+SW,63527891802632,Progress
+SW,63527891813628,rhytms2.pdf - Adobe Reader
+SW,63527891813662,Progress
+SW,63527891813683,rhytms2.pdf - Adobe Reader
+SW,63527891940412,HAIS14 Submission 22 - Google Chrome
+SW,63527891995849,report_um_dia.pdf - Adobe Reader
+SW,63527892017034,
+SW,63527892018597,hais14_submission_22.pdf - Adobe Reader
+SW,63527892019800,report_um_dia.pdf - Adobe Reader
+SW,63527892030448,hais14_submission_22.pdf - Adobe Reader
+SW,63527892140935,Spam (100) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527892343217,Spam (100) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527897418306,The page at https://www.easychair.org says:
+SW,63527897421082,My Account - Google Chrome
+SW,63527897917681,
+SW,63527897918581,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527897919003,Visio Professional
+SW,63527897924987,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527897939354,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527898249255,Devices and Printers
+SW,63527898250856,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527898427163,Settings
+SW,63527898430490,
+SW,63527898431664,Settings
+SW,63527898432184,lock user account c# windows - Pesquisa do Google - Google Chrome
+SW,63527898488565,
+SW,63527898490465,Data (E:)
+SW,63527898513711,100% complete
+SW,63527898514093,Client
+SW,63527898541301,Enabling and Disabling the User Account - Google Chrome
+SW,63527898541347,Client
+SW,63527898554895,Task Switching
+SW,63527898557008,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527898558542,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527898559581,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527898563886,
+SW,63527898564000,Java - InputReport/src/context/application/WindowsApplicationData.java - Eclipse
+SW,63527898572482,
+SW,63527898573760,Client
+SW,63527898587349,Google Tradutor - Google Chrome
+SW,63527898640350,Microsoft Visual Studio
+SW,63527898640550,
+SW,63527898641587,
+SW,63527898641708,
+SW,63527898642189,Start Page - Microsoft Visual Studio
+SW,63527898642644,
+SW,63527898646967,Skype
+SW,63527898649365,
+SW,63527898649794,Skype™ - andre.pimenta.53
+SW,63527898676442,
+SW,63527898678109,Facebook - Google Chrome
+SW,63527898711625,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527898712558,Task Manager
+SW,63527898721423,Task Manager
+SW,63527898751939,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527898753206,
+SW,63527898756589,Client
+SW,63527898760881,
+SW,63527898761421,Output
+SW,63527898775124,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527898889282,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527898971049,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527899012136,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527899064880,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527899095575,Facebook - Google Chrome
+SW,63527899153723,
+SW,63527899154864,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527899167447,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527899197525,Open Project
+SW,63527899219797,Start Page - Microsoft Visual Studio
+SW,63527899225620,Start Page - Microsoft Visual Studio
+SW,63527899226490,Start Page - Microsoft Visual Studio
+SW,63527899254215,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527899258360,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899286087,Enable/Disable local active directory account from code? - C# / C Sharp - Google Chrome
+SW,63527899293879,SYSTEM OF A DOWN - TOP 30 (Full Album) - YouTube - Google Chrome
+SW,63527899293904,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899334839,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899339595,
+SW,63527899339605,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899345277,Task Switching
+SW,63527899345310,Facebook - Google Chrome
+SW,63527899354247,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899380190,Enabling and Disabling the User Account - Google Chrome
+SW,63527899396063,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899411020,DirectoryEntries.Find Method (String, String) (System.DirectoryServices) - Google Chrome
+SW,63527899429110,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899432654,Active Directory: Get All Users using C# with Linq To Active Directory « OmegaMan's Musings - Google Chrome
+SW,63527899448262,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899477509,Active Directory: Get All Users using C# with Linq To Active Directory « OmegaMan's Musings - Google Chrome
+SW,63527899487422,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899492629,Active Directory: Get All Users using C# with Linq To Active Directory « OmegaMan's Musings - Google Chrome
+SW,63527899494862,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899525719,Reference Manager - HookSampleApplication
+SW,63527899540635,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899548423,Reference Manager - HookSampleApplication
+SW,63527899567889,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899589619,
+SW,63527899591629,
+SW,63527899594774,User Interaction Capturer - ISLab
+SW,63527899601649,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527899601877,Active Directory: Get All Users using C# with Linq To Active Directory « OmegaMan's Musings - Google Chrome
+SW,63527899602206,
+SW,63527899607196,Active Directory: Get All Users using C# with Linq To Active Directory « OmegaMan's Musings - Google Chrome
+SW,63527899609536,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899691597,
+SW,63527899693236,
+SW,63527899694234,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527899699165,
+SW,63527899699244,User Interaction Capturer - ISLab
+SW,63527899699745,
+SW,63527899701130,User Interaction Capturer - ISLab
+SW,63527899702232,
+SW,63527899702538,
+SW,63527899712018,
+SW,63527899713550,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899720019,c# - How do I lock and force the user to re-enter one's windows password? - Stack Overflow - Google Chrome
+SW,63527899741027,c# - How do I lock and force the user to re-enter one's windows password? - Stack Overflow - Google Chrome
+SW,63527899742972,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527899969407,
+SW,63527899971274,
+SW,63527899974467,User Interaction Capturer - ISLab
+SW,63527899977562,
+SW,63527899977597,
+SW,63527899999424,User Interaction Capturer - ISLab
+SW,63527900002343,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527900120489,c# - How do I lock and force the user to re-enter one's windows password? - Stack Overflow - Google Chrome
+SW,63527900126511,Task Switching
+SW,63527900126590,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900131952,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527900174752,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527900403965,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527900420676,
+SW,63527900420742,Facebook - Google Chrome
+SW,63527900426060,
+SW,63527900429166,Records_pimenta
+SW,63527900488621,Resultados de pesquisa - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527900497621,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527900500358,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900508214,Microsoft Visual Studio
+SW,63527900508867,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900510856,Microsoft Visual Studio
+SW,63527900512026,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900573838,
+SW,63527900575953,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900589921,
+SW,63527900591265,Client
+SW,63527900609195,E:\Dropbox\Records\test\report.Rnw - Sublime Text (UNREGISTERED)
+SW,63527900640279,Task Switching
+SW,63527900640367,SampleApplication
+SW,63527900642884,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527900646325,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900676206,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900690522,Task Switching
+SW,63527900690589,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900710053,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900737229,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900820235,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900822413,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900825722,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900845707,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900870922,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900875734,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900884234,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900906529,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900940304,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527900952640,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527900991009,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901003585,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901007633,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901017050,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901021526,Microsoft Visual Studio
+SW,63527901022878,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901042001,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901049417,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901059777,Microsoft Visual Studio
+SW,63527901060286,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901070951,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901076715,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901090080,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901101931,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901113703,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901120290,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901123296,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901140738,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901145302,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901151944,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901187215,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901188591,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901306215,Resultados de pesquisa - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527901345357,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901367462,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901368567,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901374934,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901382839,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901387188,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901396114,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901414013,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901418054,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901428389,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901438172,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901471932,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527901476278,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901481307,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901484181,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901507246,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901510725,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901523109,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901525568,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901529658,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901542226,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901553283,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901557113,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901563090,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901571061,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901587714,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901600489,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901614373,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901617980,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901623891,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901631532,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901637146,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901644799,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901651038,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901659724,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901672466,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Cliente_v.1.2\client_connection\SampleApplication\HookTestForm.cs - Sublime Text (UNREGISTERED)
+SW,63527901687628,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901703860,1000 * 30 - Pesquisa do Google - Google Chrome
+SW,63527901713115,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901724541,Microsoft Visual Studio
+SW,63527901725132,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901763155,c# - How do I lock and force the user to re-enter one's windows password? - Stack Overflow - Google Chrome
+SW,63527901766778,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901770879,
+SW,63527901776828,SampleApplication
+SW,63527901801502,100% complete
+SW,63527901801929,Client_user verification
+SW,63527901821680,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527901824553,Client_user verification
+SW,63527901851497,100% complete
+SW,63527901860321,Mouse&Keyboard_Record
+SW,63527901888516,Folder In Use
+SW,63527901893449,Mouse&Keyboard_Record
+SW,63527901897002,Programa da Conferência - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527901911928,Microsoft Visual Studio
+SW,63527901973741,Programa da Conferência - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527901973762,Start Page - Microsoft Visual Studio
+SW,63527901987376,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527901991159,Programa da Conferência - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527902004663,Task Switching
+SW,63527902004729,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902013823,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902021707,
+SW,63527902023049,Mouse&Keyboard_Record
+SW,63527902029104,Folder In Use
+SW,63527902032320,Mouse&Keyboard_Record
+SW,63527902034936,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902070843,Close Project
+SW,63527902073417,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902143277,Programa da Conferência - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527902279358,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902291154,Import
+SW,63527902296356,Browse For Folder
+SW,63527902312292,Import
+SW,63527902324181,
+SW,63527902327199,Client
+SW,63527902361111,Import
+SW,63527902362338,Browse For Folder
+SW,63527902369991,Import
+SW,63527902382207,
+SW,63527902386749,User_verification
+SW,63527902392129,E:\Workspace\GitHub\CAMCoF\Client\User_verification\Local_Server_user_verification\User_verification\.classpath - Sublime Text (UNREGISTERED)
+SW,63527902425833,User_verification
+SW,63527902427884,Import
+SW,63527902429545,Browse For Folder
+SW,63527902438037,Import
+SW,63527902450021,
+SW,63527902452053,User_verification
+SW,63527902460365,Import
+SW,63527902461497,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902465058,Export
+SW,63527902469000,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902471391,Import
+SW,63527902478028,Import from directory
+SW,63527902482571,Import
+SW,63527902483439,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902486411,Import
+SW,63527902495102,Browse For Folder
+SW,63527902498902,Import
+SW,63527902520368,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902521428,
+SW,63527902522943,User_verification
+SW,63527902541429,untitled - Sublime Text (UNREGISTERED)
+SW,63527902547306,RemoteSystemsTempFiles
+SW,63527902549604,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902553506,Programa da Conferência - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527902679698,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902690402,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527902691175,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527902691199,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902699072,Import
+SW,63527902703405,Import from directory
+SW,63527902745480,Import
+SW,63527902758007,
+SW,63527902760307,RemoteSystemsTempFiles
+SW,63527902761896,
+SW,63527902763675,RemoteSystemsTempFiles
+SW,63527902822299,E:\Workspace\eclipse\RemoteSystemsTempFiles\.project - Sublime Text (UNREGISTERED)
+SW,63527902848907,User_verification
+SW,63527902850136,Import
+SW,63527902852476,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902856436,Import
+SW,63527902861588,Browse For Folder
+SW,63527902869370,Import
+SW,63527902875629,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527902909122,Task Switching
+SW,63527902909191,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527903146347,Java - User_verification/src/machineLearning/data/FatigueDataClassification.java - Eclipse
+SW,63527903216760,Find/Replace
+SW,63527903219892,Java - User_verification/src/report/DailyReport.java - Eclipse
+SW,63527903222876,Find/Replace
+SW,63527903223021,Java - User_verification/src/report/DailyReport.java - Eclipse
+SW,63527903237599,c# - How do I lock and force the user to re-enter one's windows password? - Stack Overflow - Google Chrome
+SW,63527903256368,Java - User_verification/src/report/DailyReport.java - Eclipse
+SW,63527903262390,Document : E:/Dropbox/Records/test/report.Rnw
+SW,63527903265971,Java - User_verification/src/report/DailyReport.java - Eclipse
+SW,63527903268681,Java - User_verification/src/report/DailyReport.java - Eclipse
+SW,63527903285602,Java - User_verification/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527903304511,
+SW,63527903308693,Records_fava
+SW,63527903326143,
+SW,63527903327421,User_verification
+SW,63527903391179,Java - User_verification/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527903393172,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527903397748,Java - User_verification/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527903406864,
+SW,63527903408732,original_data
+SW,63527903412034,Records_pimenta Properties
+SW,63527903414716,
+SW,63527903414748,original_data
+SW,63527903427758,Java - User_verification/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527903473966,
+SW,63527903478364,InputReport
+SW,63527903490448,E:\Workspace\eclipse\RemoteSystemsTempFiles\.project - Sublime Text (UNREGISTERED)
+SW,63527903497100,
+SW,63527903497100,
+SW,63527903497101,
+SW,63527903497102,
+SW,63527903497103,
+SW,63527903497103,
+SW,63527903497153,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527903498635,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527903512682,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527903585081,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527903605404,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527903667330,
+SW,63527903668782,Skype™ - andre.pimenta.53
+SW,63527903674040,
+SW,63527903674670,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527903683891,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527903692347,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527905692229,Enabling and Disabling the User Account - Google Chrome
+SW,63527905732258,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527905734536,
+SW,63527905734636,Battery Meter
+SW,63527905736402,File Explorer
+SW,63527905740447,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527905742200,Facebook - Google Chrome
+SW,63527905795545,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527906559959,Enabling and Disabling the User Account - Google Chrome
+SW,63527908757648,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527908827995,(2) Facebook - Google Chrome
+SW,63527909285489,
+SW,63527909285598,
+SW,63527909289848,(1) Facebook - Google Chrome
+SW,63527909548506,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527909607159,Caixa de entrada (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527909628279,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527909630174,Facebook - Google Chrome
+SW,63527909631696,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527909673278,Caixa de entrada (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527909740568,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527909866934,Enabling and Disabling the User Account - Google Chrome
+SW,63527909943941,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527909947155,Facebook - Google Chrome
+SW,63527909952385,
+SW,63527909952470,
+SW,63527909954386,Aí vai... - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527909981441,
+SW,63527909981752,ricoh2060 on printers2.di.uminho.pt
+SW,63527910017048,
+SW,63527910019217,https://doc-0k-50-apps-viewer.googleusercontent.com/viewer/secure/pdf/3avbmpuhnb1f0st0n85hpqf8u8lvt211/os74aag782da0liri05urj20ollrevhp/1392313125000/gmail/04155169729591229081/ACFrOgDQhwfBqpWa_6XTYvBk3eIkK6vIqDr9D7X_FVbgFTMMaydX-nGaLJNNdQkVou8MxI4HwiqkVUtiBCM9NEYJ2PzGqRY-rgCytZQJbE6PeS9yD5y2fy1dbKe5SO8=/3avbmpuhnb1f0st0n85hpqf8u8lvt211/os74aag782da0liri05urj20ollrevhp/1392313125000/gmail/04155169729591229081/ACFrOgDQhwfBqpWa_6XTYvBk3eIkK6vIqDr9D7X_FVbgFTMMaydX-nGaLJNNdQkVou8MxI4HwiqkVUtiBCM9NE
+SW,63527910041258,Power Options
+SW,63527910042245,Power Options
+SW,63527910042280,https://doc-04-50-apps-viewer.googleusercontent.com/viewer/secure/pdf/3avbmpuhnb1f0st0n85hpqf8u8lvt211/rp0eu1jrpg52gftb56ndhpuuglpu29f0/1392313125000/gmail/04155169729591229081/ACFrOgBrCeE8jkTBYTAOJ_sxPZ-AZj5Ph881BqkDK6RRmJgpAjvTqOUzxFwPcNgMi-0aTkH18ofzRr3n2IbpbPIVrubWZM2IxBEnsiKUfom8HTTw69Dc7z8z5GxrcBM=/3avbmpuhnb1f0st0n85hpqf8u8lvt211/rp0eu1jrpg52gftb56ndhpuuglpu29f0/1392313125000/gmail/04155169729591229081/ACFrOgBrCeE8jkTBYTAOJ_sxPZ-AZj5Ph881BqkDK6RRmJgpAjvTqOUzxFwPcNgMi-0aTkH18ofzRr3n2IbpbP
+SW,63527910218956,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527910231713,Aí vai... - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527910285868,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527910289560,Google Tradutor - Google Chrome
+SW,63527910520027,Settings
+SW,63527910522597,
+SW,63527910530076,Settings
+SW,63527910530635,Spam (101) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527910639345,Task Switching
+SW,63527910639417,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527910641236,Start
+SW,63527910641552,Start menu
+SW,63527910643275,DoubleClickShield
+SW,63527910643294,
+SW,63527910643308,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527910644645,Facebook - Google Chrome
+SW,63527910713443,Start
+SW,63527910714706,
+SW,63527910714802,Run
+SW,63527910716966,
+SW,63527910716969,Program Manager
+SW,63527910717056,C:\WINDOWS\system32\shutdown.exe
+SW,63527920910358,
+SW,63527920932053,
+SW,63527920932203,Skype™ - andre.pimenta.53
+SW,63527921102845,Hibernate windows from command line - Google Chrome
+SW,63527921154321,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527921159090,
+SW,63527921159457,Skype™ - andre.pimenta.53
+SW,63527921199207,
+SW,63527921207210,Skype™ - andre.pimenta.53
+SW,63527921393481,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527921424842,Skype™
+SW,63527921427203,Website Oficial do Google Analytics - Análise da Web e Relatórios – Google Analytics - Google Chrome
+SW,63527921621365,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527921643014,Skype™
+SW,63527921643332,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527921645292,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527921646776,
+SW,63527921651189,
+SW,63527921651313,
+SW,63527921720971,Opening - TexMaker
+SW,63527921721670,PowerPoint
+SW,63527922248423,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527922626600,Save As
+SW,63527922628725,cam car fatigue - Pesquisa do Google - Google Chrome
+SW,63527922629872,
+SW,63527922630905,InputReport
+SW,63527922640147,Folder In Use
+SW,63527922642541,
+SW,63527922650078,File In Use
+SW,63527922650088,
+SW,63527922651050,File In Use
+SW,63527922652265,
+SW,63527922652868,Data (E:)
+SW,63527922669773,
+SW,63527922669894,latex
+SW,63527922670502,review_cc.pdf - Adobe Reader
+SW,63527922711612,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527922728607,Insert Picture
+SW,63527922734626,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527922769873,cam car fatigue - Pesquisa do Google - Google Chrome
+SW,63527922832104,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527922840609,ARRB PRO-ACTIVE Fatigue Management System - Pesquisa do Google - Google Chrome
+SW,63527922902168,review_cc.pdf - Adobe Reader
+SW,63527922906185,ARRB PRO-ACTIVE Fatigue Management System - Pesquisa do Google - Google Chrome
+SW,63527922938013,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527922981057,ospat fatigue - Pesquisa do Google - Google Chrome
+SW,63527923560483,Confirm New Extension
+SW,63527923563389,Chrome Web Store - Streak para Gmail - Google Chrome
+SW,63527923568481,
+SW,63527923577240,Chrome Web Store - Streak para Gmail - Google Chrome
+SW,63527923577934,Confirm New Extension
+SW,63527923583211,Chrome Web Store - Streak para Gmail - Google Chrome
+SW,63527923588568,Confirm New Extension
+SW,63527923589671,Chrome Web Store - Streak para Gmail - Google Chrome
+SW,63527923595108,
+SW,63527923599122,Chrome Web Store - Streak para Gmail - Google Chrome
+SW,63527923640841,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527923643971,Untitled - Google Chrome
+SW,63527923716607,Untitled - Google Chrome
+SW,63527923727631,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527923882191,Current Permissions
+SW,63527923883800,Extensions - Google Chrome
+SW,63527923884900,Confirm Removal
+SW,63527923886975,Extensions - Google Chrome
+SW,63527923893793,Current Permissions
+SW,63527923895008,Extensions - Google Chrome
+SW,63527923896108,Confirm Removal
+SW,63527923897685,Extensions - Google Chrome
+SW,63527924089871,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527924110613,Facebook - Google Chrome
+SW,63527924128601,
+SW,63527925317051,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527925359325,(1) Close Friends - Google Chrome
+SW,63527926289108,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527926297093,
+SW,63527926297780,
+SW,63527926816915,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527926820808,Red Hat JBoss Data Virtualization vs switchyard - Pesquisa do Google - Google Chrome
+SW,63527926831675,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527926859313,Spam (103) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527926864249,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527926893907,Business Intelligence, Data Warehousing and Data Virtualization - Enterprise Apps Today - Google Chrome
+SW,63527926930581,Save As
+SW,63527926932597,e learning results - Pesquisa do Google - Google Chrome
+SW,63527926943168,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527926949608,Insert Picture
+SW,63527926956477,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527926987520,about:blank - Google Chrome
+SW,63527927018935,review_cc.pdf - Adobe Reader
+SW,63527927060192,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927086394,review_cc.pdf - Adobe Reader
+SW,63527927087850,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927102948,review_cc.pdf - Adobe Reader
+SW,63527927106659,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927160254,review_cc.pdf - Adobe Reader
+SW,63527927162659,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927174950,review_cc.pdf - Adobe Reader
+SW,63527927186774,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927189922,
+SW,63527927190732,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927259903,review_cc.pdf - Adobe Reader
+SW,63527927271161,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927335960,
+SW,63527927336896,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927393181,
+SW,63527927394663,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927396182,
+SW,63527927396664,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927452196,Google Tradutor - Google Chrome
+SW,63527927456349,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927516291,
+SW,63527927517222,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927535120,Close Friends - Google Chrome
+SW,63527927558121,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527927563482,Facebook - Google Chrome
+SW,63527927648590,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927662288,Facebook - Google Chrome
+SW,63527927688745,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927739778,Google Tradutor - Google Chrome
+SW,63527927750081,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927759771,Google Tradutor - Google Chrome
+SW,63527927772843,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927782405,Google Tradutor - Google Chrome
+SW,63527927783756,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927786509,Google Tradutor - Google Chrome
+SW,63527927811432,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927830330,Google Tradutor - Google Chrome
+SW,63527927838355,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927849343,
+SW,63527927850405,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527927874031,Google Tradutor - Google Chrome
+SW,63527928075656,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527928349606,(2) Facebook - Google Chrome
+SW,63527928385276,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527928547406,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527928747098,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527929041211,review_cc.pdf - Adobe Reader
+SW,63527929085779,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527929106433,Facebook - Google Chrome
+SW,63527929119772,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527929444228,EEG - Pesquisa do Google - Google Chrome
+SW,63527929497874,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527930025899,1º UMinho PhD Engineering Winter Symposium - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527930084890,Detecting and Monitoring Fatigue A review - PowerPoint
+SW,63527930100312,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527930206693,Detecting and Monitoring Fatigue A review - PowerPoin

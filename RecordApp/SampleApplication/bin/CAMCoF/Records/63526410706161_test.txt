@@ -1,0 +1,73 @@
+# user: test #
+SW,63526410706263,Google - Google Chrome
+SW,63526410731889,Adobe Reader Updater
+SW,63526410778907,
+SW,63526411019113,(1) Facebook - Google Chrome
+SW,63526411020263,
+SW,63526411021595,
+SW,63526411021671,
+SW,63526411025755,Facebook - Google Chrome
+SW,63526412559029,"unread" (2) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526412589774,File Explorer
+SW,63526412607515,Progress
+SW,63526412608082,Articles
+SW,63526412638052,"unread" (2) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526413018719,Articles
+SW,63526413068337,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526413068743,Task Switching
+SW,63526413068773,Dropbox
+SW,63526413085348,Eclipse
+SW,63526413117031,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526413132543,Eclipse
+SW,63526413139727,Java - Eclipse
+SW,63526413140268,
+SW,63526413164279,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526413193222,Java - Eclipse
+SW,63526413297000,Player RFM - Google Chrome
+SW,63526413405015,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63526413560458,Find/Replace
+SW,63526413567583,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63526413569180,Find/Replace
+SW,63526413572955,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63526413597686,Find/Replace
+SW,63526413601199,Java - InputReport/src/report/Report.java - Eclipse
+SW,63526413660816,PC - ISLab - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526413677798,Java - InputReport/src/report/Report.java - Eclipse
+SW,63526413803436,PC - ISLab - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526413839231,Java - InputReport/src/util/FileUtil.java - Eclipse
+SW,63526413918611,
+SW,63526413919454,Java - InputReport/src/util/FileUtil.java - Eclipse
+SW,63526414088024,
+SW,63526414088995,Java - InputReport/src/util/FileUtil.java - Eclipse
+SW,63526414103895,
+SW,63526414104945,Java - InputReport/src/util/FileUtil.java - Eclipse
+SW,63526414222445,
+SW,63526414224165,Java - InputReport/src/util/FileUtil.java - Eclipse
+SW,63526414618355,
+SW,63526414619370,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63526414651225,
+SW,63526414651988,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63526414757541,How to append text to an existing file in Java - Stack Overflow - Google Chrome
+SW,63526414761640,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63526414888746,New Java Class
+SW,63526414900743,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526414943119,Delete
+SW,63526414945156,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526414951340,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526414978630,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526415058849,
+SW,63526415060160,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526415214899,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526415224562,Java - FatigueClassifierServer/src/report/DailyReport.java - Eclipse
+SW,63526415339150,How to append text to an existing file in Java - Stack Overflow - Google Chrome
+SW,63526415346900,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63526418508843,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526418553324,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63526418559578,Records
+SW,63526418574115,
+SW,63526418574190,latex
+SW,63526418574879,ISAmI 2014.pdf - Adobe Reader
+SW,63526418613931,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63526418823510,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526418873722,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63526419080532,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google C

@@ -1,0 +1,351 @@
+# user: test #
+SW,63525926044728,Google - Google Chrome
+SW,63525926079300,Adobe Reader Updater
+SW,63525926084218,
+SW,63525926084420,
+SW,63525926086096,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525926108630,Save As
+SW,63525926111648,Template Relatorio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525926122039,
+SW,63525926133373,
+SW,63525926134642,Microsoft Word
+SW,63525926141777,Word
+SW,63525926148577,
+SW,63525926151267,
+SW,63525926154882,File Explorer
+SW,63525926173583,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926174683,Word
+SW,63525926180884,Task Switching
+SW,63525926180927,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926191801,Task Switching
+SW,63525926191835,Relatório de estado de tese - Word
+SW,63525926194240,Template Relatorio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525926204804,Task Switching
+SW,63525926204853,Relatório de estado de tese - Word
+SW,63525926205895,Task Switching
+SW,63525926205939,CAMCoF - Google Chrome
+SW,63525926206319,Task Switching
+SW,63525926206824,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926209712,Task Switching
+SW,63525926209763,CAMCoF - Google Chrome
+SW,63525926216687,Task Switching
+SW,63525926216728,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926220829,Task Switching
+SW,63525926220868,CAMCoF - Google Chrome
+SW,63525926222566,Task Switching
+SW,63525926222609,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926225565,Task Switching
+SW,63525926225606,CAMCoF - Google Chrome
+SW,63525926230593,Task Switching
+SW,63525926230637,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926353318,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926358915,
+SW,63525926425918,CAMCoF - Google Chrome
+SW,63525926450164,Task Switching
+SW,63525926450282,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926491230,Microsoft Word
+SW,63525926493689,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926550492,André Pimenta Ribeiro - Google Chrome
+SW,63525926683211,Task Switching
+SW,63525926683943,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926705435,
+SW,63525926706590,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926707468,
+SW,63525926708206,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926710420,
+SW,63525926710660,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926710914,
+SW,63525926712247,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926714424,
+SW,63525926715454,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926742222,
+SW,63525926746560,Relatório de estado de tese - Word
+SW,63525926761783,Task Switching
+SW,63525926761815,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525926777263,Message from IEAAIE-2014 - Paper Submit - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525926971415,Task Switching
+SW,63525926971463,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927099415,
+SW,63525927100153,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927122051,
+SW,63525927122964,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927207469,
+SW,63525927210109,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927265925,Task Switching
+SW,63525927265975,Urgente: Assinatura de contratos de bolsas de investigação (Agenda 09 e 10 de setembro 2013), Gualtar/Azurém - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525927267896,Task Switching
+SW,63525927267945,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927274241,Task Switching
+SW,63525927274843,Relatório de estado de tese - Word
+SW,63525927280229,Task Switching
+SW,63525927280302,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927311329,
+SW,63525927312103,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927316061,
+SW,63525927316923,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927358288,
+SW,63525927360467,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927413883,
+SW,63525927416084,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927445789,Documents
+SW,63525927458247,
+SW,63525927458323,ISAI_14_SUBMITED
+SW,63525927458918,ISAI.pdf - Adobe Reader
+SW,63525927498773,Task Switching
+SW,63525927498847,ISAI_14_SUBMITED
+SW,63525927501598,
+SW,63525927503116,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927507299,Urgente: Assinatura de contratos de bolsas de investigação (Agenda 09 e 10 de setembro 2013), Gualtar/Azurém - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525927537322,Task Switching
+SW,63525927537387,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927700025,Save As
+SW,63525927709977,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927710296,Microsoft Word
+SW,63525927712844,Angelo Costa - Relatorio Atividades - Jan a Mai 2012 [Compatibility Mode] - Word
+SW,63525927719520,Save As
+SW,63525927724669,bolsa_relatorio_1 - Word
+SW,63525927726358,
+SW,63525927726624,ISAI.pdf - Adobe Reader
+SW,63525927727054,bolsa_relatorio_1.pdf - Adobe Reader
+SW,63525927778375,eracareers - Google Chrome
+SW,63525927978610,Open
+SW,63525927997092,Urgente: Assinatura de contratos de bolsas de investigação (Agenda 09 e 10 de setembro 2013), Gualtar/Azurém - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525928065744,
+SW,63525928069038,bolsa_relatorio_1.pdf - Adobe Reader
+SW,63525928082492,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525928620032,
+SW,63525928623389,bolsa_relatorio_1.pdf - Adobe Reader
+SW,63525928703974,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525929834432,ISAI_14_SUBMITED
+SW,63525929850678,Opening - Excel
+SW,63525929850979,Excel
+SW,63525929882690,Microsoft Excel
+SW,63525929884605,timeline  [Compatibility Mode] - Excel
+SW,63525929884758,Documents
+SW,63525929886872,bolsa_relatorio_1 - Word
+SW,63525929887657,Word
+SW,63525929925721,bolsa_relatorio_1 - Word
+SW,63525929927871,Facebook - Google Chrome
+SW,63525930106124,
+SW,63525930107881,bolsa_relatorio_1.pdf - Adobe Reader
+SW,63525930147684,Task Switching
+SW,63525930147750,FW: O nojo que sai à rua impunemente - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525930257272,Save As
+SW,63525930262691,coelho-3.jpg (1024×768) - Google Chrome
+SW,63525930317419,Open
+SW,63525930330611,Agrosocial - Google Chrome
+SW,63525930492348,Save As
+SW,63525930494595,castanha.jpg (720×598) - Google Chrome
+SW,63525930536034,Open
+SW,63525930539707,Agrosocial - Google Chrome
+SW,63525930572950,Task Switching
+SW,63525930573014,bolsa_relatorio_1.pdf - Adobe Reader
+SW,63525930573847,Task Switching
+SW,63525930573902,Facebook - Google Chrome
+SW,63525930587400,Save As
+SW,63525930589386,Resultados da pesquisa de http://bossaluthieria.files.wordpress.com/2012/09/truta.jpeg no Google - Google Chrome
+SW,63525930638960,Open
+SW,63525930662219,Agrosocial - Google Chrome
+SW,63525930774944,Save As
+SW,63525930777833,0_big.jpg (752×500) - Google Chrome
+SW,63525930781534,Open
+SW,63525930792872,Agrosocial - Google Chrome
+SW,63525935815999,Agrosocial - Google Chrome
+SW,63525936341316,
+SW,63525936342858,Relatório de estado de tese - Word
+SW,63525936345544,Microsoft Word
+SW,63525936348512,Relatório de estado de tese - Word
+SW,63525936348741,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525936350573,bolsa_relatorio_1 - Word
+SW,63525936353264,Microsoft Word
+SW,63525936355776,Word
+SW,63525936356055,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525936357664,
+SW,63525936357871,
+SW,63525936358466,Word
+SW,63525936367470,Resume Reading
+SW,63525936367645,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525936397907,Word
+SW,63525936402436,Microsoft Word
+SW,63525936403742,survey_fadiga_1.asd: 21/01/2014 16:08 (Autosaved Version) [Read-Only] [Compatibility Mode] - Word
+SW,63525936422461,
+SW,63525936423594,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525936423771,
+SW,63525936423974,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525936424362,
+SW,63525936425886,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525936448095,TexMaker
+SW,63525936448972,Texmaker
+SW,63525936493075,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525936580193,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525936776355,
+SW,63525936777876,Facebook - Google Chrome
+SW,63525936782622,Skype
+SW,63525936784866,
+SW,63525936785101,Skype™ - andre.pimenta.53
+SW,63525936790740,Agrosocial - Google Chrome
+SW,63525936822003,
+SW,63525936822419,Skype™ - andre.pimenta.53
+SW,63525936905102,Agrosocial - Google Chrome
+SW,63525936975462,Skype™
+SW,63525936977577,Agrosocial - Google Chrome
+SW,63525937006174,Skype™
+SW,63525937012778,Agrosocial - Google Chrome
+SW,63525937049762,Skype™
+SW,63525937054896,Agrosocial - Google Chrome
+SW,63525937392956,Skype™
+SW,63525937393091,Skype™ - andre.pimenta.53
+SW,63525937458342,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525937917796,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525938042012,Task Switching
+SW,63525938042086,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525938043510,Task Switching
+SW,63525938043575,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525938047222,Documents
+SW,63525938065196,Paint
+SW,63525938074986,Skype™
+SW,63525938078104,fatigue_model - Paint
+SW,63525938113311,
+SW,63525938114842,fatigue_model - Paint
+SW,63525938121104,
+SW,63525938122280,fatigue_model - Paint
+SW,63525938126961,
+SW,63525938127782,fatigue_model - Paint
+SW,63525938151345,
+SW,63525938152763,fatigue_model - Paint
+SW,63525938157160,
+SW,63525938160782,fatigue_model - Paint
+SW,63525938171734,Task Switching
+SW,63525938171801,images
+SW,63525938173695,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525938190822,Task Switching
+SW,63525938190923,images
+SW,63525938195989,fatigue_model - Paint
+SW,63525938332642,Task Switching
+SW,63525938332725,images
+SW,63525938334584,Google Tradutor - Google Chrome
+SW,63525938348524,Task Switching
+SW,63525938348579,images
+SW,63525938350796,Facebook - Google Chrome
+SW,63525938369947,fatigue_model - Paint
+SW,63525938385831,Task Switching
+SW,63525938385898,Google Tradutor - Google Chrome
+SW,63525938392868,Task Switching
+SW,63525938392927,fatigue_model - Paint
+SW,63525938644258,Google Tradutor - Google Chrome
+SW,63525938654906,Task Switching
+SW,63525938654973,fatigue_model - Paint
+SW,63525938715656,Task Switching
+SW,63525938715688,Google Tradutor - Google Chrome
+SW,63525938756894,Task Switching
+SW,63525938756958,fatigue_model - Paint
+SW,63525938761846,GelBots - Google Chrome
+SW,63525938771010,Task Switching
+SW,63525938771593,fatigue_model - Paint
+SW,63525938810858,Task Switching
+SW,63525938810911,Google Tradutor - Google Chrome
+SW,63525938823156,Task Switching
+SW,63525938823235,fatigue_model - Paint
+SW,63525938882957,Task Switching
+SW,63525938883034,Google Tradutor - Google Chrome
+SW,63525938894770,Task Switching
+SW,63525938894846,fatigue_model - Paint
+SW,63525938935755,Task Switching
+SW,63525938935835,Google Tradutor - Google Chrome
+SW,63525938960925,Task Switching
+SW,63525938960992,fatigue_model - Paint
+SW,63525938982054,Task Switching
+SW,63525938982112,Google Tradutor - Google Chrome
+SW,63525938994299,Task Switching
+SW,63525938994361,fatigue_model - Paint
+SW,63525939052940,Google Tradutor - Google Chrome
+SW,63525939060187,Task Switching
+SW,63525939060258,fatigue_model - Paint
+SW,63525939105916,Task Switching
+SW,63525939105968,Google Tradutor - Google Chrome
+SW,63525939155595,fatigue_model - Paint
+SW,63525939193514,Task Switching
+SW,63525939193591,GelBots - Google Chrome
+SW,63525939205090,Task Switching
+SW,63525939205171,fatigue_model - Paint
+SW,63525939239898,Task Switching
+SW,63525939239956,Google Tradutor - Google Chrome
+SW,63525939250563,Task Switching
+SW,63525939250610,fatigue_model - Paint
+SW,63525939348359,Google Tradutor - Google Chrome
+SW,63525939360051,Task Switching
+SW,63525939360117,fatigue_model - Paint
+SW,63525939405501,Task Switching
+SW,63525939405568,Google Tradutor - Google Chrome
+SW,63525939413007,Task Switching
+SW,63525939413090,fatigue_model - Paint
+SW,63525939440108,Task Switching
+SW,63525939440176,Google Tradutor - Google Chrome
+SW,63525939454330,Task Switching
+SW,63525939454389,fatigue_model - Paint
+SW,63525939499796,Task Switching
+SW,63525939499862,Google Tradutor - Google Chrome
+SW,63525939508413,Task Switching
+SW,63525939508471,fatigue_model - Paint
+SW,63525939558325,
+SW,63525939559705,fatigue_model - Paint
+SW,63525939562473,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525939604724,Insert Picture
+SW,63525939627853,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525939638666,Save As
+SW,63525939641186,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525939646752,Save As
+SW,63525939652864,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525939655809,
+SW,63525939656103,bolsa_relatorio_1.pdf - Adobe Reader
+SW,63525939656569,survey_fadiga_1.pdf - Adobe Reader
+SW,63525939688674,Google Tradutor - Google Chrome
+SW,63525939703752,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525939730773,Open
+SW,63525939738918,survey_fadiga_1 [Compatibility Mode] - Word
+SW,63525939739837,Word
+SW,63525939754773,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525939856547,Task Switching
+SW,63525939856636,draft - Word
+SW,63525939857583,Task Switching
+SW,63525939857649,Google Tradutor - Google Chrome
+SW,63525939861152,Google Tradutor - Google Chrome
+SW,63525939861175,draft - Word
+SW,63525939967999,Task Switching
+SW,63525939968073,draft - Word
+SW,63525939970388,Google Tradutor - Google Chrome
+SW,63525939978161,
+SW,63525939979039,images
+SW,63525939982667,Skype™ - andre.pimenta.53
+SW,63525939992666,Progress
+SW,63525939992956,Articles
+SW,63525940035393,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525940036565,Task Switching
+SW,63525940036630,Articles
+SW,63525940042375,Task Switching
+SW,63525940042449,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525940042528,Articles
+SW,63525940043246,Task Switching
+SW,63525940043923,Task Switching
+SW,63525940044690,draft - Word
+SW,63525940045555,Task Switching
+SW,63525940050813,ISAI.pdf - Adobe Reader
+SW,63525940053582,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525940061285,Task Switching
+SW,63525940061354,ISAI.pdf - Adobe Reader
+SW,63525940063207,Articles
+SW,63525940074730,Task Switching
+SW,63525940074784,ISAI.pdf - Adobe Reader
+SW,63525940076745,Google Tradutor - Google Chrome
+SW,63525940087296,Task Switching
+SW,63525940087365,ISAI.pdf - Adobe Reader
+SW,63525940089095,Articles
+SW,63525940104340,Google Tradutor - Google Chrome
+SW,63525940109322,Open
+SW,63525940124645,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63525940143764,Articles
+SW,63525940152560,draft - Word
+SW,63525940153285,Word
+SW,63525940158036,draft - Word
+SW,63525940159507,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+S

@@ -1,0 +1,106 @@
+# user: test #
+SW,63526498395381,Google - Google Chrome
+SW,63526498415540,Adobe Reader Updater
+SW,63526498445028,
+SW,63526498594693,Google - Google Chrome
+SW,63526498691505,
+SW,63526498702668,Pedido de revisão por pares - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526498715426,
+SW,63526498715524,
+SW,63526498717796,Pedido de revisão por pares - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526498938984,Save As
+SW,63526498947340,ISAmI - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526498984093,The page at https://www.easychair.org says:
+SW,63526498988625,Review Request - Google Chrome
+SW,63526499001175,Save As
+SW,63526499003891,Review Request - Google Chrome
+SW,63526499125634,Save As
+SW,63526499131360,Review Request - Google Chrome
+SW,63526499133171,
+SW,63526499133200,Review Request - Google Chrome
+SW,63526499133680,uminhophdeng1_submission_12.pdf - Adobe Reader
+SW,63526499174229,Review Request - Google Chrome
+SW,63526499254012,File Explorer
+SW,63526499273831, A extrair E:\Dropbox\Article ... DRAFT\ISAmI_14.rar
+SW,63526499274006,ISAmI_14_DRAFT
+SW,63526499277743,Progress
+SW,63526499280088,ISAmI_14_DRAFT
+SW,63526499283081,
+SW,63526499283156,ISAmI_14
+SW,63526499283754,ISAmI 2014.pdf - Adobe Reader
+SW,63526499356463,ISAmI_14
+SW,63526499358243,Pedido de revisão por pares - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526499526284,
+SW,63526499526395,
+SW,63526499527548,User Interaction Capturer - ISLab
+SW,63526499529643,
+SW,63526499529643,r studio - Pesquisa do Google - Google Chrome
+SW,63526499557228,Save As
+SW,63526499560798,RStudio - Google Chrome
+SW,63526499593210,RStudio - Google Chrome
+SW,63526499594001,
+SW,63526499599158,RStudio - Google Chrome
+SW,63526499658319,RStudio Setup 
+SW,63526499685539,"unread" (2) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526499779157,Start
+SW,63526499779267,Start menu
+SW,63526499814052,DoubleClickShield
+SW,63526499814072,
+SW,63526499814854,RStudio
+SW,63526499814889,RStudio_LaunchWindow_6dd82276-ccc3-4324-839e-4e6bcd5145bd
+SW,63526499817476,"unread" (2) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63526499949371,RStudio
+SW,63526500001698,Create Package Library
+SW,63526500005841,RStudio
+SW,63526500006099,Create Package Library
+SW,63526500008217,RStudio
+SW,63526500008466,Create Package Library
+SW,63526500009786,RStudio
+SW,63526500010032,Create Package Library
+SW,63526500010873,RStudio
+SW,63526500011127,Create Package Library
+SW,63526500011665,RStudio
+SW,63526500011905,Create Package Library
+SW,63526500012458,RStudio
+SW,63526500012725,Create Package Library
+SW,63526500013290,RStudio
+SW,63526500013537,Create Package Library
+SW,63526500014043,RStudio
+SW,63526500014312,Create Package Library
+SW,63526500014778,RStudio
+SW,63526500015028,Create Package Library
+SW,63526500016080,RStudio
+SW,63526500016213,Install Packages
+SW,63526500017936,RStudio
+SW,63526500021591,Create Package Library
+SW,63526500022898,RStudio
+SW,63526500023162,Create Package Library
+SW,63526500023672,RStudio
+SW,63526500023941,Create Package Library
+SW,63526500024393,RStudio
+SW,63526500024652,Create Package Library
+SW,63526500025145,RStudio
+SW,63526500025409,Create Package Library
+SW,63526500026505,RStudio
+SW,63526500026753,Create Package Library
+SW,63526500027952,RStudio
+SW,63526500028114,Install Packages
+SW,63526500030049,RStudio
+SW,63526500032464,RGui (64-bit)
+SW,63526500040676,CRAN mirror
+SW,63526500049604,RGui (64-bit)
+SW,63526500054258,Packages
+SW,63526500056182,RGui (64-bit)
+SW,63526500056978,Download progress
+SW,63526500058999,RGui (64-bit)
+SW,63526500059320,Download progress
+SW,63526500060296,RGui (64-bit)
+SW,63526500077108,Packages
+SW,63526500118667,RGui (64-bit)
+SW,63526500119253,Download progress
+SW,63526500119472,RGui (64-bit)
+SW,63526500130978,RStudio
+SW,63526500138261,RGui (64-bit)
+SW,63526500142123,Visualizing neural networks in R – update – R is my friend - Google Chrome
+SW,63526500144530,RGui (64-bit)
+SW,63526500164978,Visualizing neural n

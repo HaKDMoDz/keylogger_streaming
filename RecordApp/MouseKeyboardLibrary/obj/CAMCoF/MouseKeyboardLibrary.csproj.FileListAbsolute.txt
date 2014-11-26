@@ -1,0 +1,2 @@
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\MouseKeyboardLibrary\bin\CAMCoF\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\MouseKeyboardLibrary\obj\CAMCoF\MouseKeyboardLibrary.dll

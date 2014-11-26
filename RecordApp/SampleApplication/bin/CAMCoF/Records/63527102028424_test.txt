@@ -1,0 +1,3164 @@
+# user: test #
+SW,63527102059564,Adobe Reader Updater
+SW,63527102086995,
+SW,63527102337018,
+SW,63527102514647,Facebook - Google Chrome
+SW,63527102522665,Microsoft Visual Studio
+SW,63527102541795,Facebook - Google Chrome
+SW,63527102569713,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527102644797,convert string to int c# - Pesquisa do Google - Google Chrome
+SW,63527102646883,Eclipse
+SW,63527102685337,Eclipse
+SW,63527102691738,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527102729348,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527102735615,
+SW,63527102737593,User Interaction Capturer - ISLab
+SW,63527102739993,C:\Windows\System32\java.exe
+SW,63527102740576,User Interaction Capturer - ISLab
+SW,63527102744062,(1) Facebook - Google Chrome
+SW,63527102823108,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527102962950,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527102986553,Agrosocial - Google Chrome
+SW,63527102987702,TexMaker
+SW,63527102988836,Texmaker
+SW,63527103092451,Texmaker : pdf preview
+SW,63527103099825,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527103104993,
+SW,63527103105003,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103105210,Exception Helper Window
+SW,63527103105376,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103105396,Exception Helper Window
+SW,63527103111424,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103122585,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527103170924,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527103183024,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103185657,
+SW,63527103185873,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103187235,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527103187777,User Interaction Capturer - ISLab
+SW,63527103189421,C:\Windows\System32\java.exe
+SW,63527103189910,User Interaction Capturer - ISLab
+SW,63527103193206,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103208346,User Interaction Capturer - ISLab
+SW,63527103208581,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527103227586,
+SW,63527103228572,User Interaction Capturer - ISLab
+SW,63527103229775,C:\Windows\System32\java.exe
+SW,63527103230259,User Interaction Capturer - ISLab
+SW,63527103234059,how to convert string to double? - C# / C Sharp - Google Chrome
+SW,63527103269512,
+SW,63527103270168,HAIS14.pdf
+SW,63527103288611,how to convert string to double? - C# / C Sharp - Google Chrome
+SW,63527103349495,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527103353906,
+SW,63527103353919,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103354044,Exception Helper Window
+SW,63527103354204,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103354233,Exception Helper Window
+SW,63527103361631,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103367833,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527103393162,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527103416215,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103416565,
+SW,63527103417150,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527103417669,User Interaction Capturer - ISLab
+SW,63527103419458,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103425598,User Interaction Capturer - ISLab
+SW,63527103427498,C:\Windows\System32\java.exe
+SW,63527103428032,User Interaction Capturer - ISLab
+SW,63527103432943,c# - How do I parse a string with a decimal point to a double? - Stack Overflow - Google Chrome
+SW,63527103534430,User Interaction Capturer - ISLab
+SW,63527103535527,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103541545,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527103551680,
+SW,63527103551717,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103551806,Exception Helper Window
+SW,63527103551957,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103552005,Exception Helper Window
+SW,63527103571238,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527103594221,survey Circadian rhythm fatigue - Google Académico - Google Chrome
+SW,63527103598318,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527103619887,An unhandled exception of type 'System.FormatException' occurred in mscorlib.dll - Google Académico - Google Chrome
+SW,63527103704048,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527103791997,Decimal, what are those trailing zeros ? - Think Before Coding - Google Chrome
+SW,63527103844181,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527103869916,How to convert a string to double in C#? - Google Chrome
+SW,63527103923669,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527103931434,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103932742,
+SW,63527103933399,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527103933548,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103934050,User Interaction Capturer - ISLab
+SW,63527103938556,C:\Windows\System32\java.exe
+SW,63527103939031,User Interaction Capturer - ISLab
+SW,63527103939793,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527103988376,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104013797,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104054000,
+SW,63527104054131,File Explorer
+SW,63527104060510,Progress
+SW,63527104060640,Delete Multiple Items
+SW,63527104061313,rei_pimz (F:)
+SW,63527104062455,Progress
+SW,63527104064061,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104089889,Edit and Continue
+SW,63527104091777,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104118034,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104119853,
+SW,63527104120433,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104120922,User Interaction Capturer - ISLab
+SW,63527104120926,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104123511,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104128651,User Interaction Capturer - ISLab
+SW,63527104130032,C:\Windows\System32\java.exe
+SW,63527104130540,User Interaction Capturer - ISLab
+SW,63527104134073,Double.TryParse Method (String, NumberStyles, IFormatProvider, Double) (System) - Google Chrome
+SW,63527104154938,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104175424,Microsoft Visual Studio
+SW,63527104176023,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104200714,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104203627,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104213371,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104246570,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104249193,User Interaction Capturer - ISLab
+SW,63527104251636,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104260136,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104327050,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104332275,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104336169,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104338296,User Interaction Capturer - ISLab
+SW,63527104346062,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104347184,C:\Windows\System32\java.exe
+SW,63527104352967,User Interaction Capturer - ISLab
+SW,63527104353510,
+SW,63527104354654,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104502338,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527104527972,
+SW,63527104528933,User Interaction Capturer - ISLab
+SW,63527104531021,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527104531672,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527104540598,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104553977,Export
+SW,63527104559919,Runnable JAR File Export
+SW,63527104561903,Runnable JAR File Export
+SW,63527104562067,Confirm Replace
+SW,63527104563846,Runnable JAR File Export
+SW,63527104567077,Runnable JAR File Export
+SW,63527104568156,Runnable JAR File Export
+SW,63527104568236,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527104571656,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527104574856,
+SW,63527104575088,
+SW,63527104581502,rei_pimz (F:)
+SW,63527104621194,95% complete
+SW,63527104622598,Release
+SW,63527104632753,100% complete
+SW,63527104648123,PEN (F:)
+SW,63527104652924,User Interaction Capturer - ISLab
+SW,63527104654260,C:\Windows\System32\java.exe
+SW,63527104663239,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527104933599,C:\Windows\System32\java.exe
+SW,63527104935372,Facebook - Google Chrome
+SW,63527104962163,User Interaction Capturer - ISLab
+SW,63527104963212,C:\Windows\System32\java.exe
+SW,63527104966741,Facebook - Google Chrome
+SW,63527104978659,The page at https://mail.google.com says:
+SW,63527104980654,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527104987957,C:\Windows\System32\java.exe
+SW,63527104989778,User Interaction Capturer - ISLab
+SW,63527104996003,C:\Windows\System32\java.exe
+SW,63527104999413,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105002145,User Interaction Capturer - ISLab
+SW,63527105003517,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527105018131,User Interaction Capturer - ISLab
+SW,63527105020218,C:\Windows\System32\java.exe
+SW,63527105021437,User Interaction Capturer - ISLab
+SW,63527105021613,C:\Windows\System32\java.exe
+SW,63527105021700,Biological clock human - Pesquisa do Google - Google Chrome
+SW,63527105023649,Release
+SW,63527105026636,Microsoft Windows
+SW,63527105034465,Release
+SW,63527105035397,Biological clock human - Pesquisa do Google - Google Chrome
+SW,63527105037555,File Explorer
+SW,63527105079441,Biological clock human - Pesquisa do Google - Google Chrome
+SW,63527105084307,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105090833,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105093221,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105116099,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105127612,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105182266,c# - How do I parse a string with a decimal point to a double? - Stack Overflow - Google Chrome
+SW,63527105248372,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105269726,
+SW,63527105270779,User Interaction Capturer - ISLab
+SW,63527105271864,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105281456,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105288065,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105292588,
+SW,63527105293642,User Interaction Capturer - ISLab
+SW,63527105304768,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527105315330,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105317758,AgroSocial process: 524628 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105342500,AgroSocial process: 524628 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105342519,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105414616,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105416255,Facebook - Google Chrome
+SW,63527105491818,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105494261,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105496368,User Interaction Capturer - ISLab
+SW,63527105497344,C:\Windows\System32\java.exe
+SW,63527105497646,
+SW,63527105498879,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105510054,C:\Windows\System32\java.exe
+SW,63527105510134,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105512904,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105528889,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105529760,
+SW,63527105530722,User Interaction Capturer - ISLab
+SW,63527105531806,C:\Windows\System32\java.exe
+SW,63527105532353,User Interaction Capturer - ISLab
+SW,63527105534039,Facebook - Google Chrome
+SW,63527105617816,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105619590,User Interaction Capturer - ISLab
+SW,63527105627016,AgroSocial process: 524628 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105633272,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105635175,How to convert a string to double in C#? - Google Chrome
+SW,63527105639145,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105654037,AgroSocial process: 524628 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527105694704,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105771502,Facebook - Google Chrome
+SW,63527105798271,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105801195,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105802810,
+SW,63527105803285,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105803510,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105804272,User Interaction Capturer - ISLab
+SW,63527105805235,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527105822228,User Interaction Capturer - ISLab
+SW,63527105823768,
+SW,63527105824734,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527105827132,
+SW,63527105828117,User Interaction Capturer - ISLab
+SW,63527105829306,C:\Windows\System32\java.exe
+SW,63527105829781,User Interaction Capturer - ISLab
+SW,63527105831159,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527105832885,User Interaction Capturer - ISLab
+SW,63527105834900,Double conversion problem - C# / C Sharp - Google Chrome
+SW,63527105978147,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105979691,User Interaction Capturer - ISLab
+SW,63527105983112,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527105988901,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527106088070,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527106096723,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527106153915,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527106182752,Save As
+SW,63527106192114,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527106194214,
+SW,63527106194255,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527106194984,tratar.pdf - Adobe Reader
+SW,63527106206648,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527106222498,tratar.pdf - Adobe Reader
+SW,63527106257106,(2) Facebook - Google Chrome
+SW,63527106266876,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527106268192,User Interaction Capturer - ISLab
+SW,63527106276619,tratar.pdf - Adobe Reader
+SW,63527106327768,
+SW,63527106327990,
+SW,63527106328613,Word
+SW,63527106344770,tratar.pdf - Adobe Reader
+SW,63527106415239,
+SW,63527106416627,(2) Facebook - Google Chrome
+SW,63527106484329,tratar.pdf - Adobe Reader
+SW,63527106507263,(2) Facebook - Google Chrome
+SW,63527106531569,tratar.pdf - Adobe Reader
+SW,63527106571588,(2) Facebook - Google Chrome
+SW,63527106573998,Document1 - Word
+SW,63527106588463,tratar.pdf - Adobe Reader
+SW,63527107196483,Document1 - Word
+SW,63527107274145,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527107282427,
+SW,63527107283043,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527107340360,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527107431087,User Interaction Capturer - ISLab
+SW,63527107448268,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107576602,User Interaction Capturer - ISLab
+SW,63527107581716,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107589913,
+SW,63527107590898,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527107605785,Task Switching
+SW,63527107605854,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107609183,User Interaction Capturer - ISLab
+SW,63527107610011,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107611425,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107612143,User Interaction Capturer - ISLab
+SW,63527107617311,User Interaction Capturer - ISLab
+SW,63527107617407,Facebook - Google Chrome
+SW,63527107623119,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527107632523,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107853093,User Interaction Capturer - ISLab
+SW,63527107858721,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107893531,Task Switching
+SW,63527107893597,User Interaction Capturer - ISLab
+SW,63527107894455,Task Switching
+SW,63527107894521,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107897469,User Interaction Capturer - ISLab
+SW,63527107897569,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107899505,
+SW,63527107902569,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107915215,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527107917170,Task Switching
+SW,63527107917224,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107920804,User Interaction Capturer - ISLab
+SW,63527107923104,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527107943968,
+SW,63527107944542,Double.TryParse Method (String, NumberStyles, IFormatProvider, Double) (System) - Google Chrome
+SW,63527107978244,User Interaction Capturer - ISLab
+SW,63527107989284,SourceForge.net: Use Weka in your Java code - weka - Google Chrome
+SW,63527108026452,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527108052429,Task Switching
+SW,63527108052452,ArffLoader.ArffReader - Google Chrome
+SW,63527108067020,Task Switching
+SW,63527108067081,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527108103458,
+SW,63527108104307,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527108110195,
+SW,63527108111201,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527108166306,This PC
+SW,63527108173964,E:\Workspace\GitHub\CAMCoF\InputReport\test_ULTIMO.arff • - Sublime Text (UNREGISTERED)
+SW,63527108294660,Data (E:)
+SW,63527108322097,Start
+SW,63527108322179,Start menu
+SW,63527108324548,DoubleClickShield
+SW,63527108324574,
+SW,63527108324666,Weka 3.6
+SW,63527108325145,Data (E:)
+SW,63527108334235,Weka GUI Chooser
+SW,63527108339102,Weka Explorer
+SW,63527108340938,
+SW,63527108343776,
+SW,63527108346108,Weka Explorer
+SW,63527108347716,Open
+SW,63527108353022,Weka Explorer
+SW,63527108353119,Load Instances
+SW,63527108364259,Weka Explorer
+SW,63527108366073,Weka GUI Chooser
+SW,63527108368096,Data (E:)
+SW,63527108372826,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108395584,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527108396284,This is an unregistered copy
+SW,63527108397694,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108399516,Data (E:)
+SW,63527108415400,Start
+SW,63527108415467,Start menu
+SW,63527108420811,DoubleClickShield
+SW,63527108420833,
+SW,63527108420903,Weka 3.6
+SW,63527108421328,Data (E:)
+SW,63527108429668,Weka GUI Chooser
+SW,63527108446966,Weka Explorer
+SW,63527108449459,Open
+SW,63527108454927,Weka Explorer
+SW,63527108455321,Load Instances
+SW,63527108459556,Weka Explorer
+SW,63527108460905,Weka GUI Chooser
+SW,63527108463594,Data (E:)
+SW,63527108465151,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108485856,
+SW,63527108487087,Weka GUI Chooser
+SW,63527108489910,Weka Explorer
+SW,63527108491513,Open
+SW,63527108496389,Weka Explorer
+SW,63527108496451,Load Instances
+SW,63527108497598,Weka Explorer
+SW,63527108499992,
+SW,63527108504472,Data (E:)
+SW,63527108508239,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108542280,
+SW,63527108543744,
+SW,63527108545090,Weka Explorer
+SW,63527108546029,Open
+SW,63527108548774,Weka Explorer
+SW,63527108548838,Load Instances
+SW,63527108550203,Weka Explorer
+SW,63527108551008,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108571448,
+SW,63527108573056,
+SW,63527108573825,Weka Explorer
+SW,63527108575377,Open
+SW,63527108577412,Weka Explorer
+SW,63527108577485,Load Instances
+SW,63527108583290,Weka Explorer
+SW,63527108583729,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108598137,
+SW,63527108599192,
+SW,63527108599906,Weka Explorer
+SW,63527108608022,Open
+SW,63527108610083,Weka Explorer
+SW,63527108610146,Load Instances
+SW,63527108612777,Weka Explorer
+SW,63527108613335,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108662440,
+SW,63527108663381,
+SW,63527108664920,Weka Explorer
+SW,63527108665964,Open
+SW,63527108668068,Weka Explorer
+SW,63527108670340,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108690365,Task Switching
+SW,63527108690421,Weka Explorer
+SW,63527108691805,Open
+SW,63527108693852,Weka Explorer
+SW,63527108694068,Load Instances
+SW,63527108695233,Weka Explorer
+SW,63527108696854,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527108703442,Weka Explorer
+SW,63527108704951,Data (E:)
+SW,63527108710928,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527108718121,
+SW,63527108718897,ArffLoader.ArffReader - Google Chrome
+SW,63527108720693,Task Switching
+SW,63527108720766,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527108722135,Task Switching
+SW,63527108722190,ArffLoader.ArffReader - Google Chrome
+SW,63527108728252,
+SW,63527108729376,ArffLoader.ArffReader - Google Chrome
+SW,63527108884565,Task Switching
+SW,63527108884642,Double.TryParse Method (String, NumberStyles, IFormatProvider, Double) (System) - Google Chrome
+SW,63527108924492,User Interaction Capturer - ISLab
+SW,63527108932670,Instances - Google Chrome
+SW,63527108939541,Task Switching
+SW,63527108939591,User Interaction Capturer - ISLab
+SW,63527108940378,Task Switching
+SW,63527108940440,Instances - Google Chrome
+SW,63527108941996,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527109024306,Data (E:)
+SW,63527109038782,
+SW,63527109039139,
+SW,63527109039998,Program Manager
+SW,63527109040001,
+SW,63527109042531,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109048804,User Interaction Capturer - ISLab
+SW,63527109062771,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109084251,Run As
+SW,63527109086724,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109143499,Data (E:)
+SW,63527109171925,Opening - Excel
+SW,63527109172295,Excel
+SW,63527109191116,
+SW,63527109191676,Instances - Google Chrome
+SW,63527109194468,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109213298,
+SW,63527109214301,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527109224516,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109254776,
+SW,63527109255252,Double.TryParse Method (String, NumberStyles, IFormatProvider, Double) (System) - Google Chrome
+SW,63527109296576,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109298444,Task Switching
+SW,63527109299188,Task Switching
+SW,63527109299283,(1) Facebook - Google Chrome
+SW,63527109306363,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109349488,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109354238,
+SW,63527109354249,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527109354393,Exception Helper Window
+SW,63527109354548,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527109354587,Exception Helper Window
+SW,63527109359399,Task Switching
+SW,63527109360281,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109369295,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527109369433,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109415536,pred - Excel
+SW,63527109416701,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109423415,FatigueClassifierServer
+SW,63527109430537,Opening - Excel
+SW,63527109430875,Excel
+SW,63527109477924,pred - Excel
+SW,63527109482175,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527109490248,
+SW,63527109491567,User Interaction Capturer - ISLab
+SW,63527109492993,C:\Windows\System32\java.exe
+SW,63527109495082,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109497175,C:\Windows\System32\java.exe
+SW,63527109497283,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109499024,pred - Excel
+SW,63527109501042,
+SW,63527109502085,(1) Facebook - Google Chrome
+SW,63527109512111,User Interaction Capturer - ISLab
+SW,63527109513216,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109521361,Facebook - Google Chrome
+SW,63527109526039,Weka GUI Chooser
+SW,63527109534641,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109540154,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109542914,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527109648289,
+SW,63527109649425,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527109673117,Task Switching
+SW,63527109673178,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527109724141,
+SW,63527109724769,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527109728629,User Interaction Capturer - ISLab
+SW,63527109732961,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527109788201,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109789731,
+SW,63527109790775,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527109794719,Task Switching
+SW,63527109794783,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109795715,Task Switching
+SW,63527109795803,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527109797717,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109849638,
+SW,63527109849737,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527109855888,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109874635,User Interaction Capturer - ISLab
+SW,63527109879263,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109887527,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527109934699,Task Switching
+SW,63527109934783,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527109936454,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527110006734,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527110064056,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527110101171,FatigueClassifierServer
+SW,63527110105460,
+SW,63527110105772,
+SW,63527110107158,File Explorer
+SW,63527110121619,E:\test_R.arff - Sublime Text (UNREGISTERED)
+SW,63527110151555,Task Switching
+SW,63527110151621,Output
+SW,63527110153531,User Interaction Capturer - ISLab
+SW,63527110156749,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527110164588,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527110202287,Task Switching
+SW,63527110202363,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527110203073,Task Switching
+SW,63527110203145,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527110609316,Find/Replace
+SW,63527110612385,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527110652798,Find/Replace
+SW,63527110652897,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527110738881,
+SW,63527110740023,How to convert a string to double in C#? - Google Chrome
+SW,63527110756147,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527110993252,
+SW,63527110995124,C:\Users\André\Desktop\Ultimo_test\Release\Output\test_63526702261435.fatigue - Sublime Text (UNREGISTERED)
+SW,63527111012527,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527111115963,
+SW,63527111119861,FatigueClassifierServer
+SW,63527111131867,User Interaction Capturer - ISLab
+SW,63527111168993,
+SW,63527111169666,Facebook - Google Chrome
+SW,63527111230396,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111243368,
+SW,63527111244223,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111247124,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111345797,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111371293,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527111378838,
+SW,63527111379696,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527111383378,Milton diz… - Google Chrome
+SW,63527111390492,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527111400631,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111401887,User Interaction Capturer - ISLab
+SW,63527111418009,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111438363,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527111473234,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111481239,User Interaction Capturer - ISLab
+SW,63527111506178,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111531017,User Interaction Capturer - ISLab
+SW,63527111534817,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111539143,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111542613,
+SW,63527111545040,InputReport
+SW,63527111549836,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527111607897,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111648221,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527111652576,
+SW,63527111652586,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527111652694,Exception Helper Window
+SW,63527111652820,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527111652851,Exception Helper Window
+SW,63527111655197,Task Switching
+SW,63527111655478,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527111659480,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527111668102,Task Switching
+SW,63527111668244,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527111674062,
+SW,63527111675157,User Interaction Capturer - ISLab
+SW,63527111676563,C:\Windows\System32\java.exe
+SW,63527111679642,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527111679767,C:\Windows\System32\java.exe
+SW,63527111682966,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527111685319,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527111755462,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527111758730,
+SW,63527111760070,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527111760318,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111768125,
+SW,63527111769272,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111775653,
+SW,63527111788933,Weka GUI Chooser
+SW,63527111790290,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111791667,User Interaction Capturer - ISLab
+SW,63527111798447,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111809566,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527111847949,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527111861902,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527111862000,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527111864788,C:\Windows\System32\java.exe
+SW,63527111864868,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527111867006,InputReport
+SW,63527111868498,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527112112776,Save As
+SW,63527112127430,Confirm Save As
+SW,63527112128794,Save As
+SW,63527112128857,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff • - Sublime Text (UNREGISTERED)
+SW,63527112140686,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527112153131,pred - Excel
+SW,63527112155187,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112171268,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527112200356,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112204995,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527112234398,Task Switching
+SW,63527112234480,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112235240,Task Switching
+SW,63527112235319,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527112239107,Task Switching
+SW,63527112239158,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112240712,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112245195,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527112246179,Task Switching
+SW,63527112246229,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112249227,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527112311931,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112353947,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527112360302,Task Switching
+SW,63527112360382,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112362108,
+SW,63527112363068,(1) Facebook - Google Chrome
+SW,63527112368369,Task Switching
+SW,63527112368431,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112369128,Task Switching
+SW,63527112369224,Facebook - Google Chrome
+SW,63527112372751,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527112409843,
+SW,63527112411761,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527112429340,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527112533409,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527112549179,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527112712270,
+SW,63527112713112,"Universidade" (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527113800800,Cursos de Línguas - 2º Semestre 2013/2014 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527113809890,
+SW,63527113810835,Battery Meter
+SW,63527113820969,Cursos de Línguas - 2º Semestre 2013/2014 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527113823189,User Interaction Capturer - ISLab
+SW,63527113823554,File Explorer
+SW,63527113830788,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527113844811,(1) Facebook - Google Chrome
+SW,63527113847324,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527113852598,User Interaction Capturer - ISLab
+SW,63527113872787,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527113883123,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527113883411,
+SW,63527113884820,Instances - Google Chrome
+SW,63527113885339,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527113885842,Instances - Google Chrome
+SW,63527113907170,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527113915687,
+SW,63527113915697,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527113918809,
+SW,63527113919030,Jump List
+SW,63527113920075,Jump List
+SW,63527113922927,Power Options
+SW,63527113926126,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527113928373,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527113930322,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527113934898,Power Options
+SW,63527113939547,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527113940272,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527113957228,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527113960767,
+SW,63527113962689,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527113968698,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527113971340,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527114007127,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527114026084,Cursos de Línguas - 2º Semestre 2013/2014 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527114035733,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527119872133,
+SW,63527119874222,InputReport
+SW,63527119878945,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527119905826,
+SW,63527119907117,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527119979795,
+SW,63527119982614,InputReport
+SW,63527119997625,
+SW,63527120003283,InputReport
+SW,63527120005960,
+SW,63527120006686,Output
+SW,63527120030720,Task Switching
+SW,63527120030794,InputReport
+SW,63527120042191,Task Switching
+SW,63527120042249,Records_pimz
+SW,63527120076246, A extrair E:\Dropbox\Records ... cords_champion.rar
+SW,63527120086398,original_data
+SW,63527120096346, A extrair E:\Dropbox\Records ... a\Records_JPAB.zip
+SW,63527120100066,original_data
+SW,63527120104297, A extrair E:\Dropbox\Records ... ords_quinzinho.zip
+SW,63527120108617,original_data
+SW,63527120122100, A extrair E:\Dropbox\Records ... ecords_Tiago_1.zip
+SW,63527120123586,original_data
+SW,63527120127520, A extrair E:\Dropbox\Records ... go_2_UNCHECKED.zip
+SW,63527120131178,original_data
+SW,63527120156296,100% complete
+SW,63527120162913,Records_fava
+SW,63527120165385,Task Switching
+SW,63527120165433,CAMCoF
+SW,63527120168299,Task Switching
+SW,63527120168972,Records_fava
+SW,63527120181382,100% complete
+SW,63527120182472,Records_fava
+SW,63527120223922,100% complete
+SW,63527120225134,Records_fava
+SW,63527120235543,100% complete
+SW,63527120236731,Records_fava
+SW,63527120248061,100% complete
+SW,63527120250608,Records_fava
+SW,63527120263282, A extrair E:\Dropbox\Records ... ta\Records_EDP.rar
+SW,63527120269375,original_data
+SW,63527120308347,Save and Launch
+SW,63527120309985,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527120333783,
+SW,63527120338042,Re: Cenas do escaxe - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527120416621,weka - ARFF (stable version) - Google Chrome
+SW,63527120417327,Task Manager
+SW,63527120426897,weka - ARFF (stable version) - Google Chrome
+SW,63527120428049,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527120430969,weka - ARFF (stable version) - Google Chrome
+SW,63527120436308,
+SW,63527120438633,original_data
+SW,63527120452306,
+SW,63527120455513,Workspace
+SW,63527120463087,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527120473188,InputReport
+SW,63527120491407,Document1 - Word
+SW,63527120493654,Weka Explorer
+SW,63527120494043,Load Instances
+SW,63527120495963,Weka Explorer
+SW,63527120497447,Document1 - Word
+SW,63527120498827,Microsoft Word
+SW,63527120499969,Document1 - Word
+SW,63527120501235,Save As
+SW,63527120506037,Document1 - Word
+SW,63527120508109,
+SW,63527120508759,Microsoft Word
+SW,63527120509115,Microsoft Word
+SW,63527120509122,
+SW,63527120511902,Microsoft Word
+SW,63527120512055,Word
+SW,63527120512664,InputReport
+SW,63527120518849,
+SW,63527120519912,Re: Cenas do escaxe - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527120544419,Task Switching
+SW,63527120544513,InputReport
+SW,63527120551813,tratar.pdf - Adobe Reader
+SW,63527120553771,InputReport
+SW,63527120560672,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527120584018,Task Switching
+SW,63527120584092,InputReport
+SW,63527120585419,
+SW,63527120587030,weka - ARFF (stable version) - Google Chrome
+SW,63527120650413,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff • - Sublime Text (UNREGISTERED)
+SW,63527120689795,GMT DATE weka - Pesquisa do Google - Google Chrome
+SW,63527120691707,
+SW,63527120693504,InputReport
+SW,63527120698261,
+SW,63527120699301,GMT DATE weka - Pesquisa do Google - Google Chrome
+SW,63527120709391,Weka Explorer
+SW,63527120709794,Load Instances
+SW,63527120837608,Weka Explorer
+SW,63527120839139,Task Switching
+SW,63527120839198,Re: Cenas do escaxe - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527120848027,
+SW,63527120850245,InputReport
+SW,63527120852801,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527120861292,InputReport
+SW,63527120865899,
+SW,63527120867941,Facebook - Google Chrome
+SW,63527120878185,Weka Explorer
+SW,63527120878656,Load Instances
+SW,63527120885559,Weka Explorer
+SW,63527120885946,weka.gui.GenericObjectEditor
+SW,63527120890339,Weka Explorer
+SW,63527120890458,Convert File
+SW,63527120893717,Weka Explorer
+SW,63527120893839,weka.gui.GenericObjectEditor
+SW,63527120906454,Weka Explorer
+SW,63527120915198,Weka Explorer
+SW,63527120915203,"Universidade" (5) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527120916482,Weka Explorer
+SW,63527120918977,
+SW,63527120920364,InputReport
+SW,63527120937896,
+SW,63527120945017,Open with…
+SW,63527120958634,InputReport
+SW,63527120960755,Opening - Excel
+SW,63527120961100,Excel
+SW,63527120991153,
+SW,63527120992002,pimz - Copy - Excel
+SW,63527121008731,Microsoft Excel
+SW,63527121018785,pimz - Copy - Excel
+SW,63527121053619,Microsoft Excel
+SW,63527121058296,pimz - Copy - Excel
+SW,63527121071990,Microsoft Excel
+SW,63527121073202,pimz - Copy - Excel
+SW,63527121084146,Task Switching
+SW,63527121084227,InputReport
+SW,63527121086139,
+SW,63527121087171,"Universidade" (5) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527121162086,Task Switching
+SW,63527121162140,InputReport
+SW,63527121165901,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121208761,Sublime Text
+SW,63527121210222,E:\Workspace\GitHub\CAMCoF\InputReport\pimz - Copy.arff • - Sublime Text (UNREGISTERED)
+SW,63527121211890,
+SW,63527121213576,pimz - Copy - Excel
+SW,63527121214679,Microsoft Excel
+SW,63527121215708,pimz - Copy - Excel
+SW,63527121215909,E:\Workspace\GitHub\CAMCoF\InputReport\pimz - Copy.arff • - Sublime Text (UNREGISTERED)
+SW,63527121218473,InputReport
+SW,63527121225269,
+SW,63527121231679,Open with…
+SW,63527121239395,InputReport
+SW,63527121240103,C:\WINDOWS\system32\cmd.exe
+SW,63527121241436,InputReport
+SW,63527121247950,
+SW,63527121252826,Open with…
+SW,63527121256339,Open
+SW,63527121275484,Weka Explorer
+SW,63527121275552,Load Instances
+SW,63527121281627,Weka Explorer
+SW,63527121284042,Open with…
+SW,63527121285678,InputReport
+SW,63527121288150,E:\Workspace\GitHub\CAMCoF\InputReport\pimz - Copy.arff - Sublime Text (UNREGISTERED)
+SW,63527121301625,InputReport
+SW,63527121311016,Weka Explorer
+SW,63527121312480,Weka Explorer
+SW,63527121313637,
+SW,63527121314575,Weka Explorer
+SW,63527121316594,Open
+SW,63527121329151,Weka Explorer
+SW,63527121329242,Load Instances
+SW,63527121335497,Weka Explorer
+SW,63527121336426,InputReport
+SW,63527121338974,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121394119,Weka Explorer
+SW,63527121396937,Open
+SW,63527121399659,Weka Explorer
+SW,63527121399721,Load Instances
+SW,63527121409736,Weka Explorer
+SW,63527121411948,Open
+SW,63527121414579,Weka Explorer
+SW,63527121414641,Load Instances
+SW,63527121415667,Weka Explorer
+SW,63527121416098,weka.gui.GenericObjectEditor
+SW,63527121433201,Open
+SW,63527121436807,weka.gui.GenericObjectEditor
+SW,63527121436896,Open object file
+SW,63527121439834,weka.gui.GenericObjectEditor
+SW,63527121450163,Open
+SW,63527121452147,weka.gui.GenericObjectEditor
+SW,63527121452193,Open object file
+SW,63527121454008,weka.gui.GenericObjectEditor
+SW,63527121478744,Open
+SW,63527121480225,weka.gui.GenericObjectEditor
+SW,63527121480272,Open object file
+SW,63527121481448,weka.gui.GenericObjectEditor
+SW,63527121484541,Open
+SW,63527121486193,weka.gui.GenericObjectEditor
+SW,63527121486245,Open object file
+SW,63527121487303,weka.gui.GenericObjectEditor
+SW,63527121489307,Weka Explorer
+SW,63527121498007,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121514332,
+SW,63527121515550,Attribute-Relation File Format (ARFF) - Google Chrome
+SW,63527121589877,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121613797,
+SW,63527121620142,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121622642,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527121624260,
+SW,63527121626079,InputReport
+SW,63527121627190,C:\WINDOWS\system32\cmd.exe
+SW,63527121627673,InputReport
+SW,63527121628941,Weka Explorer
+SW,63527121631323,Open
+SW,63527121633497,Weka Explorer
+SW,63527121633553,Load Instances
+SW,63527121642584,Weka Explorer
+SW,63527121642696,weka.gui.GenericObjectEditor
+SW,63527121656232,Weka Explorer
+SW,63527121657012,InputReport
+SW,63527121660324,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121718481,This is an unregistered copy
+SW,63527121720273,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121722511,InputReport
+SW,63527121726248,C:\WINDOWS\system32\cmd.exe
+SW,63527121726702,InputReport
+SW,63527121732942,InputReport
+SW,63527121732947,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527121737337,InputReport
+SW,63527121737344,Microsoft Visual Studio
+SW,63527121740725,Start
+SW,63527121740998,Start menu
+SW,63527121749613,DoubleClickShield
+SW,63527121749812,
+SW,63527121750217,Weka 3.6
+SW,63527121750685,InputReport
+SW,63527121755580,Task Manager
+SW,63527121760462,InputReport
+SW,63527121761594,Weka GUI Chooser
+SW,63527121769650,Weka Explorer
+SW,63527121774861,Open
+SW,63527121793041,Weka Explorer
+SW,63527121793127,Load Instances
+SW,63527121797310,Weka Explorer
+SW,63527121798418,Weka GUI Chooser
+SW,63527121800228,InputReport
+SW,63527121808400,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121815687,
+SW,63527121816949,Weka GUI Chooser
+SW,63527121818142,
+SW,63527121818742,Weka Explorer
+SW,63527121820161,Open
+SW,63527121822687,Weka Explorer
+SW,63527121822755,Load Instances
+SW,63527121827054,Weka Explorer
+SW,63527121828251,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121854838,
+SW,63527121857860,Weka GUI Chooser
+SW,63527121863003,
+SW,63527121863110,Weka Explorer
+SW,63527121864828,Open
+SW,63527121867631,Weka Explorer
+SW,63527121867693,Load Instances
+SW,63527121871959,Weka Explorer
+SW,63527121872458,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121879890,
+SW,63527121880460,Weka Explorer
+SW,63527121882802,Open
+SW,63527121885336,Weka Explorer
+SW,63527121911131,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121915927,Task Switching
+SW,63527121915994,Weka Explorer
+SW,63527121917509,Task Switching
+SW,63527121917584,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121920982,Task Switching
+SW,63527121921037,Weka Explorer
+SW,63527121922824,Task Switching
+SW,63527121922890,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527121937615,Task Switching
+SW,63527121937676,Weka Explorer
+SW,63527121947320,weka.gui.GenericObjectEditor
+SW,63527121950393,Weka Explorer
+SW,63527121952390,Neural Network
+SW,63527122007243,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527122008376,
+SW,63527122009666,InputReport
+SW,63527122022217,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_bin.arff - Sublime Text (UNREGISTERED)
+SW,63527122051875,This is an unregistered copy
+SW,63527122054030,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_bin.arff - Sublime Text (UNREGISTERED)
+SW,63527122104324,InputReport
+SW,63527122105661,
+SW,63527122125611,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527122126868,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527122137637,
+SW,63527122140251,Weka Explorer
+SW,63527122141278,
+SW,63527122141818,File:Biological clock human.svg - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527122237088,
+SW,63527122253482,Neural Network
+SW,63527122264809,Facebook - Google Chrome
+SW,63527122285798,Save As
+SW,63527122291371,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122294470,
+SW,63527122294508,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122295870,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122305395,Task Switching
+SW,63527122305462,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122312560,Task Switching
+SW,63527122312621,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122329956,Task Switching
+SW,63527122330028,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122343541,Task Switching
+SW,63527122343584,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122344464,Task Switching
+SW,63527122344539,Facebook - Google Chrome
+SW,63527122345160,Task Switching
+SW,63527122345208,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122398859,Task Switching
+SW,63527122398929,(1) Facebook - Google Chrome
+SW,63527122400618,Task Switching
+SW,63527122400703,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122403149,Task Switching
+SW,63527122403219,Facebook - Google Chrome
+SW,63527122412575,Task Switching
+SW,63527122412633,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122420418,Task Switching
+SW,63527122421190,Facebook - Google Chrome
+SW,63527122431982,
+SW,63527122432089,Neural Network
+SW,63527122434549,(1) Facebook - Google Chrome
+SW,63527122450951,
+SW,63527122451032,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122461999,
+SW,63527122462888,Weka Explorer
+SW,63527122490432,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122492188,
+SW,63527122493391,(1) Facebook - Google Chrome
+SW,63527122503666,Task Switching
+SW,63527122503727,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122507090,Task Switching
+SW,63527122507169,Facebook - Google Chrome
+SW,63527122518804,Task Switching
+SW,63527122518851,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122519333,Task Switching
+SW,63527122519385,Facebook - Google Chrome
+SW,63527122524622,Task Switching
+SW,63527122524676,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122558389,Task Switching
+SW,63527122558466,Facebook - Google Chrome
+SW,63527122571408,Task Switching
+SW,63527122571473,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122593197,Task Switching
+SW,63527122593259,Facebook - Google Chrome
+SW,63527122598157,Task Switching
+SW,63527122598228,Capa-MIMEI.pdf - Adobe Reader
+SW,63527122599931,
+SW,63527122603528,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122606022,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527122615716,
+SW,63527122619622,Weka GUI Chooser
+SW,63527122621591,
+SW,63527122633269,Weka GUI Chooser
+SW,63527122634798,Weka Explorer
+SW,63527122638723,
+SW,63527122639213,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122648288,Task Switching
+SW,63527122648341,Weka Explorer
+SW,63527122651155,Open
+SW,63527122671881,Weka Explorer
+SW,63527122703815,weka.gui.GenericObjectEditor
+SW,63527122710609,Weka Explorer
+SW,63527122727133,Facebook - Google Chrome
+SW,63527122752682,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527122757815,PDF - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122784665,
+SW,63527122788196,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527122813316,
+SW,63527122815821,InputReport
+SW,63527122818383,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_bin.arff - Sublime Text (UNREGISTERED)
+SW,63527122871959,
+SW,63527122874958,Weka GUI Chooser
+SW,63527122876534,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527122877880,
+SW,63527122880357,InputReport
+SW,63527122881483,C:\WINDOWS\system32\cmd.exe
+SW,63527122881948,InputReport
+SW,63527122888779,Weka Explorer
+SW,63527122893065,Open
+SW,63527122897460,Weka Explorer
+SW,63527122902399,Save
+SW,63527122908424,Weka Explorer
+SW,63527122914363,InputReport
+SW,63527122917889,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122918996,Task Switching
+SW,63527122919065,InputReport
+SW,63527122919781,Task Switching
+SW,63527122919833,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122922818,Task Switching
+SW,63527122922877,InputReport
+SW,63527122924037,Task Switching
+SW,63527122924088,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122924674,Task Switching
+SW,63527122925143,Weka Explorer
+SW,63527122926968,Task Switching
+SW,63527122927022,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122931194,Task Switching
+SW,63527122931329,Weka Explorer
+SW,63527122932807,Task Switching
+SW,63527122932859,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122935275,Task Switching
+SW,63527122935326,Weka Explorer
+SW,63527122937451,Task Switching
+SW,63527122937507,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122941461,Task Switching
+SW,63527122941517,Weka Explorer
+SW,63527122943311,Task Switching
+SW,63527122943365,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527122950033,Task Switching
+SW,63527122950085,Weka Explorer
+SW,63527122951709,Open
+SW,63527122954943,Weka Explorer
+SW,63527122970507,weka.gui.GenericObjectEditor
+SW,63527122974032,Weka Explorer
+SW,63527122975805,Neural Network
+SW,63527123000121,
+SW,63527123001364,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527123052855,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527123055678,
+SW,63527123060364,Neural Network
+SW,63527123064784,
+SW,63527123065891,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527123088383,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527123096019,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527123106266,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527123107877,
+SW,63527123109746,Neural Network
+SW,63527123116080,
+SW,63527123117314,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527123149673,Task Switching
+SW,63527123149750,Neural Network
+SW,63527123416896,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527123418671,Weka Explorer
+SW,63527123420609,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527123431998,Task Switching
+SW,63527123432052,Weka Explorer
+SW,63527123436589,Save
+SW,63527123446620,Weka Explorer
+SW,63527123448386,Facebook - Google Chrome
+SW,63527123454142,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527123468617,
+SW,63527123468840,
+SW,63527123477864,Task Switching
+SW,63527123477914,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527123496119,
+SW,63527123496200,InputReport
+SW,63527123502248,E:\Workspace\GitHub\CAMCoF\InputReport\pimz - Copy.arff • - Sublime Text (UNREGISTERED)
+SW,63527123502345,Sublime Text
+SW,63527123507315,E:\Workspace\GitHub\CAMCoF\InputReport\pimz - Copy.arff • - Sublime Text (UNREGISTERED)
+SW,63527123570618,Save Changes?
+SW,63527123574161,E:\Workspace\GitHub\CAMCoF\InputReport\test_ULTIMO.arff • - Sublime Text (UNREGISTERED)
+SW,63527123577263,Save Changes?
+SW,63527123578546,C:\Users\André\Desktop\test_P.arff • - Sublime Text (UNREGISTERED)
+SW,63527123579815,Save Changes?
+SW,63527123581001,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff • - Sublime Text (UNREGISTERED)
+SW,63527123617896,
+SW,63527123618054,
+SW,63527123625775,Task Switching
+SW,63527123625849,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527123626771,Task Switching
+SW,63527123626840,InputReport
+SW,63527123628081,Task Switching
+SW,63527123628132,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527123629730,InputReport
+SW,63527123631434,
+SW,63527123633029,Program Manager
+SW,63527123634671,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527123647942,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527123667283,
+SW,63527123673215,InputReport
+SW,63527123674846,
+SW,63527123675043,Jump List
+SW,63527123677173,File Explorer
+SW,63527123684746,Opening - Excel
+SW,63527123685021,Excel
+SW,63527123753142,Microsoft Excel
+SW,63527123755740,pred - Excel
+SW,63527123757128,Microsoft Excel
+SW,63527123758849,pred - Excel
+SW,63527123759549,Save As
+SW,63527123761744,Confirm Save As
+SW,63527123762777,Save As
+SW,63527123762882,pred - Excel
+SW,63527123763214,Microsoft Excel
+SW,63527123764571,pred - Excel
+SW,63527123764695,FatigueClassifierServer
+SW,63527123765911,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527123775268,
+SW,63527123777766,InputReport
+SW,63527123780746,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527123837640,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527123854017,
+SW,63527123865270,FatigueClassifierServer
+SW,63527123866923,Opening - Excel
+SW,63527123867183,Excel
+SW,63527123888821,Microsoft Excel
+SW,63527123890106,pred - Excel
+SW,63527123899742,Microsoft Excel
+SW,63527123903139,pred - Excel
+SW,63527123906073,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527123946716,pred - Excel
+SW,63527123953096,
+SW,63527123957932,pred - Excel
+SW,63527123992738,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527124018258,
+SW,63527124020739,pred - Excel
+SW,63527124025597,Excel
+SW,63527124049963,Task Switching
+SW,63527124050032,Book1 - Excel
+SW,63527124050628,Task Switching
+SW,63527124050711,pred - Excel
+SW,63527124100675,
+SW,63527124103088,pred - Excel
+SW,63527124105834,
+SW,63527124109593,pred - Excel
+SW,63527124118058,
+SW,63527124119347,pred - Excel
+SW,63527124119444,Find and Replace
+SW,63527124127233,Microsoft Excel
+SW,63527124128167,pred - Excel
+SW,63527124128207,Find and Replace
+SW,63527124128748,pred - Excel
+SW,63527124138804,
+SW,63527124139754,pred - Excel
+SW,63527124277528,Save As
+SW,63527124283932,pred - Excel
+SW,63527124284776,Microsoft Excel
+SW,63527124287788,results - Excel
+SW,63527124293108,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527124301547,results - Excel
+SW,63527124303574,Microsoft Excel
+SW,63527124305854,results - Excel
+SW,63527124306024,Microsoft Excel
+SW,63527124307074,results - Excel
+SW,63527124307505,Book1 - Excel
+SW,63527124309762,Microsoft Excel
+SW,63527124310796,Book1 - Excel
+SW,63527124310998,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527124313777,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527124438251,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527124457767,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527124468118,
+SW,63527124470304,FatigueClassifierServer
+SW,63527124472143,Opening - Excel
+SW,63527124472399,Excel
+SW,63527124483526,Excel
+SW,63527124510177,Task Switching
+SW,63527124510258,pred - Excel
+SW,63527124511398,Task Switching
+SW,63527124511468,Book1 - Excel
+SW,63527124511828,Task Switching
+SW,63527124512729,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527124522574,Task Switching
+SW,63527124522637,Book1 - Excel
+SW,63527124539476,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527124550367,Book1 - Excel
+SW,63527124558242,
+SW,63527124560255,pred - Excel
+SW,63527124569164,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527124577973,pred - Excel
+SW,63527124582069,Task Switching
+SW,63527124582106,Book1 - Excel
+SW,63527124583049,Task Switching
+SW,63527124583132,pred - Excel
+SW,63527124583778,Task Switching
+SW,63527124583853,Book1 - Excel
+SW,63527124584993,Task Switching
+SW,63527124585075,pred - Excel
+SW,63527124589518,Microsoft Excel
+SW,63527124591025,pred - Excel
+SW,63527124602359,Task Switching
+SW,63527124602434,Book1 - Excel
+SW,63527124604590,Task Switching
+SW,63527124604689,pred - Excel
+SW,63527124605960,Microsoft Excel
+SW,63527124607455,pred - Excel
+SW,63527124609363,Microsoft Excel
+SW,63527124613794,pred - Excel
+SW,63527124618285,Task Switching
+SW,63527124618358,Book1 - Excel
+SW,63527124623415,Task Switching
+SW,63527124623486,pred - Excel
+SW,63527124627926,Task Switching
+SW,63527124628020,Book1 - Excel
+SW,63527124637057,Task Switching
+SW,63527124637141,pred - Excel
+SW,63527124654110,
+SW,63527124656998,pred - Excel
+SW,63527124657198,Delete
+SW,63527124659245,pred - Excel
+SW,63527124690778,Task Switching
+SW,63527124690874,Book1 - Excel
+SW,63527124692671,Task Switching
+SW,63527124692758,pred - Excel
+SW,63527124694102,Microsoft Excel
+SW,63527124695591,pred - Excel
+SW,63527124720739,Task Switching
+SW,63527124720831,Book1 - Excel
+SW,63527124734891,Task Switching
+SW,63527124734987,pred - Excel
+SW,63527124752278,
+SW,63527124753501,pred - Excel
+SW,63527124753596,Find and Replace
+SW,63527124767078,Microsoft Excel
+SW,63527124768338,pred - Excel
+SW,63527124768377,Find and Replace
+SW,63527124769352,pred - Excel
+SW,63527124774716,
+SW,63527124781981,pred - Excel
+SW,63527124899470,
+SW,63527124901388,pred - Excel
+SW,63527124901563,Delete
+SW,63527124903267,pred - Excel
+SW,63527124937726,
+SW,63527124946645,pred - Excel
+SW,63527124978072,
+SW,63527124978880,pred - Excel
+SW,63527124982726,
+SW,63527124984251,pred - Excel
+SW,63527124984403,Delete
+SW,63527124987642,pred - Excel
+SW,63527124998372,Save As
+SW,63527125008108,pred - Excel
+SW,63527125008921,Microsoft Excel
+SW,63527125013532,results2 - Excel
+SW,63527125019723,
+SW,63527125020700,(2) Facebook - Google Chrome
+SW,63527125029543,Task Switching
+SW,63527125029609,results2 - Excel
+SW,63527125031881,Microsoft Excel
+SW,63527125035185,results2 - Excel
+SW,63527125035543,Book1 - Excel
+SW,63527125037251,Microsoft Excel
+SW,63527125038358,Book1 - Excel
+SW,63527125038563,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527125040836,
+SW,63527125043324,FatigueClassifierServer
+SW,63527125049568,
+SW,63527125060778,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527125146831,
+SW,63527125147580,Opening - Excel
+SW,63527125147820,Excel
+SW,63527125155642,Task Switching
+SW,63527125155712,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527125157270,Task Switching
+SW,63527125157351,Book1 - Excel
+SW,63527125158570,Task Switching
+SW,63527125158644,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527125191841,This is an unregistered copy
+SW,63527125193368,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527125196348,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527125227468,
+SW,63527125229956,FatigueClassifierServer
+SW,63527125231268,Book1 - Excel
+SW,63527125232010,Excel
+SW,63527125238868,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527125245378,pred - Excel
+SW,63527125248810,Task Switching
+SW,63527125248850,pred - Excel
+SW,63527125249486,Task Switching
+SW,63527125249555,Book1 - Excel
+SW,63527125253107,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527125257233,Book1 - Excel
+SW,63527125271687,Task Switching
+SW,63527125271779,pred - Excel
+SW,63527125289666,
+SW,63527125290816,pred - Excel
+SW,63527125290919,Find and Replace
+SW,63527125310508,Microsoft Excel
+SW,63527125311694,pred - Excel
+SW,63527125311732,Find and Replace
+SW,63527125312652,pred - Excel
+SW,63527125328723,
+SW,63527125336831,pred - Excel
+SW,63527125386557,Save As
+SW,63527125396066,pred - Excel
+SW,63527125397051,Microsoft Excel
+SW,63527125399035,results3 - Excel
+SW,63527125401467,Microsoft Excel
+SW,63527125404589,results3 - Excel
+SW,63527125404730,Microsoft Excel
+SW,63527125406201,results3 - Excel
+SW,63527125406633,Book1 - Excel
+SW,63527125413622,Microsoft Excel
+SW,63527125414539,Book1 - Excel
+SW,63527125414717,FatigueClassifierServer
+SW,63527125419510,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527125487997,
+SW,63527125488623,Opening - Excel
+SW,63527125488875,Excel
+SW,63527125510072,Task Switching
+SW,63527125510141,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527125514552,Task Switching
+SW,63527125514604,Book1 - Excel
+SW,63527125526328,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527125542493,Book1 - Excel
+SW,63527125544373,Task Switching
+SW,63527125544442,E:\Workspace\GitHub\CAMCoF\InputReport\pimz.arff - Sublime Text (UNREGISTERED)
+SW,63527125579735,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527125601843,
+SW,63527125605840,FatigueClassifierServer
+SW,63527125606849,Book1 - Excel
+SW,63527125607683,Excel
+SW,63527125613651,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527125617913,pred - Excel
+SW,63527125622945,Task Switching
+SW,63527125623016,Book1 - Excel
+SW,63527125633043,Task Switching
+SW,63527125633121,pred - Excel
+SW,63527125646344,
+SW,63527125648860,pred - Excel
+SW,63527125660368,
+SW,63527125661446,pred - Excel
+SW,63527125661543,Find and Replace
+SW,63527125668968,Microsoft Excel
+SW,63527125669805,pred - Excel
+SW,63527125669841,Find and Replace
+SW,63527125670640,pred - Excel
+SW,63527125676519,
+SW,63527125680349,pred - Excel
+SW,63527125690137,
+SW,63527125691980,pred - Excel
+SW,63527125749894,Save As
+SW,63527125763521,pred - Excel
+SW,63527125764355,Microsoft Excel
+SW,63527125766591,results4 - Excel
+SW,63527125779370,Microsoft Excel
+SW,63527125781385,results4 - Excel
+SW,63527125781734,Book1 - Excel
+SW,63527125783138,Microsoft Excel
+SW,63527125784289,Book1 - Excel
+SW,63527125784472,FatigueClassifierServer
+SW,63527125786100,
+SW,63527125787206,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527125813373,
+SW,63527125817470,original_data
+SW,63527125822275,Opening - Excel
+SW,63527125822584,Excel
+SW,63527125832321,Data (E:)
+SW,63527125834326,Opening - Excel
+SW,63527125834576,Excel
+SW,63527125849569,Data (E:)
+SW,63527125854860,
+SW,63527125855749,ai.weka - Re: Help with arff Date field format - msg#00071 - Recent Discussion OSDir.com - Google Chrome
+SW,63527125924381,Open
+SW,63527125932309,Professor Chainho Pereira: palestra "INTEGRITY AND MISCONDUCT IN ACADEMIC RESEARCH" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527125948819,Task Switching
+SW,63527125948893,Data (E:)
+SW,63527125949752,Task Switching
+SW,63527125949808,Professor Chainho Pereira: palestra "INTEGRITY AND MISCONDUCT IN ACADEMIC RESEARCH" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527126302390,
+SW,63527126304755,Data (E:)
+SW,63527126306373,Opening - Excel
+SW,63527126306623,Excel
+SW,63527126340743,Microsoft Excel
+SW,63527126343996,results - Excel
+SW,63527126344176,Data (E:)
+SW,63527126347005,
+SW,63527126348247,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527126688579,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527126702427,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527126703040,Task Manager
+SW,63527126782077,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527127053214,
+SW,63527127058204,InputReport
+SW,63527127074295,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527127288033,
+SW,63527127293170,InputReport
+SW,63527127294760,Weka Explorer
+SW,63527127298437,Open
+SW,63527127317660,Weka Explorer
+SW,63527127335607,Neural Network
+SW,63527127351296,Accept Neural Network
+SW,63527127352561,Neural Network
+SW,63527127352577,Weka Explorer
+SW,63527127354621,Neural Network
+SW,63527127389705,
+SW,63527127391121,Facebook - Google Chrome
+SW,63527127409349,Task Switching
+SW,63527127409416,Neural Network
+SW,63527127410975,Task Switching
+SW,63527127411029,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527127415688,Task Switching
+SW,63527127415748,Neural Network
+SW,63527127443304,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527127534756,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527127534867,
+SW,63527127538480,Neural Network
+SW,63527127572272,Davide diz… - Google Chrome
+SW,63527127574486,Weka Explorer
+SW,63527127580149,Save
+SW,63527127583826,Weka Explorer
+SW,63527127588307,Save
+SW,63527127590754,Weka Explorer
+SW,63527127596214,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527127599587,Task Switching
+SW,63527127599637,Weka Explorer
+SW,63527127603304,Save
+SW,63527127608083,Weka Explorer
+SW,63527127609622,
+SW,63527127612696,InputReport
+SW,63527127616779,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1_ref.arff - Sublime Text (UNREGISTERED)
+SW,63527127642553,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527127669629,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527127670447,Task Switching
+SW,63527127670491,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527127674550,
+SW,63527127676655,FatigueClassifierServer
+SW,63527127678458,Opening - Excel
+SW,63527127678748,Excel
+SW,63527127686875,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527127696702,pred - Excel
+SW,63527127699788,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527127703495,pred - Excel
+SW,63527127722506,
+SW,63527127723917,pred - Excel
+SW,63527127724046,Find and Replace
+SW,63527127738366,Microsoft Excel
+SW,63527127739448,pred - Excel
+SW,63527127739482,Find and Replace
+SW,63527127740521,pred - Excel
+SW,63527127741747,Task Switching
+SW,63527127741827,FatigueClassifierServer
+SW,63527127742505,Task Switching
+SW,63527127742562,pred - Excel
+SW,63527127742938,Task Switching
+SW,63527127743648,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527127744135,Task Switching
+SW,63527127744823,C:\Users\André\Desktop\test_P.arff - Sublime Text (UNREGISTERED)
+SW,63527127812818,
+SW,63527127814950,InputReport
+SW,63527127817406,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527127825725,pred - Excel
+SW,63527127829581,Excel
+SW,63527127841888,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527127847433,Book1 - Excel
+SW,63527127861223,Task Switching
+SW,63527127861314,pred - Excel
+SW,63527127897297,Microsoft Excel
+SW,63527127898334,pred - Excel
+SW,63527127898829,Book1 - Excel
+SW,63527127899967,
+SW,63527127902158,FatigueClassifierServer
+SW,63527127907903,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527127914708,FatigueClassifierServer
+SW,63527127914890,Book1 - Excel
+SW,63527127915456,Excel
+SW,63527127920536,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527127925967,pred - Excel
+SW,63527127935439,Task Switching
+SW,63527127936217,Task Switching
+SW,63527127937482,
+SW,63527127940557,Book1 - Excel
+SW,63527127942605,Task Switching
+SW,63527127942689,pred - Excel
+SW,63527127964330,
+SW,63527127965707,pred - Excel
+SW,63527127981200,
+SW,63527127982196,pred - Excel
+SW,63527127982342,Find and Replace
+SW,63527127986140,Microsoft Excel
+SW,63527127987304,pred - Excel
+SW,63527127987345,Find and Replace
+SW,63527127988453,pred - Excel
+SW,63527128039776,Insert Function
+SW,63527128051599,pred - Excel
+SW,63527128051781,Function Arguments
+SW,63527128055396,pred - Excel
+SW,63527128074800,Microsoft Excel
+SW,63527128076110,pred - Excel
+SW,63527128238324,
+SW,63527128240994,pred - Excel
+SW,63527128260978,Save As
+SW,63527128268947,pred - Excel
+SW,63527128269765,Microsoft Excel
+SW,63527128271735,results_andre - Excel
+SW,63527128275401,Microsoft Excel
+SW,63527128281086,results_andre - Excel
+SW,63527128281232,Microsoft Excel
+SW,63527128282331,results_andre - Excel
+SW,63527128282405,Book1 - Excel
+SW,63527128537515,
+SW,63527128538238,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527128548858,Open
+SW,63527128553249,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527128593671,Book1 - Excel
+SW,63527128599275,Microsoft Excel
+SW,63527128600243,Book1 - Excel
+SW,63527128600501,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527128601826,
+SW,63527128605424,Data (E:)
+SW,63527128607129,Opening - Excel
+SW,63527128607441,Excel
+SW,63527128638408,
+SW,63527128639455,Davide diz… - Google Chrome
+SW,63527128816087,Task Switching
+SW,63527128816154,results_andre - Excel
+SW,63527128823272,Task Switching
+SW,63527128823343,Resultados rede neuronal - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527128938565,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527129227126,
+SW,63527129227770,"Senado" (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527129306193,Capa-MIMEI.pdf - Adobe Reader
+SW,63527129308278,Adobe Reader
+SW,63527129309576,Capa-MIMEI.pdf - Adobe Reader
+SW,63527129309704,Re: Cenas do escaxe - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527129311025,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527129315143,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527129328182,
+SW,63527129336306,InputReport
+SW,63527129355990,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527129365404,
+SW,63527129366306,Re: Cenas do escaxe - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527129379006,ai.weka - Re: Help with arff Date field format - msg#00071 - Recent Discussion OSDir.com - Google Chrome
+SW,63527147419998,
+SW,63527147529384,wareztuga.tv - O Clube de Dallas (2013) - Google Chrome
+SW,63527147532788,Settings
+SW,63527147544674,
+SW,63527147549794,Settings
+SW,63527147549906,wareztuga.tv - O Clube de Dallas (2013) - Google Chrome
+SW,63527147549966,
+SW,63527189051063,wareztuga.tv - O Clube de Dallas (2013) - Google Chrome
+SW,63527189052146,Device Setup
+SW,63527189067960,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527189082821,
+SW,63527189082930,
+SW,63527189095654,InputReport
+SW,63527189095831,
+SW,63527189097486,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527189097672,
+SW,63527189099509,Task Manager
+SW,63527189101701,
+SW,63527189104793,results_andre - Excel
+SW,63527189106467,
+SW,63527189110534,
+SW,63527189113349,
+SW,63527189115021,Weka Explorer
+SW,63527189115107,
+SW,63527189116205,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527189130093,
+SW,63527189131340,Program Manager
+SW,63527189134441,
+SW,63527189134473,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527189135422,05_524648_20141000005921.pdf - Adobe Reader
+SW,63527189138600,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527189140551,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527189142325,
+SW,63527189168040,Untitled - Google Chrome
+SW,63527189423268,Task Switching
+SW,63527189423323,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527189426819,Google Tradutor - Google Chrome
+SW,63527189576279,File Explorer
+SW,63527189582973,
+SW,63527189583046,Articles
+SW,63527189584057,tratar.pdf - Adobe Reader
+SW,63527189610624,Facebook - Google Chrome
+SW,63527189664680,
+SW,63527189664940,
+SW,63527189665617,Word
+SW,63527189671417,TexMaker
+SW,63527189672259,Texmaker
+SW,63527189677639,tratar.pdf - Adobe Reader
+SW,63527189706385,tratar.pdf - Adobe Reader
+SW,63527189718257,System for detection and monitoring of fatigue and stress - research (University of Minho) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527189798281,Texmaker
+SW,63527189820455,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527189909278,Start
+SW,63527189909365,Start menu
+SW,63527189913281,DoubleClickShield
+SW,63527189913348,Mail
+SW,63527189916503,Mail
+SW,63527189934620,
+SW,63527189934632,Start menu
+SW,63527189936431,DoubleClickShield
+SW,63527189936446,
+SW,63527189936472,arousal - Pesquisa do Google - Google Chrome
+SW,63527190010205,Task Switching
+SW,63527190010257,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527190010898,Task Switching
+SW,63527190010936,arousal - Pesquisa do Google - Google Chrome
+SW,63527190016540,Task Switching
+SW,63527190016603,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527190017299,Task Switching
+SW,63527190017337,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527190027771,Task Switching
+SW,63527190027820,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527190028471,Task Switching
+SW,63527190028531,homesta - Pesquisa do Google - Google Chrome
+SW,63527190028767,Task Switching
+SW,63527190029118,tratar.pdf - Adobe Reader
+SW,63527190030066,homesta - Pesquisa do Google - Google Chrome
+SW,63527190161567,The page at https://mail.google.com says:
+SW,63527190170411,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527190450996,tratar.pdf - Adobe Reader
+SW,63527190467540,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527190474219,tratar.pdf - Adobe Reader
+SW,63527190480980,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527190485043,tratar.pdf - Adobe Reader
+SW,63527190524643,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527190533333,tratar.pdf - Adobe Reader
+SW,63527190657010,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527190704481,tratar.pdf - Adobe Reader
+SW,63527190765064,A Look Back - Google Chrome
+SW,63527190806147,tratar.pdf - Adobe Reader
+SW,63527190817694,Player RFM - Google Chrome
+SW,63527190888285,tratar.pdf - Adobe Reader
+SW,63527190962750,Homeostat - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527190964326,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191007960,
+SW,63527191008869,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191013160,tratar.pdf - Adobe Reader
+SW,63527191060264,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191109216,Homeostat - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527191117667,Save As
+SW,63527191122986,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527191147948,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191167983,Insert Picture
+SW,63527191185580,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527191188261,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527191190550,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527191193279,File Explorer
+SW,63527191199837,Insert Picture
+SW,63527191205959,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191468146,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527191480239,Task Switching
+SW,63527191480253,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191487030,Task Switching
+SW,63527191487099,Google Tradutor - Google Chrome
+SW,63527191500008,Task Switching
+SW,63527191500060,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191519548,Task Switching
+SW,63527191519608,Google Tradutor - Google Chrome
+SW,63527191531047,Task Switching
+SW,63527191531098,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191557372,Task Switching
+SW,63527191557438,Google Tradutor - Google Chrome
+SW,63527191605872,Task Switching
+SW,63527191605897,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191665826,Google Tradutor - Google Chrome
+SW,63527191673234,Task Switching
+SW,63527191673287,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191770663,Task Switching
+SW,63527191770721,Google Tradutor - Google Chrome
+SW,63527191780796,Task Switching
+SW,63527191780876,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191781492,Task Switching
+SW,63527191781550,Google Tradutor - Google Chrome
+SW,63527191791627,Task Switching
+SW,63527191791693,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191792420,Task Switching
+SW,63527191792482,Google Tradutor - Google Chrome
+SW,63527191805003,Task Switching
+SW,63527191805080,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191881008,Task Switching
+SW,63527191881067,Google Tradutor - Google Chrome
+SW,63527191888536,Task Switching
+SW,63527191888601,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527191899485,Task Switching
+SW,63527191899544,Google Tradutor - Google Chrome
+SW,63527191909480,Task Switching
+SW,63527191909544,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527192604490,Google Tradutor - Google Chrome
+SW,63527193047038,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193048062,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193080477,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193085275,Task Switching
+SW,63527193085332,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193100254,Task Switching
+SW,63527193100317,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193104129,Task Switching
+SW,63527193104184,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193108911,Task Switching
+SW,63527193108970,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193112599,Task Switching
+SW,63527193112683,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193114360,Task Switching
+SW,63527193114426,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193119543,
+SW,63527193119807,
+SW,63527193124404,File Explorer
+SW,63527193169939,Task Switching
+SW,63527193169993,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193181486,Task Switching
+SW,63527193181531,images
+SW,63527193190244,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193354421,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527193358797,Facebook - Google Chrome
+SW,63527193365359,
+SW,63527193369294,images
+SW,63527193389969, A extrair E:\Dropbox\Records ... a\Records_pimz.zip
+SW,63527193399587,original_data
+SW,63527193406931, A extrair E:\Dropbox\Records ... ecords_pimenta.zip
+SW,63527193415136,original_data
+SW,63527193420168, A extrair E:\Dropbox\Records ... \Records_jaime.zip
+SW,63527193421001,original_data
+SW,63527193441036,100% complete
+SW,63527193445739,Records_pimenta
+SW,63527193448416,100% complete
+SW,63527193450403,Records_pimenta
+SW,63527193452262,Folder Access Denied
+SW,63527193456174,This will cancel all transfers in progress.
+SW,63527193457329,1 Interrupted Action
+SW,63527193457636,Records_pimenta
+SW,63527193468901,Canceling - 52% complete
+SW,63527193471313,Records_pimenta
+SW,63527193483075,100% complete
+SW,63527193484049,Records_pimenta
+SW,63527193496726, A extrair E:\Dropbox\Records ... ata\Records_53.zip
+SW,63527193505884,original_data
+SW,63527193516083,100% complete
+SW,63527193516575,Records_pimenta
+SW,63527193529906,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193531658,Java - InputReport/src/biometrics/behavioural/mouseDynamics/MouseDynamicsTimeImp.java - Eclipse
+SW,63527193591049,
+SW,63527193592134,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527193600792,
+SW,63527193601666,Java - InputReport/src/report/MetricsReportFacade.java - Eclipse
+SW,63527193663401,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527193667233,Document : E:\Dropbox\Articles\review_article_DRAFT\latex\review_cc.tex
+SW,63527193696434,
+SW,63527193697946,Articles
+SW,63527193706931,fatigue schematic.jpeg Properties
+SW,63527193721994,images
+SW,63527193727193,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193747749,
+SW,63527193749882,images
+SW,63527193765073,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193786939,The page at https://mail.google.com says:
+SW,63527193790225,Correio enviado - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193791151,Task Switching
+SW,63527193791201,images
+SW,63527193791947,Task Switching
+SW,63527193791999,Correio enviado - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193818073,Save As
+SW,63527193823348,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193826088,
+SW,63527193826359,
+SW,63527193833176,
+SW,63527193834659,images
+SW,63527193837759,Delete File
+SW,63527193839181,images
+SW,63527193840887,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193846971,Task Switching
+SW,63527193847091,images
+SW,63527193852169,fatigue.jpeg Properties
+SW,63527193853457,images
+SW,63527193853904,Task Switching
+SW,63527193853962,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193861365,Task Switching
+SW,63527193861424,images
+SW,63527193861920,Task Switching
+SW,63527193861978,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193864187,Task Switching
+SW,63527193864255,images
+SW,63527193880665,
+SW,63527193880827,
+SW,63527193883166,Task Switching
+SW,63527193883214,Articles
+SW,63527193891424,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193894479,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193901199,Texmaker : pdf preview
+SW,63527193933479,Task Switching
+SW,63527193933562,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193937012,
+SW,63527193939489,images
+SW,63527193944625,Paint
+SW,63527193980168,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527193981131,Task Switching
+SW,63527193981226,fatigue - Paint
+SW,63527193981899,
+SW,63527193982623,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193988018,HAIS14.pdf
+SW,63527193988048,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527193988058,HAIS14.pdf
+SW,63527194005711,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527194008110,fatigue - Paint
+SW,63527194009729,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527194012262,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194079811,
+SW,63527194082432,HAIS14.pdf
+SW,63527194095982,"Universidade" (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194129703,Task Switching
+SW,63527194129759,HAIS14.pdf
+SW,63527194143534,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194166638,HAIS14.pdf
+SW,63527194197198,Task Switching
+SW,63527194197258,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194240316,Task Switching
+SW,63527194240369,HAIS14.pdf
+SW,63527194245346,
+SW,63527194246469,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194247704,Task Switching
+SW,63527194247843,HAIS14.pdf
+SW,63527194248466,Task Switching
+SW,63527194249423,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194314511,
+SW,63527194315782,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194330200,Abrir ficheiro
+SW,63527194335161,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194372329,Task Switching
+SW,63527194372386,scholar.google.com/scholar.bib?q=info:9EKEKrHQJ5MJ:scholar.google.com/&output=citation&hl=pt-PT&ct=citation&cd=0 - Google Chrome
+SW,63527194382225,Task Switching
+SW,63527194382289,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194384557,Task Switching
+SW,63527194384655,scholar.google.com/scholar.bib?q=info:9EKEKrHQJ5MJ:scholar.google.com/&output=citation&hl=pt-PT&ct=citation&cd=0 - Google Chrome
+SW,63527194390730,Task Switching
+SW,63527194390789,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194402211,Objective and subjective measures - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194449434,Task Switching
+SW,63527194449497,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194464998,HAIS14.pdf
+SW,63527194465031,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194465038,HAIS14.pdf
+SW,63527194473810,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194487994,HAIS14.pdf
+SW,63527194488027,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194488036,HAIS14.pdf
+SW,63527194498148,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194530390,HAIS14.pdf
+SW,63527194530428,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194530438,HAIS14.pdf
+SW,63527194563705,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194585034,HAIS14.pdf
+SW,63527194590809,Google Tradutor - Google Chrome
+SW,63527194592105,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527194728813,Task Switching
+SW,63527194728882,Google Tradutor - Google Chrome
+SW,63527194742301,Task Switching
+SW,63527194742355,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527194750057,Task Switching
+SW,63527194750133,Google Tradutor - Google Chrome
+SW,63527194761360,Task Switching
+SW,63527194761435,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527194772323,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527194772368,Google Tradutor - Google Chrome
+SW,63527194774208,
+SW,63527194775258,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194810560,Google Tradutor - Google Chrome
+SW,63527194814926,HAIS14.pdf
+SW,63527194814965,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194814975,HAIS14.pdf
+SW,63527194827588,
+SW,63527194830389,
+SW,63527194835946,HAIS14.pdf
+SW,63527194910993,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194921520,HAIS14.pdf
+SW,63527194925716,
+SW,63527194926420,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194932656,HAIS14.pdf
+SW,63527194946823,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527194967871,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527194970351,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195000548,
+SW,63527195001381,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195017240,Task Switching
+SW,63527195017310,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527195019139,Task Switching
+SW,63527195019199,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195110308,Task Switching
+SW,63527195110362,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527195119672,Task Switching
+SW,63527195119731,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195123807,Task Switching
+SW,63527195123862,Google Tradutor - Google Chrome
+SW,63527195125460,Task Switching
+SW,63527195125508,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195152969,Task Switching
+SW,63527195153014,Google Tradutor - Google Chrome
+SW,63527195166233,Task Switching
+SW,63527195166292,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195175109,
+SW,63527195177327,images
+SW,63527195183737,
+SW,63527195183830,HAIS_13_FINAL
+SW,63527195183996,tratar.pdf - Adobe Reader
+SW,63527195184826,HAIS13.pdf - Adobe Reader
+SW,63527195188223,tratar.pdf - Adobe Reader
+SW,63527195190366,HAIS_13_FINAL
+SW,63527195196659,
+SW,63527195196746,ISAI_14_SUBMITED
+SW,63527195196885,tratar.pdf - Adobe Reader
+SW,63527195197182,ISAI.pdf - Adobe Reader
+SW,63527195228114,tratar.pdf - Adobe Reader
+SW,63527195229255,ISAI_14_SUBMITED
+SW,63527195231606,Task Switching
+SW,63527195231664,tratar.pdf - Adobe Reader
+SW,63527195234007,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195244860,Google Tradutor - Google Chrome
+SW,63527195247257,Task Switching
+SW,63527195247353,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195263516,Task Switching
+SW,63527195263586,Google Tradutor - Google Chrome
+SW,63527195270860,Task Switching
+SW,63527195270936,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195275711,Task Switching
+SW,63527195275779,Google Tradutor - Google Chrome
+SW,63527195277230,Task Switching
+SW,63527195277301,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195277841,Task Switching
+SW,63527195277905,Google Tradutor - Google Chrome
+SW,63527195291598,Task Switching
+SW,63527195291646,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195294094,Task Switching
+SW,63527195294158,Google Tradutor - Google Chrome
+SW,63527195319034,Task Switching
+SW,63527195319085,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195327044,
+SW,63527195329356,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195345173,Task Switching
+SW,63527195345238,Google Tradutor - Google Chrome
+SW,63527195351936,Task Switching
+SW,63527195352015,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195364174,Task Switching
+SW,63527195364248,Google Tradutor - Google Chrome
+SW,63527195385674,Task Switching
+SW,63527195385741,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195391254,Task Switching
+SW,63527195391318,Google Tradutor - Google Chrome
+SW,63527195397514,Task Switching
+SW,63527195397585,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195406838,Task Switching
+SW,63527195406892,Google Tradutor - Google Chrome
+SW,63527195408368,Task Switching
+SW,63527195408426,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195410108,Task Switching
+SW,63527195410170,Google Tradutor - Google Chrome
+SW,63527195414972,Task Switching
+SW,63527195415041,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195416246,Task Switching
+SW,63527195416304,Google Tradutor - Google Chrome
+SW,63527195417138,Task Switching
+SW,63527195417210,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195428718,Task Switching
+SW,63527195428789,Google Tradutor - Google Chrome
+SW,63527195468685,Task Switching
+SW,63527195468750,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195481662,Task Switching
+SW,63527195481727,Google Tradutor - Google Chrome
+SW,63527195484683,Task Switching
+SW,63527195484745,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195515518,Task Switching
+SW,63527195515588,Google Tradutor - Google Chrome
+SW,63527195587606,Task Switching
+SW,63527195587667,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195602311,Task Switching
+SW,63527195602381,Google Tradutor - Google Chrome
+SW,63527195625661,Task Switching
+SW,63527195625717,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195647403,
+SW,63527195649321,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195666557,Task Switching
+SW,63527195666620,Google Tradutor - Google Chrome
+SW,63527195678928,Task Switching
+SW,63527195678987,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195700073,
+SW,63527195701806,
+SW,63527195706129,
+SW,63527195706151,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195716296,
+SW,63527195717427,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527195746690,HAIS14.pdf
+SW,63527195746722,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527195746732,HAIS14.pdf
+SW,63527195781880,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527195783411,Task Switching
+SW,63527195783547,HAIS14.pdf
+SW,63527195784239,Task Switching
+SW,63527195784318,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527195784835,Task Switching
+SW,63527195785390,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195822397,
+SW,63527195823625,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527195827107,Task Switching
+SW,63527195827165,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527195836736,HAIS14.pdf
+SW,63527195836765,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527195836773,HAIS14.pdf
+SW,63527195865306,
+SW,63527195866169,ISAI_14_SUBMITED
+SW,63527195875784, A comprimir HAIS_14_DRAFT.zip
+SW,63527195876266,Articles
+SW,63527195877488,Google Tradutor - Google Chrome
+SW,63527195904863,Open
+SW,63527195914830,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527195928640,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527195932482,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527196117750,tratar.pdf - Adobe Reader
+SW,63527196122294,
+SW,63527196123528,HAIS14.pdf
+SW,63527196586355,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527196594891,
+SW,63527196595020,Battery Meter
+SW,63527196597525,File Explorer
+SW,63527196605072,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527196672133,
+SW,63527196675476,Articles
+SW,63527196682553,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527196819352,
+SW,63527196820730,HAIS14.pdf
+SW,63527196872227,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527196960096,HAIS14.pdf
+SW,63527196982257,Facebook - Google Chrome
+SW,63527196986838,HAIS14.pdf
+SW,63527197072096,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527197112774,HAIS14.pdf
+SW,63527197123504,Facebook - Google Chrome
+SW,63527197126966,HAIS14.pdf
+SW,63527197136036,
+SW,63527197138423,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527197146781,scholar.google.com/scholar.bib?q=info:9EKEKrHQJ5MJ:scholar.google.com/&output=citation&hl=pt-PT&ct=citation&cd=0 - Google Chrome
+SW,63527197397971,Task Switching
+SW,63527197398024,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527197398899,Task Switching
+SW,63527197398973,Facebook - Google Chrome
+SW,63527197401217,Task Switching
+SW,63527197401273,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527197401821,Task Switching
+SW,63527197401897,Facebook - Google Chrome
+SW,63527197451368,Task Switching
+SW,63527197451422,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527197451991,Task Switching
+SW,63527197452080,Facebook - Google Chrome
+SW,63527197589087,
+SW,63527197591950,Fatigue Stress Pressure - PowerPoint Presentation - Transport Canada - Google Chrome
+SW,63527197616194,HAIS14.pdf
+SW,63527198112532,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527198278141,HAIS14.pdf
+SW,63527198287685,
+SW,63527198292853,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527198298968,
+SW,63527198301657,original_data
+SW,63527198340311,E:\Workspace\GitHub\CAMCoF\InputReport\pimz_1.arff - Sublime Text (UNREGISTERED)
+SW,63527198363025,Task Switching
+SW,63527198363102,analysis_3
+SW,63527198364564,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527198402169,Task Switching
+SW,63527198402231,analysis_3
+SW,63527198403722,Task Switching
+SW,63527198403786,wilcox.test - Pesquisa do Google - Google Chrome
+SW,63527198454692,
+SW,63527198467107,Mann-Whitney-Wilcoxon Test | R Tutorial - Google Chrome
+SW,63527198467108,
+SW,63527198469797,Mann-Whitney-Wilcoxon Test | R Tutorial - Google Chrome
+SW,63527198470647,Task Switching
+SW,63527198470699,analysis_3
+SW,63527198474397,
+SW,63527198474490,analysis_3
+SW,63527198474675,tratar.pdf - Adobe Reader
+SW,63527198475186,report3.pdf - Adobe Reader
+SW,63527198486847,tratar.pdf - Adobe Reader
+SW,63527198487980,analysis_3
+SW,63527198492634,
+SW,63527198492737,analysis_2
+SW,63527198492892,tratar.pdf - Adobe Reader
+SW,63527198493238,report.pdf - Adobe Reader
+SW,63527198511964,tratar.pdf - Adobe Reader
+SW,63527198513256,analysis_2
+SW,63527198516968,
+SW,63527198517031,E:\Dropbox\PDInf\Workspace\analysis_2\report.Rnw - Sublime Text (UNREGISTERED)
+SW,63527198534282,Task Switching
+SW,63527198534369,analysis_2
+SW,63527198535595,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527198670776,Task Switching
+SW,63527198670851,analysis_2
+SW,63527198672120,
+SW,63527198677059,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527198682456,Abrir ficheiro
+SW,63527198691701,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527198720809,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527198767011,
+SW,63527198769377,Document : E:/Dropbox/Articles/ISAI_14_SUBMITED/ISAI.tex
+SW,63527198795710,HAIS14.pdf
+SW,63527198795759,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527198795768,HAIS14.pdf
+SW,63527198827016,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527198832753,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527198894571,HAIS14.pdf
+SW,63527198903602,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527198966488,Facebook - Google Chrome
+SW,63527198992679,HAIS14.pdf
+SW,63527199001478,Task Switching
+SW,63527199001540,Pearson's chi-squared test - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527199103650,Task Switching
+SW,63527199103730,HAIS14.pdf
+SW,63527199105250,Petya Jones - Google Chrome
+SW,63527199108391,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527199177726,
+SW,63527199177846,
+SW,63527199182320,
+SW,63527199191689,Skype
+SW,63527199194448,
+SW,63527199195307,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527199195571,Skype™ - andre.pimenta.53
+SW,63527199378543,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527199407509,Task Switching
+SW,63527199407564,Skype™ - andre.pimenta.53
+SW,63527199409486,Petya Jones - Google Chrome
+SW,63527199436069,Skype™ [1] - andre.pimenta.53
+SW,63527199474029,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527199546060,Skype™ - andre.pimenta.53
+SW,63527199561262,
+SW,63527199562124,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527199637755,HAIS14.pdf
+SW,63527199654980,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527199659554,
+SW,63527199661436,analysis_2
+SW,63527199679225,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527199710592,InputReport
+SW,63527199711737,Descrição Geral do Público-Alvo - Google Analytics - Google Chrome
+SW,63527199713591,Descrição Geral do Público-Alvo - Google Analytics - Google Chrome
+SW,63527199713610,InputReport
+SW,63527199747758,Open
+SW,63527199761810,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527199774023,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527206192729,
+SW,63527206192892,Skype™ [1] - andre.pimenta.53
+SW,63527206198585,
+SW,63527206200402,Facebook - Google Chrome
+SW,63527206236241,InputReport
+SW,63527206239043,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527206240808,Confirm Exit
+SW,63527206242537,Java - InputReport/src/report/Report.java - Eclipse
+SW,63527206247063,InputReport
+SW,63527206247251,Progress Information
+SW,63527206248342,InputReport
+SW,63527206261153,HAIS14.pdf
+SW,63527206265253,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206269830,
+SW,63527206300162,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527206415522,HAIS14.pdf
+SW,63527206427841,Facebook - Google Chrome
+SW,63527206439744,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206489887,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527206559563,Task Switching
+SW,63527206559595,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206575072,Task Switching
+SW,63527206575072,Milton messaged log de festas - Google Chrome
+SW,63527206577121,Task Switching
+SW,63527206577186,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206579771,Task Switching
+SW,63527206579842,Facebook - Google Chrome
+SW,63527206689164,Task Switching
+SW,63527206689225,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206698356,Task Switching
+SW,63527206698437,Google Tradutor - Google Chrome
+SW,63527206704470,
+SW,63527206704969,Skype™ [1] - andre.pimenta.53
+SW,63527206705141,
+SW,63527206706392,Skype™ - andre.pimenta.53
+SW,63527206727895,(1) Facebook - Google Chrome
+SW,63527206754284,Skype™ [1] - andre.pimenta.53
+SW,63527206803014,Task Switching
+SW,63527206803069,Facebook - Google Chrome
+SW,63527206837072,Task Switching
+SW,63527206837137,Skype™ - andre.pimenta.53
+SW,63527206840193,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527206842453,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206856110,Task Switching
+SW,63527206856110,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527206856654,Task Switching
+SW,63527206856722,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206894106,Task Switching
+SW,63527206894173,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527206912216,Task Switching
+SW,63527206912301,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206920414,Task Switching
+SW,63527206920490,Google Tradutor - Google Chrome
+SW,63527206924401,Task Switching
+SW,63527206924479,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527206925415,Task Switching
+SW,63527206925467,Google Tradutor - Google Chrome
+SW,63527206926872,Task Switching
+SW,63527206926942,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207006248,Task Switching
+SW,63527207006324,Google Tradutor - Google Chrome
+SW,63527207006987,Task Switching
+SW,63527207007047,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207012506,
+SW,63527207013253,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207021406,Task Switching
+SW,63527207021480,Google Tradutor - Google Chrome
+SW,63527207064013,Task Switching
+SW,63527207064321,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207084194,Task Switching
+SW,63527207084279,Fábio messaged you - Google Chrome
+SW,63527207217963,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207222561,
+SW,63527207228427,Desktop
+SW,63527207229863,
+SW,63527207231485,InputReport
+SW,63527207234706,HAIS14.pdf
+SW,63527207239481,InputReport
+SW,63527207257400,
+SW,63527207258605,analysis_2
+SW,63527207260783,E:\Workspace\GitHub\CAMCoF\InputReport\com_data.arff - Sublime Text (UNREGISTERED)
+SW,63527207271948,Task Switching
+SW,63527207272028,analysis_2
+SW,63527207273305,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527207280947,Task Switching
+SW,63527207281015,analysis_2
+SW,63527207281646,Task Switching
+SW,63527207281720,kruskal.test - Pesquisa do Google - Google Chrome
+SW,63527207282007,Task Switching
+SW,63527207282414,E:\Dropbox\PDInf\Workspace\analysis_2\report.Rnw - Sublime Text (UNREGISTERED)
+SW,63527207283138,Task Switching
+SW,63527207283214,kruskal.test - Pesquisa do Google - Google Chrome
+SW,63527207354032,Task Switching
+SW,63527207354054,E:\Dropbox\PDInf\Workspace\analysis_2\report.Rnw - Sublime Text (UNREGISTERED)
+SW,63527207354790,Task Switching
+SW,63527207354838,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527207356221,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207366450,Task Switching
+SW,63527207366491,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207367233,Task Switching
+SW,63527207367320,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527207382615,Task Switching
+SW,63527207382667,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207394368,Word
+SW,63527207425498,Task Switching
+SW,63527207425579,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207445608,Task Switching
+SW,63527207445658,Paper v5 - Word
+SW,63527207446272,Task Switching
+SW,63527207446320,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207450453,Task Switching
+SW,63527207450509,Paper v5 - Word
+SW,63527207451053,Task Switching
+SW,63527207451081,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207451415,Task Switching
+SW,63527207451863,Google Tradutor - Google Chrome
+SW,63527207457576,Task Switching
+SW,63527207457639,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207467526,Task Switching
+SW,63527207467618,Kruskal-Wallis Test | R Tutorial - Google Chrome
+SW,63527207468787,Task Switching
+SW,63527207468845,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207472621,Task Switching
+SW,63527207472702,Kruskal-Wallis Test | R Tutorial - Google Chrome
+SW,63527207473741,Task Switching
+SW,63527207473795,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207483520,Task Switching
+SW,63527207483576,Kruskal-Wallis Test | R Tutorial - Google Chrome
+SW,63527207544782,Task Switching
+SW,63527207544845,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207545874,Task Switching
+SW,63527207546368,Paper v5 - Word
+SW,63527207547319,Task Switching
+SW,63527207547946,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527207589169,Task Switching
+SW,63527207589241,Paper v5 - Word
+SW,63527207591663,Task Switching
+SW,63527207592327,Google Tradutor - Google Chrome
+SW,63527207592973,Task Switching
+SW,63527207593068,Paper v5 - Word
+SW,63527207608459,Task Switching
+SW,63527207608518,Google Tradutor - Google Chrome
+SW,63527207610354,
+SW,63527207611283,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207629249,Task Switching
+SW,63527207629319,Google Tradutor - Google Chrome
+SW,63527207635905,Task Switching
+SW,63527207635980,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207641888,
+SW,63527207642872,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207660173,Task Switching
+SW,63527207660253,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527207697270,Task Switching
+SW,63527207697327,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207704533,Task Switching
+SW,63527207704613,Handbook of Biological Statistics: Kruskal–Wallis test - Google Chrome
+SW,63527207725122,Task Switching
+SW,63527207725208,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207733487,Task Switching
+SW,63527207733567,Google Tradutor - Google Chrome
+SW,63527207757857,Task Switching
+SW,63527207757928,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207759208,Task Switching
+SW,63527207759294,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527207762128,tratar.pdf - Adobe Reader
+SW,63527207763883,
+SW,63527207764847,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527207776378,
+SW,63527207777191,Articles
+SW,63527207786688,
+SW,63527207786773,HAIS_13_FINAL
+SW,63527207786927,tratar.pdf - Adobe Reader
+SW,63527207787557,HAIS13.pdf - Adobe Reader
+SW,63527207817134,Task Switching
+SW,63527207817240,tratar.pdf - Adobe Reader
+SW,63527207818749,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527207819830,Task Switching
+SW,63527207819887,tratar.pdf - Adobe Reader
+SW,63527207821801,
+SW,63527207823352,Document : E:/Dropbox/Articles/ISAI_14_SUBMITED/ISAI.tex
+SW,63527207829141,Task Switching
+SW,63527207829166,tratar.pdf - Adobe Reader
+SW,63527207830806,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527207892308,
+SW,63527207893216,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207896746,Task Switching
+SW,63527207896841,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527207898997,Task Switching
+SW,63527207899063,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207903108,Task Switching
+SW,63527207903134,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207903785,Task Switching
+SW,63527207903875,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527207906378,Task Switching
+SW,63527207906456,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207910119,Task Switching
+SW,63527207910190,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527207911000,Task Switching
+SW,63527207911087,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527207937025,Task Switching
+SW,63527207937096,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527207938220,Task Switching
+SW,63527207939062,tratar.pdf - Adobe Reader
+SW,63527207942099,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527208006755,Task Switching
+SW,63527208006809,tratar.pdf - Adobe Reader
+SW,63527208007706,Task Switching
+SW,63527208007759,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527208055912,Task Switching
+SW,63527208055971,tratar.pdf - Adobe Reader
+SW,63527208056872,Task Switching
+SW,63527208057044,Google Tradutor - Google Chrome
+SW,63527208066094,Task Switching
+SW,63527208066158,tratar.pdf - Adobe Reader
+SW,63527208067900,
+SW,63527208069023,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208088515,Task Switching
+SW,63527208088811,tratar.pdf - Adobe Reader
+SW,63527208089263,Task Switching
+SW,63527208089337,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208094291,Task Switching
+SW,63527208094291,tratar.pdf - Adobe Reader
+SW,63527208094860,Task Switching
+SW,63527208094918,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208095587,Task Switching
+SW,63527208096041,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527208098668,Task Switching
+SW,63527208098669,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208104490,Task Switching
+SW,63527208104590,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527208108009,Task Switching
+SW,63527208108086,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208111174,Task Switching
+SW,63527208111234,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527208112323,Task Switching
+SW,63527208112401,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208133191,Task Switching
+SW,63527208133276,Kruskal–Wallis one-way analysis of variance - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527208295101,Task Switching
+SW,63527208295179,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208295667,Task Switching
+SW,63527208295718,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208296919,Task Switching
+SW,63527208296996,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527208311917,Task Switching
+SW,63527208311983,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208341840,Task Switching
+SW,63527208341888,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208342653,Task Switching
+SW,63527208342735,Kruskal-Wallis H Test : SAGE Research Methods - Google Chrome
+SW,63527208376473,Task Switching
+SW,63527208376533,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208378744,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527208394672,Task Switching
+SW,63527208394734,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208409206,Task Switching
+SW,63527208409275,Google Tradutor - Google Chrome
+SW,63527208410712,Task Switching
+SW,63527208410784,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208432719,Task Switching
+SW,63527208432790,Google Tradutor - Google Chrome
+SW,63527208437528,Task Switching
+SW,63527208437629,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208456906,Task Switching
+SW,63527208456983,Teste de Kruskal-Wallis – Wikipédia, a enciclopédia livre - Google Chrome
+SW,63527208466674,Task Switching
+SW,63527208466685,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208479201,Task Switching
+SW,63527208479297,Google Tradutor - Google Chrome
+SW,63527208480082,Task Switching
+SW,63527208480730,tratar.pdf - Adobe Reader
+SW,63527208481363,Task Switching
+SW,63527208482097,Document : E:/Dropbox/Articles/ISAI_14_SUBMITED/ISAI.tex
+SW,63527208487902,Task Switching
+SW,63527208487981,tratar.pdf - Adobe Reader
+SW,63527208488556,Task Switching
+SW,63527208489034,Google Tradutor - Google Chrome
+SW,63527208489544,Task Switching
+SW,63527208490291,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208495911,Task Switching
+SW,63527208495987,Google Tradutor - Google Chrome
+SW,63527208501403,Task Switching
+SW,63527208501473,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208503062,Task Switching
+SW,63527208503743,tratar.pdf - Adobe Reader
+SW,63527208504169,Task Switching
+SW,63527208504767,Document : E:/Dropbox/Articles/ISAI_14_SUBMITED/ISAI.tex
+SW,63527208512697,Task Switching
+SW,63527208512697,tratar.pdf - Adobe Reader
+SW,63527208513208,Task Switching
+SW,63527208514009,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208532110,
+SW,63527208532793,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208537582,Task Switching
+SW,63527208537649,tratar.pdf - Adobe Reader
+SW,63527208538400,Task Switching
+SW,63527208538472,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208542940,Task Switching
+SW,63527208543007,tratar.pdf - Adobe Reader
+SW,63527208544319,Google Tradutor - Google Chrome
+SW,63527208555831,Task Switching
+SW,63527208555910,tratar.pdf - Adobe Reader
+SW,63527208556754,Task Switching
+SW,63527208557322,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208608354,Task Switching
+SW,63527208608433,tratar.pdf - Adobe Reader
+SW,63527208609049,Task Switching
+SW,63527208609591,Google Tradutor - Google Chrome
+SW,63527208615905,Task Switching
+SW,63527208616010,tratar.pdf - Adobe Reader
+SW,63527208616532,Task Switching
+SW,63527208617073,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208622222,Task Switching
+SW,63527208622279,tratar.pdf - Adobe Reader
+SW,63527208622934,Task Switching
+SW,63527208623280,Google Tradutor - Google Chrome
+SW,63527208625381,Task Switching
+SW,63527208625911,The impact of the biological clock goes beyond compelling the body to fall asleep and to wake up again - Word
+SW,63527208666756,
+SW,63527208667993,Document : E:/Dropbox/Articles/ISAI_14_SUBMITED/ISAI.tex
+SW,63527208692047,HAIS14.pdf
+SW,63527208692088,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527208692099,HAIS14.pdf
+SW,63527208723766,Google Tradutor - Google Chrome
+SW,63527208788455,HAIS14.pdf
+SW,63527208789632,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527208837686,HAIS14.pdf
+SW,63527208848665,
+SW,63527208868360,HAIS_13_FINAL
+SW,63527208887780,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527208919216,
+SW,63527208920454,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527208939701,
+SW,63527208939759,latex
+SW,63527208941337,
+SW,63527208941439,latex
+SW,63527208941573,tratar.pdf - Adobe Reader
+SW,63527208941960,report_v2.pdf - Adobe Reader
+SW,63527208963055,Facebook - Google Chrome
+SW,63527209051153,Save As
+SW,63527209053174,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527209061936,
+SW,63527209061973,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527209062052,report_v2.pdf - Adobe Reader
+SW,63527209062404,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209072382,
+SW,63527209073348,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209074941,Task Switching
+SW,63527209075023,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209082358,Task Switching
+SW,63527209082441,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209088083,Task Switching
+SW,63527209088158,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209093305,Task Switching
+SW,63527209093388,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209094100,Task Switching
+SW,63527209094185,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209096605,Task Switching
+SW,63527209096688,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209119164,Task Switching
+SW,63527209119263,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209128088,Task Switching
+SW,63527209128180,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209132854,Task Switching
+SW,63527209132893,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209142089,Task Switching
+SW,63527209142197,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209152372,Task Switching
+SW,63527209152449,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209155148,Task Switching
+SW,63527209155201,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209156580,Task Switching
+SW,63527209156656,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209167892,Task Switching
+SW,63527209167948,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209177679,Task Switching
+SW,63527209177761,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209184110,Task Switching
+SW,63527209184165,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209192956,Task Switching
+SW,63527209193028,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209194502,Task Switching
+SW,63527209194564,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209214622,Task Switching
+SW,63527209214688,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209216817,
+SW,63527209220811,latex
+SW,63527209228518,Opening - Excel
+SW,63527209228801,Excel
+SW,63527209235102,Task Switching
+SW,63527209235150,results - Excel
+SW,63527209235750,Task Switching
+SW,63527209236349,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209236766,Task Switching
+SW,63527209237375,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209240302,Task Switching
+SW,63527209240399,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209240957,Task Switching
+SW,63527209241036,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209241887,Task Switching
+SW,63527209241984,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209242465,Task Switching
+SW,63527209242588,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209242837,Task Switching
+SW,63527209243371,results - Excel
+SW,63527209252230,Task Switching
+SW,63527209260600,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209275646,Task Switching
+SW,63527209276392,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209281833,Task Switching
+SW,63527209281926,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209282769,Task Switching
+SW,63527209282843,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209293351,Task Switching
+SW,63527209293443,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209293937,Task Switching
+SW,63527209294021,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209296043,Task Switching
+SW,63527209296125,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209297097,Task Switching
+SW,63527209297176,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209302927,Task Switching
+SW,63527209302961,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209316066,Task Switching
+SW,63527209316142,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209320367,Task Switching
+SW,63527209320451,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209331807,Task Switching
+SW,63527209331872,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209345750,Task Switching
+SW,63527209345831,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209347270,Task Switching
+SW,63527209347345,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209355679,Task Switching
+SW,63527209355767,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209362707,Task Switching
+SW,63527209362800,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209491716,HAIS14.pdf
+SW,63527209491761,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209491772,HAIS14.pdf
+SW,63527209534559,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527209537112,results - Excel
+SW,63527209558397,Task Switching
+SW,63527209558458,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527209564233,
+SW,63527209565509,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209601483,
+SW,63527209604282,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209609632,Task Switching
+SW,63527209609708,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209618703,Task Switching
+SW,63527209618784,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527209623186,Task Switching
+SW,63527209623277,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209653218,
+SW,63527209653305,analysis_2
+SW,63527209683132,Task Switching
+SW,63527209683204,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209683693,Task Switching
+SW,63527209685881,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527209707124,Task Switching
+SW,63527209707207,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209717103,HAIS14.pdf
+SW,63527209717140,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209717151,HAIS14.pdf
+SW,63527209731015,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527209795141,HAIS14.pdf
+SW,63527209798834,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527209911598,HAIS14.pdf
+SW,63527209933253,
+SW,63527209933809,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209987652,HAIS14.pdf
+SW,63527209987690,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527209987704,HAIS14.pdf
+SW,63527210006924,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210024727,HAIS14.pdf
+SW,63527210024759,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210024770,HAIS14.pdf
+SW,63527210032925,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210046298,HAIS14.pdf
+SW,63527210046332,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210046344,HAIS14.pdf
+SW,63527210049124,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210093486,HAIS14.pdf
+SW,63527210093521,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210093532,HAIS14.pdf
+SW,63527210134671,
+SW,63527210141029,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527210212443,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527210349827,HAIS14.pdf
+SW,63527210374228,
+SW,63527210375867,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210385208,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527210409432,Task Switching
+SW,63527210409497,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210439986,Facebook - Google Chrome
+SW,63527210457128,Task Switching
+SW,63527210457189,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210465014,Task Switching
+SW,63527210465076,itemize - Add bullet points to description lists - TeX - LaTeX Stack Exchange - Google Chrome
+SW,63527210466548,Task Switching
+SW,63527210466615,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210477597,Task Switching
+SW,63527210477658,itemize - Add bullet points to description lists - TeX - LaTeX Stack Exchange - Google Chrome
+SW,63527210479882,Task Switching
+SW,63527210479959,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210487328,Task Switching
+SW,63527210487391,itemize - Add bullet points to description lists - TeX - LaTeX Stack Exchange - Google Chrome
+SW,63527210489444,Task Switching
+SW,63527210489514,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210541330,HAIS14.pdf
+SW,63527210541374,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210541384,HAIS14.pdf
+SW,63527210574401,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210593143,HAIS14.pdf
+SW,63527210596560,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527210622693,Task Switching
+SW,63527210622760,HAIS14.pdf
+SW,63527210623396,Task Switching
+SW,63527210623909,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210641637,Task Switching
+SW,63527210642622,itemize - Add bullet points to description lists - TeX - LaTeX Stack Exchange - Google Chrome
+SW,63527210730613,Task Switching
+SW,63527210730698,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210731147,Task Switching
+SW,63527210731215,Facebook - Google Chrome
+SW,63527210731750,Task Switching
+SW,63527210732231,HAIS14.pdf
+SW,63527210741400,
+SW,63527210741888,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210760153,HAIS14.pdf
+SW,63527210760200,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210760210,HAIS14.pdf
+SW,63527210777472,
+SW,63527210777551,(1) Facebook - Google Chrome
+SW,63527210853168,Task Switching
+SW,63527210853245,HAIS14.pdf
+SW,63527210855032,
+SW,63527210855975,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210873327,HAIS14.pdf
+SW,63527210876992,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210879901,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527210898645,
+SW,63527210899735,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527210925836,Task Switching
+SW,63527210925860,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527210962813,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527211021362,Task Switching
+SW,63527211021458,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527211024594,
+SW,63527211025821,Visio Professional
+SW,63527211025890,
+SW,63527211026925,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211048759,Task Switching
+SW,63527211050062,islab.di.uminho.pt/camcof/docs/Dissertação_APimenta 2013.pdf - Google Chrome
+SW,63527211054987,
+SW,63527211057966,Data (E:)
+SW,63527211064717,
+SW,63527211064848,MEI_Dissertation
+SW,63527211065012,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527211065460,Dissertation.pdf - Adobe Reader
+SW,63527211117479,Task Switching
+SW,63527211117576,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527211118097,Task Switching
+SW,63527211119015,Google Tradutor - Google Chrome
+SW,63527211123810,Task Switching
+SW,63527211125438,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527211128839,
+SW,63527211129510,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211176530,HAIS14.pdf
+SW,63527211176571,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211176581,HAIS14.pdf
+SW,63527211212947,Google Tradutor - Google Chrome
+SW,63527211238587,HAIS14.pdf
+SW,63527211249427,
+SW,63527211250564,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211264216,
+SW,63527211266371,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211282060,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527211300803,
+SW,63527211302172,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211348809,Task Switching
+SW,63527211348897,E:\Dropbox\PDInf\rever\latex\ISAmI 2014.tex - Sublime Text (UNREGISTERED)
+SW,63527211357624,Task Switching
+SW,63527211357713,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211382679,HAIS14.pdf
+SW,63527211382723,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527211382732,HAIS14.pdf
+SW,63527211592369,
+SW,63527211595194,Tese
+SW,63527211604534,
+SW,63527211604662,HAIS_13_FINAL
+SW,63527211604818,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527211604895,HAIS13.pdf - Adobe Reader
+SW,63527211637297,HAIS14.pdf
+SW,63527211646281,[21.02.2014] Jantar 08/09 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527211769751,HAIS14.pdf
+SW,63527211831047,[21.02.2014] Jantar 08/09 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527211847813,HAIS14.pdf
+SW,63527211872297,
+SW,63527211875057,MEI_Dissertation
+SW,63527211905038,100% complete
+SW,63527211906900,MEI_Dissertation
+SW,63527211926712,E:\Dropbox\Articles\MEI_Dissertation\dissertacao\Chapters\experience.tex - Sublime Text (UNREGISTERED)
+SW,63527211945314,Task Switching
+SW,63527211945431,Chapters
+SW,63527211978322,E:\Dropbox\Articles\MEI_Dissertation\dissertacao\Chapters\experience.tex - Sublime Text (UNREGISTERED)
+SW,63527211985240,Task Switching
+SW,63527211985335,Chapters
+SW,63527211991351,E:\Dropbox\Articles\MEI_Dissertation\dissertacao\Chapters\monitoring.tex - Sublime Text (UNREGISTERED)
+SW,63527212042120,
+SW,63527212043214,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212065948,HAIS14.pdf
+SW,63527212066010,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212066021,HAIS14.pdf
+SW,63527212077916,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212102445,HAIS14.pdf
+SW,63527212118306,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212162024,HAIS14.pdf
+SW,63527212162075,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212162085,HAIS14.pdf
+SW,63527212193107,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212229105,HAIS14.pdf
+SW,63527212229156,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212229167,HAIS14.pdf
+SW,63527212246426,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212293318,HAIS14.pdf
+SW,63527212293368,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527212293379,HAIS14.pdf
+SW,63527212310338,
+SW,63527212311900,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527212378170,(1) Facebook - Google Chrome
+SW,63527212497013,Untitled - Google Chrome
+SW,63527212500374,abola.pt - Google Chrome
+SW,63527212501355,Untitled - Google Chrome
+SW,63527212503774,abola.pt - Google Chrome
+SW,63527212504703,Untitled - Google Chrome
+SW,63527212508009,abola.pt - Google Chrome
+SW,63527212513511,HAIS14.pdf
+SW,63527212553137,
+SW,63527212558049,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527212559720,
+SW,63527212560355,Chapters
+SW,63527212571110,Paint
+SW,63527212571408,Paint
+SW,63527212587664,
+SW,63527212588372,Screenshot (30) - Paint
+SW,63527212590407,Task Switching
+SW,63527212590494,Screenshot (31) - Paint
+SW,63527212590946,Task Switching
+SW,63527212591733,Untitled - Paint
+SW,63527212592723,Task Switching
+SW,63527212592794,Screenshot (31) - Paint
+SW,63527212594245,
+SW,63527212596714,Screenshot (31) - Paint
+SW,63527212598112,
+SW,63527212599596,Screenshots
+SW,63527212603560,Paint
+SW,63527212606007,Screenshots
+SW,63527212609472,Paint
+SW,63527212619744,Task Switching
+SW,63527212620406,Screenshots
+SW,63527212621310,Task Switching
+SW,63527212622001,Screenshot (31) - Paint
+SW,63527212622676,Task Switching
+SW,63527212623469,Untitled - Paint
+SW,63527212633631,Task Switching
+SW,63527212633722,Screenshot (31) - Paint
+SW,63527212635937,
+SW,63527212637976,Screenshot (30) - Paint
+SW,63527212641574,Task Switching
+SW,63527212641658,Screenshot (31) - Paint
+SW,63527212642847,Task Switching
+SW,63527212643649,Untitled - Paint
+SW,63527212647175,Task Switching
+SW,63527212647212,Screenshot (31) - Paint
+SW,63527212650364,
+SW,63527212652147,Screenshot (30) - Paint
+SW,63527212655047,Task Switching
+SW,63527212655084,Screenshot (31) - Paint
+SW,63527212658228,
+SW,63527212664905,Untitled - Paint
+SW,63527212674322,Task Switching
+SW,63527212674406,Screenshot (31) - Paint
+SW,63527212676387,
+SW,63527212680704,Screenshot (31) - Paint
+SW,63527212682752,Task Switching
+SW,63527212682833,Untitled - Paint
+SW,63527212683730,Task Switching
+SW,63527212683801,Screenshot (31) - Paint
+SW,63527212685854,Untitled - Paint
+SW,63527212687524,
+SW,63527212688947,Screenshot (30) - Paint
+SW,63527212691487,Task Switching
+SW,63527212691570,Untitled - Paint
+SW,63527212692578,Task Switching
+SW,63527212692657,Screenshot (30) - Paint
+SW,63527212695597,Task Switching
+SW,63527212695633,Untitled - Paint
+SW,63527212696673,Task Switching
+SW,63527212696761,Screenshot (30) - Paint
+SW,63527212698354,
+SW,63527212702055,Screenshots
+SW,63527212705264,Paint
+SW,63527212709206,Screenshots
+SW,63527212712468,Paint
+SW,63527212715185,Task Switching
+SW,63527212715266,Screenshots
+SW,63527212716055,Task Switching
+SW,63527212716137,Screenshot (31) - Paint
+SW,63527212716575,Task Switching
+SW,63527212717226,Screenshot (30) - Paint
+SW,63527212718465,Task Switching
+SW,63527212718544,Screenshot (31) - Paint
+SW,63527212721711,Task Switching
+SW,63527212721792,Screenshot (30) - Paint
+SW,63527212722703,Task Switching
+SW,63527212723095,Screenshots
+SW,63527212724163,Task Switching
+SW,63527212724246,Screenshot (30) - Paint
+SW,63527212724978,
+SW,63527212728992,Screenshot (31) - Paint
+SW,63527212740136,Task Switching
+SW,63527212740224,Screenshot (30) - Paint
+SW,63527212741914,
+SW,63527212743113,Untitled - Paint
+SW,63527212997246,(2) Facebook - Google Chrome
+SW,63527213040263,Task Switching
+SW,63527213040339,Untitled - Paint
+SW,63527213042373,
+SW,63527213043696,
+SW,63527213044792,
+SW,63527213044851,Untitled - Paint
+SW,63527213045614,Save As
+SW,63527213051799,Untitled - Paint
+SW,63527213061346,
+SW,63527213066550,Untitled - Paint
+SW,63527213088960,Task Switching
+SW,63527213088990,Facebook - Google Chrome
+SW,63527213090037,Task Switching
+SW,63527213090067,Untitled - Paint
+SW,63527213125326,HAIS14.pdf
+SW,63527213135342,
+SW,63527213136574,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527213141096,Task Switching
+SW,63527213141272,HAIS14.pdf
+SW,63527213141950,Task Switching
+SW,63527213142544,Untitled - Paint
+SW,63527213171678,Task Switching
+SW,63527213171764,HAIS14.pdf
+SW,63527213172464,Task Switching
+SW,63527213173041,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527213177248,Task Switching
+SW,63527213177420,HAIS14.pdf
+SW,63527213178272,Task Switching
+SW,63527213178843,Untitled - Paint
+SW,63527213203060,
+SW,63527213204139,
+SW,63527213204176,
+SW,63527213204196,
+SW,63527213204410,
+SW,63527213204473,Untitled - Paint
+SW,63527213205043,Save As
+SW,63527213217009,Untitled - Paint
+SW,63527213219498,
+SW,63527213220604,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527213258332,HAIS14.pdf
+SW,63527213258380,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527213258391,HAIS14.pdf
+SW,63527213307592,Facebook - Google Chrome
+SW,63527213332043,HAIS14.pdf
+SW,63527214316275,Milton diz… - Google Chrome
+SW,63527214488531,
+SW,63527214498937,HAIS14.pdf
+SW,63527214525184,Milton diz… - Google Chrome
+SW,63527214603633,HAIS14.pdf
+SW,63527214633565,
+SW,63527214634753,R_results - Paint
+SW,63527214654912,Resumo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527214679669,Task Switching
+SW,63527214679747,R_results - Paint
+SW,63527214689089,Task Switching
+SW,63527214689171,Google Tradutor - Google Chrome
+SW,63527214690329,Task Switching
+SW,63527214690413,R_results - Paint
+SW,63527214692874,Task Switching
+SW,63527214692956,Google Tradutor - Google Chrome
+SW,63527214693879,Task Switching
+SW,63527214693916,R_results - Paint
+SW,63527214706629,
+SW,63527214707813,
+SW,63527214708008,
+SW,63527214708030,
+SW,63527214708148,
+SW,63527214708210,R_results - Paint
+SW,63527214708817,Save As
+SW,63527214712324,Confirm Save As
+SW,63527214713664,Save As
+SW,63527214713752,R_results - Paint
+SW,63527214715564,
+SW,63527214716776,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527214722644,HAIS14.pdf
+SW,63527214722698,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527214722710,HAIS14.pdf
+SW,63527214878271,Google Tradutor - Google Chrome
+SW,63527215089353,
+SW,63527215090432,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527215100829,Task Switching
+SW,63527215100939,scholar.google.com/scholar.bib?q=info:4597_KrydrsJ:scholar.google.com/&output=citation&hl=pt-PT&ct=citation&cd=0 - Google Chrome
+SW,63527215336588,
+SW,63527215339301,Desktop
+SW,63527215358297,
+SW,63527215358430,referrals
+SW,63527215358584,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215358962,Using_Weka_From_Java.pdf - Adobe Reader
+SW,63527215365577,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215366858,Task Switching
+SW,63527215366935,referrals
+SW,63527215367985,
+SW,63527215368116,referrals
+SW,63527215368287,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215368628,RossenDimov.pdf - Adobe Reader
+SW,63527215394266,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215395213,Task Switching
+SW,63527215395307,referrals
+SW,63527215396961,
+SW,63527215397099,referrals
+SW,63527215397252,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215397686,On learning algorithm selection for classification.pdf - Adobe Reader
+SW,63527215422720,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215423417,Task Switching
+SW,63527215423489,referrals
+SW,63527215425260,
+SW,63527215425387,referrals
+SW,63527215425510,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215425875,06148293.pdf - Adobe Reader
+SW,63527215441079,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215441868,Task Switching
+SW,63527215441953,referrals
+SW,63527215443671,
+SW,63527215443822,referrals
+SW,63527215443933,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215444301,3.pdf - Adobe Reader
+SW,63527215461422,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527215462525,Task Switching
+SW,63527215462609,referrals
+SW,63527215471801,CAMCoF - Google Chrome
+SW,63527215557798,Task Switching
+SW,63527215557876,dissertacao
+SW,63527215559018,Task Switching
+SW,63527215559107,ac.els-cdn.com/S0167404807001101/1-s2.0-S0167404807001101-main.pdf?_tid=e1c21b34-8e84-11e3-be42-00000aab0f6c&acdnat=1391618892_0efb1793e8fe328cb6084ce17d1b171a - Google Chrome
+SW,63527215623723,
+SW,63527215626602,dissertacao
+SW,63527215687232,C:\WINDOWS\system32\cmd.exe
+SW,63527215687704,InputReport
+SW,63527215693225,Investigating multi-label classification for human values - Ishita - 2011 - Proceedings of the American Society for Information Science and Technology - Wiley Online Library - Google Chrome
+SW,63527215720880,Task Switching
+SW,63527215720903,InputReport
+SW,63527215721665,Task Switching
+SW,63527215721794,New Tab - Google Chrome
+SW,63527215894601,Task Switching
+SW,63527215894700,InputReport
+SW,63527215895511,Task Switching
+SW,63527215895601,Data fusion - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527215930467,
+SW,63527215938352,HAIS14.pdf
+SW,63527215953606,repositorium.sdum.uminho.pt/bitstream/1822/23852/1/stress-ESWA.pdf - Google Chrome
+SW,63527215961977,repositorium.sdum.uminho.pt/bitstream/1822/23852/1/stress-ESWA.pdf - Google Chrome
+SW,63527215962002,HAIS14.pdf
+SW,63527215971181,Start
+SW,63527215971506,Start menu
+SW,63527215983534,DoubleClickShield
+SW,63527215983560,
+SW,63527215983668,Weka 3.6
+SW,63527215984239,classificação de fadiga - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527215993735,Weka GUI Chooser
+SW,63527216007111,Weka Explorer
+SW,63527216008746,Open
+SW,63527216026555,Weka Explorer
+SW,63527216062621,classificação de fadiga - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527216069905,
+SW,63527216070950,Weka Explorer
+SW,63527216076677,weka.gui.GenericObjectEditor
+SW,63527216080385,Weka Explorer
+SW,63527216088134,weka.gui.GenericObjectEditor
+SW,63527216093481,Weka Explorer
+SW,63527216100060,weka.gui.GenericObjectEditor
+SW,63527216104913,Weka Explorer
+SW,63527216126461,classificação de fadiga - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527216156062,Weka Explorer
+SW,63527216218653,weka.gui.GenericObjectEditor
+SW,63527216222641,Weka Explorer
+SW,63527216224221,Neural Network
+SW,63527216238200,Weka Explorer
+SW,63527216238763,Neural Network
+SW,63527216241953,Weka Explorer
+SW,63527216242066,Neural Network
+SW,63527216242897,Weka Explorer
+SW,63527216242991,Neural Network
+SW,63527216249132,Weka Explorer
+SW,63527216257268,Neural Network
+SW,63527216257369,Weka Explorer
+SW,63527216257467,Neural Network
+SW,63527216260473,Weka Explorer
+SW,63527216260565,Neural Network
+SW,63527216261388,Weka Explorer
+SW,63527216261484,Neural Network
+SW,63527216262917,Accept Neural Network
+SW,63527216264157,Neural Network
+SW,63527216264180,Weka Explorer
+SW,63527216264279,Neural Network
+SW,63527216265764,Accept Neural Network
+SW,63527216266534,Neural Network
+SW,63527216266557,Weka Explorer
+SW,63527216266676,Neural Network
+SW,63527216267762,Accept Neural Network
+SW,63527216268711,Neural Network
+SW,63527216268733,Weka Explorer
+SW,63527216268872,Neural Network
+SW,63527216269596,Weka Explorer
+SW,63527216271421,Neural Network
+SW,63527216271565,Accept Neural Network
+SW,63527216272600,Neural Network
+SW,63527216272620,Weka Explorer
+SW,63527216282031,Neural Network
+SW,63527216297093,Weka Explorer
+SW,63527216319179,Naive Bayes classifier - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527216328391,
+SW,63527216329902,HAIS14.pdf
+SW,63527216334711,Task Switching
+SW,63527216334793,Naive Bayes classifier - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527216346369,Task Switching
+SW,63527216346450,HAIS14.pdf
+SW,63527216349067,
+SW,63527216350107,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527216351693,Task Switching
+SW,63527216351876,HAIS14.pdf
+SW,63527216352728,Task Switching
+SW,63527216353941,Weka Explorer
+SW,63527216356084,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527216371420,Weka Explorer
+SW,63527216374578,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216380043,Weka Explorer
+SW,63527216383652,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216438300,Weka Explorer
+SW,63527216442114,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216451487,Weka Explorer
+SW,63527216459629,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216606844,Weka Explorer
+SW,63527216669610,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216777121,HAIS14.pdf
+SW,63527216777202,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216777218,HAIS14.pdf
+SW,63527216814181,Player RFM - Google Chrome
+SW,63527216931204,Task Switching
+SW,63527216931291,HAIS14.pdf
+SW,63527216933293,dcm.ffclrp.usp.br/rtinos/tcc_vinicius.pdf - Google Chrome
+SW,63527216980959,
+SW,63527216981024,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527216995855,
+SW,63527216997401,
+SW,63527217001855,Weka Explorer
+SW,63527217022251,weka.gui.GenericObjectEditor
+SW,63527217023990,Weka Explorer
+SW,63527217078975,Document : E:\Drop

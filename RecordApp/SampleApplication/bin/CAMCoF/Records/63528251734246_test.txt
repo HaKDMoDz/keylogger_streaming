@@ -1,0 +1,326 @@
+# user: test #
+SW,63528251737108,New Tab - Google Chrome
+SW,63528251937989,EasySettingsMainDlg
+SW,63528251938931,
+SW,63528251970311,Dialog
+SW,63528252174181,
+SW,63528252174354,
+SW,63528252175329,
+SW,63528252177782,AgroSocial - Google Chrome
+SW,63528259498439,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528259526722,The page at https://mail.google.com says:
+SW,63528259542807,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528311417766,Facebook - Google Chrome
+SW,63528311575039,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528311584263,Microsoft Visual Studio
+SW,63528311584455,Microsoft Visual Studio
+SW,63528311596124,Open Project
+SW,63528311607659,Start Page - Microsoft Visual Studio
+SW,63528311610765,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528311619805,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528311648591,Save As
+SW,63528311650888,CollabNet Subversion Repository: public - Revision 10: /Repositorio - Google Chrome
+SW,63528311714357,
+SW,63528311714741,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528311773957,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528311811688,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528311868914,
+SW,63528311870150,
+SW,63528311875046,
+SW,63528311875213,
+SW,63528311881201, A extrair C:\Users\André\Desktop\Cluster1.zip
+SW,63528311883947,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528311886019,User Interaction Capturer - ISLab
+SW,63528311889167,Register
+SW,63528311904060,User Interaction Capturer - ISLab
+SW,63528311910275,Browse For Folder
+SW,63528311915321,User Interaction Capturer - ISLab
+SW,63528311917208,Browse For Folder
+SW,63528311920361,User Interaction Capturer - ISLab
+SW,63528311938077,Program Manager
+SW,63528311939803,User Interaction Capturer - ISLab
+SW,63528311940493,Browse For Folder
+SW,63528311943657,User Interaction Capturer - ISLab
+SW,63528311949678,
+SW,63528311949805,
+SW,63528311952094,File Explorer
+SW,63528311961424,E:\Workspace\GitHub\CAMCoF\InputReport\pimenta_user_ref.arff - Sublime Text (UNREGISTERED)
+SW,63528311966324,Cluster1
+SW,63528311974114,Windows Media Player
+SW,63528311974524,Windows Media Player
+SW,63528311974537,Windows Media Player
+SW,63528311974543,Windows Media Player
+SW,63528311974698,Windows Media Player
+SW,63528311974704,Windows Media Player
+SW,63528311979315,Cluster1
+SW,63528311987259,User Interaction Capturer - ISLab
+SW,63528311998989,Browse For Folder
+SW,63528312001738,User Interaction Capturer - ISLab
+SW,63528312005914,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312012243,User Interaction Capturer - ISLab
+SW,63528312016989,Cluster1
+SW,63528312018187,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528312029188,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312110622,
+SW,63528312111473,
+SW,63528312113850,Browse For Folder
+SW,63528312117480,User Interaction Capturer - ISLab
+SW,63528312145387,Cluster1
+SW,63528312156842,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312158649,Cluster1
+SW,63528312180528,Progress
+SW,63528312180904,Music
+SW,63528312183449,User Interaction Capturer - ISLab
+SW,63528312224163,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312227634,User Interaction Capturer - ISLab
+SW,63528312231825,Music
+SW,63528312234229,Windows Media Player
+SW,63528312234635,Windows Media Player
+SW,63528312234655,Windows Media Player
+SW,63528312234666,Windows Media Player
+SW,63528312234815,Windows Media Player
+SW,63528312234821,Windows Media Player
+SW,63528312241898,Windows Media Player
+SW,63528312307893,Windows Media Player
+SW,63528312308039,Music
+SW,63528312347554,http://abola.pt/ is not available - Google Chrome
+SW,63528312355658,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312587232,
+SW,63528312593348,Skype
+SW,63528312595704,
+SW,63528312595905,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312596120,Skype™ - andre.pimenta.53
+SW,63528312610738,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312615968,Music
+SW,63528312635281,Skype™ - andre.pimenta.53
+SW,63528312635342,
+SW,63528312635348,Skype™ - andre.pimenta.53
+SW,63528312646389,Music
+SW,63528312649150,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528312696238,Music
+SW,63528312698886,User Interaction Capturer - ISLab
+SW,63528312701976,Music
+SW,63528312706059,Windows Media Player
+SW,63528312706447,Windows Media Player
+SW,63528312706469,Windows Media Player
+SW,63528312706611,Windows Media Player
+SW,63528312706741,Windows Media Player
+SW,63528312706749,Windows Media Player
+SW,63528312708377,Music
+SW,63528312709459,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312724255,User Interaction Capturer - ISLab
+SW,63528312733666,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312773029,Edit and Continue
+SW,63528312774683,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312795690,
+SW,63528312796516,
+SW,63528312798836,Browse For Folder
+SW,63528312807053,User Interaction Capturer - ISLab
+SW,63528312814599,Music
+SW,63528312819341,Progress
+SW,63528312820895,Music
+SW,63528312823036,User Interaction Capturer - ISLab
+SW,63528312824574,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312829633,
+SW,63528312830147,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312830457,
+SW,63528312834170,Browse For Folder
+SW,63528312839341,User Interaction Capturer - ISLab
+SW,63528312844665,Browse For Folder
+SW,63528312847749,User Interaction Capturer - ISLab
+SW,63528312862828,Notification of Review Evaluation (Message from IEA/AIE 2014) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528312909009,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528312978406,CollabNet Subversion Repository: public - Revision 10: /Repositorio - Google Chrome
+SW,63528313057071,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313069654,c# - Extracting Path from OpenFileDialog path/filename - Stack Overflow - Google Chrome
+SW,63528313083430,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313087019,Edit and Continue
+SW,63528313088738,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313110627,c# - Extracting Path from OpenFileDialog path/filename - Stack Overflow - Google Chrome
+SW,63528313137236,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313184939,c# - Extracting Path from OpenFileDialog path/filename - Stack Overflow - Google Chrome
+SW,63528313251061,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313256859,How to get file path using open file dialog control - Google Chrome
+SW,63528313264549,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313304019,
+SW,63528313304910,
+SW,63528313309204,Browse For Folder
+SW,63528313318904,User Interaction Capturer - ISLab
+SW,63528313319238,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313319454,
+SW,63528313326902,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313328841,How to get file path using open file dialog control - Google Chrome
+SW,63528313332387,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313344114,How to get file path using open file dialog control - Google Chrome
+SW,63528313347490,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313355401,
+SW,63528313356291,
+SW,63528313361798,Open
+SW,63528313381620,User Interaction Capturer - ISLab
+SW,63528313386979,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313394440,How to get file path using open file dialog control - Google Chrome
+SW,63528313402241,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313424425,How to get file path using open file dialog control - Google Chrome
+SW,63528313448723,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313457488,How To: C# open folder dialog (FolderBrowserDialog) - Google Chrome
+SW,63528313469850,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313492102,
+SW,63528313493091,
+SW,63528313495399,Browse For Folder
+SW,63528313499176,User Interaction Capturer - ISLab
+SW,63528313506014,Browse For Folder
+SW,63528313508613,User Interaction Capturer - ISLab
+SW,63528313513827,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313520016,How To: C# open folder dialog (FolderBrowserDialog) - Google Chrome
+SW,63528313527600,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313546688,How To: C# open folder dialog (FolderBrowserDialog) - Google Chrome
+SW,63528313563857,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313572335,mplayer repeat playlist - Pesquisa do Google - Google Chrome
+SW,63528313624612,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313634055,
+SW,63528313634230,
+SW,63528313641861,File Explorer
+SW,63528313648353,
+SW,63528313649558,Program Manager
+SW,63528313649786,File Explorer
+SW,63528313654474,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313659828,
+SW,63528313660696,
+SW,63528313663441,Browse For Folder
+SW,63528313668189,User Interaction Capturer - ISLab
+SW,63528313675265,c# - Media player play all files in listbox how? - Stack Overflow - Google Chrome
+SW,63528313737820,
+SW,63528313739738,Music
+SW,63528313755900,87% complete
+SW,63528313758158,Public
+SW,63528313775946, A comprimir ultimo.zip
+SW,63528313776287,Public
+SW,63528313802096, A comprimir ultimo.zip
+SW,63528313802432,Public
+SW,63528313821335,The 27th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems - Google Chrome
+SW,63528313842021,User Interaction Capturer - ISLab
+SW,63528313856058,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528313895976,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313902726,Edit and Continue
+SW,63528313904308,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528313912627,The 27th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems - Google Chrome
+SW,63528313942191,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528313961005,How to repeat forever a song in playlist C# : The Official Microsoft ASP.NET Forums - Google Chrome
+SW,63528313971029,
+SW,63528313971147,Skype™ - andre.pimenta.53
+SW,63528314010808,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528314012636,How to repeat forever a song in playlist C# : The Official Microsoft ASP.NET Forums - Google Chrome
+SW,63528314027473,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528314030206,How to repeat forever a song in playlist C# : The Official Microsoft ASP.NET Forums - Google Chrome
+SW,63528314071767,
+SW,63528314071851,Skype™ - andre.pimenta.53
+SW,63528314086911,Re: Add Code to the AxWindowsMediaPlayer Controls - Google Chrome
+SW,63528314274098,Skype™ - andre.pimenta.53
+SW,63528314291581,The 27th International Conference on Industrial, Engineering & Other Applications of Applied Intelligent Systems - Google Chrome
+SW,63528314581132,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528314665501,
+SW,63528314666534,
+SW,63528314671545,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528314673846,
+SW,63528314679017,test
+SW,63528314703367,
+SW,63528314705057,Public
+SW,63528314716946, A comprimir ultimo.zip
+SW,63528314717403,Public
+SW,63528314729823,Help with Windows media player events-VBForums - Google Chrome
+SW,63528314788657,Skype™
+SW,63528314789162,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528314793878,
+SW,63528314794725,
+SW,63528314803946,Browse For Folder
+SW,63528314807278,User Interaction Capturer - ISLab
+SW,63528314833361,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528314877935,User Interaction Capturer - ISLab
+SW,63528314891914,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528314990209,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528314993264,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528315060678,User Interaction Capturer - ISLab
+SW,63528315063223,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63528315067773,Facebook - Google Chrome
+SW,63528315069622,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63528315072296,Facebook - Google Chrome
+SW,63528315072312,Microsoft Visual Studio
+SW,63528315105706,Save As
+SW,63528315109014,CollabNet Subversion Repository: public - Revision 12: /Repositorio - Google Chrome
+SW,63528315112516,File Explorer
+SW,63528315129585,CollabNet Subversion Repository: public - Revision 12: /Repositorio - Google Chrome
+SW,63528315154045,Start
+SW,63528315154154,Start menu
+SW,63528315155312,DoubleClickShield
+SW,63528315155371,Mail
+SW,63528315166214,Mail
+SW,63528315169085,
+SW,63528315169092,Start menu
+SW,63528315170159,DoubleClickShield
+SW,63528315170203,
+SW,63528315170239,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528315193764,Skype™ - andre.pimenta.53
+SW,63528315197101,
+SW,63528315204903,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528315209677,
+SW,63528315214301,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528315214307,
+SW,63528315224580,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528315380632,Nghia Ngo Minh | LinkedIn - Google Chrome
+SW,63528315380651,
+SW,63528315906720,Open
+SW,63528315918561,Welcome to the February ‘Fatigue Insider’ Newsletter - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528316058352,
+SW,63528316058476,
+SW,63528316066335,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528316477544,File Explorer
+SW,63528316493490,
+SW,63528316493606,ISAI_14_SUBMITED
+SW,63528316494299,ISAI.pdf - Adobe Reader
+SW,63528316572400,ISAI_14_SUBMITED
+SW,63528316573467,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528316695248,ISAI_14_SUBMITED
+SW,63528316749283,
+SW,63528316749385,
+SW,63528316751278,Articles
+SW,63528316769016,
+SW,63528316769521,
+SW,63528316770632,Microsoft Word
+SW,63528316772477,Word
+SW,63528316782517,Settings
+SW,63528316784281,Word
+SW,63528316784590,File Explorer
+SW,63528316809832,ricoh2060 on printers2.di.uminho.pt
+SW,63528316811608,Devices and Printers
+SW,63528316816472,ricoh2060 on printers2.di.uminho.pt Properties
+SW,63528316822488,Devices and Printers
+SW,63528316832695,Articles
+SW,63528316834425,Word
+SW,63528316842276,Connecting to printer.
+SW,63528316867150,
+SW,63528316867565,ricoh2060 on printers2.di.uminho.pt
+SW,63528316875488,new_version--jcm (Last saved by user) [Compatibility Mode] - Word
+SW,63528316880193,Articles
+SW,63528316886074,File Explorer
+SW,63528316891507,Device Manager
+SW,63528316911565,Update Driver Software - \\printers2.di.uminho.pt\ricoh2060
+SW,63528316918543,Player RFM - Google Chrome
+SW,63528316921463,Task Switching
+SW,63528316921497,Update Driver Software - \\printers2.di.uminho.pt\ricoh2060
+SW,63528316938838,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528316938863,Device Manager
+SW,63528317187095,Articles
+SW,63528317206584,Replace or Skip Files
+SW,63528317207896,Dropbox
+SW,63528317214322, A comprimir InputReport.zip
+SW,63528317217705,Dropbox
+SW,63528317230769,100% complete
+SW,63528317232429,Public
+SW,63528317237245,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63528317273892,
+SW,63528317275005,Device Manager
+SW,63528317292355,Confirm Device Uninstall
+SW,63528317293465,Device Manager
+SW,63528317302255,
+SW,63528317303471,Devices and Printers
+SW,63528317312536,Add a device

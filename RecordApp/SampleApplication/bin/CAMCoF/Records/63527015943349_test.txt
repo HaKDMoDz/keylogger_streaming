@@ -1,0 +1,2298 @@
+# user: test #
+SW,63527015963868,Adobe Reader Updater
+SW,63527015982062,
+SW,63527015982164,
+SW,63527015982259,Untitled - Google Chrome
+SW,63527016002842,
+SW,63527016066446,Eclipse
+SW,63527016083174,Microsoft Visual Studio
+SW,63527016128157,Open Project
+SW,63527016130725,Java - Eclipse
+SW,63527016165382,Start Page - Microsoft Visual Studio
+SW,63527016243149,
+SW,63527016250275,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527016253015,
+SW,63527016253028,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527016356325,
+SW,63527016357412,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527016357424,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016359338,User Interaction Capturer - ISLab
+SW,63527016371370,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527016379662,User Interaction Capturer - ISLab
+SW,63527016381365,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016383769,User Interaction Capturer - ISLab
+SW,63527016386834,
+SW,63527016390459,C:\Windows\System32\java.exe
+SW,63527016390946,User Interaction Capturer - ISLab
+SW,63527016391869,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016393543,Story trail - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527016664453,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016670407,User Interaction Capturer - ISLab
+SW,63527016674594,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016678813,Story trail - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527016744596,User Interaction Capturer - ISLab
+SW,63527016746886,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016774878,User Interaction Capturer - ISLab
+SW,63527016776213,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527016805726,
+SW,63527016806804,User Interaction Capturer - ISLab
+SW,63527016808959,C:\Windows\System32\java.exe
+SW,63527016809426,User Interaction Capturer - ISLab
+SW,63527016810974,Facebook - Google Chrome
+SW,63527016992043,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527016993498,User Interaction Capturer - ISLab
+SW,63527016996232,File Explorer
+SW,63527017023987,Progress
+SW,63527017024121,HAIS_14_DRAFT
+SW,63527017051653,TexMaker
+SW,63527017052480,Texmaker
+SW,63527017057552,Abrir ficheiro
+SW,63527017107361,Texmaker
+SW,63527017403320,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017405775,User Interaction Capturer - ISLab
+SW,63527017412245,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017421976,User Interaction Capturer - ISLab
+SW,63527017423706,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527017460360,Edit and Continue
+SW,63527017461813,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527017462791,User Interaction Capturer - ISLab
+SW,63527017463947,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017464885,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527017480277,
+SW,63527017480728,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017480982,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527017482022,User Interaction Capturer - ISLab
+SW,63527017484169,C:\Windows\System32\java.exe
+SW,63527017484679,User Interaction Capturer - ISLab
+SW,63527017485753,HAIS_14_DRAFT
+SW,63527017488466,
+SW,63527017488670,Jump List
+SW,63527017489936,File Explorer
+SW,63527017489949,Jump List
+SW,63527017492297,HAIS_14_DRAFT
+SW,63527017493497,
+SW,63527017493689,Jump List
+SW,63527017494700,File Explorer
+SW,63527017517954,Opening - Excel
+SW,63527017518276,Excel
+SW,63527017529821,FatigueClassifierServer
+SW,63527017531334,Opening - Excel
+SW,63527017531619,Excel
+SW,63527017535287,FatigueClassifierServer
+SW,63527017544376,Facebook - Google Chrome
+SW,63527017568272,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017570142,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527017652674,
+SW,63527017653278,HAIS_14_DRAFT
+SW,63527017659332,
+SW,63527017659413,HAIS_13_FINAL
+SW,63527017663622,HAIS13.pdf - Adobe Reader
+SW,63527017667362,HAIS_13_FINAL
+SW,63527017673626,
+SW,63527017673701,ISAI_14_SUBMITED
+SW,63527017674277,ISAI.pdf - Adobe Reader
+SW,63527017676957,ISAI_14_SUBMITED
+SW,63527017681795,
+SW,63527017681880,ISAmI_13_FINAL
+SW,63527017682453,ISAmI 2013.pdf - Adobe Reader
+SW,63527017685910,ISAmI_13_FINAL
+SW,63527017690938,
+SW,63527017691025,ISAmI_14
+SW,63527017691590,ISAmI 2014.pdf - Adobe Reader
+SW,63527017693499,ISAmI_14
+SW,63527017702606,Facebook - Google Chrome
+SW,63527017780465,Save As
+SW,63527017790097,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527017793331,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527017793352,Articles
+SW,63527017795365,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017798750,User Interaction Capturer - ISLab
+SW,63527017807264,Task Switching
+SW,63527017807327,User Interaction Capturer - ISLab
+SW,63527017808608,Facebook - Google Chrome
+SW,63527017947541,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527017951677,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527017960787,
+SW,63527017962429,Articles
+SW,63527017966423,
+SW,63527017966509,HAIS_14_DRAFT
+SW,63527017967265,HAIS13.pdf - Adobe Reader
+SW,63527017972477,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527017977147,
+SW,63527017978661,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018054508,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018056828,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018060381,User Interaction Capturer - ISLab
+SW,63527018062072,
+SW,63527018063784,HAIS_14_DRAFT
+SW,63527018091379,Facebook - Google Chrome
+SW,63527018167452,
+SW,63527018167461,
+SW,63527018168255,File Explorer
+SW,63527018173746,E:\Workspace\GitHub\CAMCoF\InputReport\testN.arff - Sublime Text (UNREGISTERED)
+SW,63527018198489,HAIS_13_FINAL - Copy
+SW,63527018199707,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018206500,User Interaction Capturer - ISLab
+SW,63527018215070,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018218372,User Interaction Capturer - ISLab
+SW,63527018278851,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018280190,
+SW,63527018280836,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527018281250,User Interaction Capturer - ISLab
+SW,63527018282412,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018285388,User Interaction Capturer - ISLab
+SW,63527018286523,C:\Windows\System32\java.exe
+SW,63527018287055,User Interaction Capturer - ISLab
+SW,63527018288011,
+SW,63527018289157,review_article_DRAFT
+SW,63527018290346,HAIS_13_FINAL - Copy - Dropbox - Google Chrome
+SW,63527018299107,
+SW,63527018300596,FatigueClassifierServer
+SW,63527018317348,HAIS_13_FINAL - Copy - Dropbox - Google Chrome
+SW,63527018341690,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018345260,Task Switching
+SW,63527018345311,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018351221,Task Switching
+SW,63527018351277,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018371513,Task Switching
+SW,63527018371543,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018373104,Task Switching
+SW,63527018373156,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018378347,Task Switching
+SW,63527018378373,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018381363,Task Switching
+SW,63527018381417,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018386945,Task Switching
+SW,63527018386994,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018387927,Task Switching
+SW,63527018387981,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018393635,Task Switching
+SW,63527018393652,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018395228,Task Switching
+SW,63527018395244,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018403894,Task Switching
+SW,63527018403951,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018404795,Task Switching
+SW,63527018404844,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018408777,Task Switching
+SW,63527018408822,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018418198,Task Switching
+SW,63527018418251,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018419391,Task Switching
+SW,63527018419448,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018421705,Task Switching
+SW,63527018421726,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018424498,Task Switching
+SW,63527018424530,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018436140,Task Switching
+SW,63527018436191,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018440343,Task Switching
+SW,63527018440370,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018445175,Task Switching
+SW,63527018445200,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018498940,Texmaker : pdf preview
+SW,63527018501691,
+SW,63527018502458,HAIS14.pdf
+SW,63527018503963,
+SW,63527018504523,HAIS14.pdf
+SW,63527018506046,Project
+SW,63527018509266,HAIS14.pdf
+SW,63527018510785,Project
+SW,63527018514544,HAIS14.pdf
+SW,63527018514652,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018595095,
+SW,63527018595132,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527018595221,HAIS13.pdf - Adobe Reader
+SW,63527018595499,report.pdf - Adobe Reader
+SW,63527018618272,
+SW,63527018619315,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018629637,Task Switching
+SW,63527018629683,report.pdf - Adobe Reader
+SW,63527018645687,Task Switching
+SW,63527018645753,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018660377,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018668089,User Interaction Capturer - ISLab
+SW,63527018727200,User Interaction Capturer - ISLab
+SW,63527018730003,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527018766358,Edit and Continue
+SW,63527018768118,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527018777111,User Interaction Capturer - ISLab
+SW,63527018779908,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527018787755,
+SW,63527018789242,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018867326,User Interaction Capturer - ISLab
+SW,63527018877960,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018948817,HAIS14.pdf
+SW,63527018948849,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527018948857,HAIS14.pdf
+SW,63527018967375,User Interaction Capturer - ISLab
+SW,63527018970936,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018979567,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018980664,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018989034,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527018989119,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527019075300,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527019077249,
+SW,63527019077789,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527019077867,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527019078587,User Interaction Capturer - ISLab
+SW,63527019080632,C:\Windows\System32\java.exe
+SW,63527019081123,User Interaction Capturer - ISLab
+SW,63527019082551,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527019451231,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527019454090,User Interaction Capturer - ISLab
+SW,63527019483964,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527019491570,
+SW,63527019492350,HAIS14.pdf
+SW,63527019513555,
+SW,63527019517405,HAIS_13_FINAL - Copy
+SW,63527019537656,Progress
+SW,63527019541422,
+SW,63527019544373,File In Use
+SW,63527019545574,HAIS_14_DRAFT
+SW,63527019549244,
+SW,63527019549347,HAIS_14_DRAFT
+SW,63527019549481,report.pdf - Adobe Reader
+SW,63527019549923,80730222.pdf - Adobe Reader
+SW,63527019552079,report.pdf - Adobe Reader
+SW,63527019553089,Task Switching
+SW,63527019553140,HAIS_14_DRAFT
+SW,63527019570452,
+SW,63527019570577,HAIS_14_DRAFT
+SW,63527019570720,report.pdf - Adobe Reader
+SW,63527019571049,HAIS14.pdf - Adobe Reader
+SW,63527019575896,report.pdf - Adobe Reader
+SW,63527019577436,Facebook - Google Chrome
+SW,63527019695237,
+SW,63527019698771,Workspace
+SW,63527019702073,User Interaction Capturer - ISLab
+SW,63527019706811,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527019727449,Edit and Continue
+SW,63527019728872,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527019764769,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527019766400,
+SW,63527019767154,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527019767234,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527019767892,User Interaction Capturer - ISLab
+SW,63527019770539,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527019775610,User Interaction Capturer - ISLab
+SW,63527019776909,C:\Windows\System32\java.exe
+SW,63527019777549,User Interaction Capturer - ISLab
+SW,63527019778682,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527019779490,
+SW,63527019780546,review_article_DRAFT
+SW,63527019802576,Photos
+SW,63527019804284,Photos
+SW,63527019804626,
+SW,63527019804643,figures
+SW,63527019807783,Paint
+SW,63527019873842,
+SW,63527019874864,
+SW,63527019875919,
+SW,63527019875970,compare - Paint
+SW,63527019876657,Save As
+SW,63527019883888,compare - Paint
+SW,63527019884183,Paint
+SW,63527019885767,compare - Paint
+SW,63527019887408,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020047071,Open
+SW,63527020058021,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020059057,
+SW,63527020060666,HAIS_14_DRAFT
+SW,63527020068612, A comprimir HAIS_14_DRAFT.zip
+SW,63527020068867,Articles
+SW,63527020073352,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020080239,Open
+SW,63527020086112,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020100056,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020103223,User Interaction Capturer - ISLab
+SW,63527020105008,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020136567,compare - Paint
+SW,63527020140458,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020147142,report.pdf - Adobe Reader
+SW,63527020161796,The effect of a rest period in work performance - Estudo - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020195695,
+SW,63527020195909,
+SW,63527020196959,
+SW,63527020198102,[ALUNOS-PDINf-152] [Fw:] Professor Chainho Pereira: palestra "INTEGRITY AND MISCONDUCT IN ACADEMIC RESEARCH" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020296414,User Interaction Capturer - ISLab
+SW,63527020299103,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020301534,[ALUNOS-PDINf-152] [Fw:] Professor Chainho Pereira: palestra "INTEGRITY AND MISCONDUCT IN ACADEMIC RESEARCH" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020385373,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020389035,User Interaction Capturer - ISLab
+SW,63527020409885,
+SW,63527020409993,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527020429101,User Interaction Capturer - ISLab
+SW,63527020431733,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527020441481,Edit and Continue
+SW,63527020442787,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527020489523,Task Switching
+SW,63527020489588,User Interaction Capturer - ISLab
+SW,63527020492060,Close Friends - Google Chrome
+SW,63527020534469,User Interaction Capturer - ISLab
+SW,63527020537685,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527020554988,User Interaction Capturer - ISLab
+SW,63527020565925,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020638301,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020650316,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020661187,User Interaction Capturer - ISLab
+SW,63527020662396,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020663563,User Interaction Capturer - ISLab
+SW,63527020665211,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527020679332,User Interaction Capturer - ISLab
+SW,63527020682882,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020687862,Task Switching
+SW,63527020687938,User Interaction Capturer - ISLab
+SW,63527020689123,Task Switching
+SW,63527020689155,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020709685,Task Switching
+SW,63527020709749,User Interaction Capturer - ISLab
+SW,63527020714953,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020716400,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527020740321,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020742051,
+SW,63527020742711,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527020743335,User Interaction Capturer - ISLab
+SW,63527020743963,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020746459,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527020974768,User Interaction Capturer - ISLab
+SW,63527020975578,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527020983328,Close Friends - Google Chrome
+SW,63527021004586,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021007322,User Interaction Capturer - ISLab
+SW,63527021021125,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021023353,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021042426,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021043993,User Interaction Capturer - ISLab
+SW,63527021050866,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021052760,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021054697,User Interaction Capturer - ISLab
+SW,63527021055917,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021059632,User Interaction Capturer - ISLab
+SW,63527021060734,C:\Windows\System32\java.exe
+SW,63527021061277,User Interaction Capturer - ISLab
+SW,63527021062202,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021064295,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021110653,Save As
+SW,63527021115966,Paper Submission & Publication (TENTATIVE) | <none> - Google Chrome
+SW,63527021118618,
+SW,63527021121618,Articles
+SW,63527021129818, A extrair E:\Dropbox\Article ... Latex template.zip
+SW,63527021130100,HAIS_14_DRAFT
+SW,63527021136225,
+SW,63527021136305,Latex template
+SW,63527021136911,llncsdoc.pdf - Adobe Reader
+SW,63527021143725,Latex template
+SW,63527021160321,Paper Submission & Publication (TENTATIVE) | <none> - Google Chrome
+SW,63527021163362,Save As
+SW,63527021165863,Paper Submission & Publication (TENTATIVE) | <none> - Google Chrome
+SW,63527021172919,Paper Submission & Publication (TENTATIVE) | <none> - Google Chrome
+SW,63527021172937,Latex template
+SW,63527021218102,User Interaction Capturer - ISLab
+SW,63527021221745,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021237424,
+SW,63527021237562,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021314679,User Interaction Capturer - ISLab
+SW,63527021315519,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021318977,Task Switching
+SW,63527021319048,User Interaction Capturer - ISLab
+SW,63527021320446,Paper Submission & Publication (TENTATIVE) | <none> - Google Chrome
+SW,63527021342608,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021344206,
+SW,63527021346731,Dropbox
+SW,63527021372873,E:\Workspace\GitHub\CAMCoF\InputReport\testN.arff - Sublime Text (UNREGISTERED)
+SW,63527021383288,src
+SW,63527021384703,Paper Submission & Publication (TENTATIVE) | <none> - Google Chrome
+SW,63527021391142,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021394301,User Interaction Capturer - ISLab
+SW,63527021397886,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527021407590,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021421667,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021421689,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527021468101,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527021472069,User Interaction Capturer - ISLab
+SW,63527021478127,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021484568,Task Switching
+SW,63527021484634,User Interaction Capturer - ISLab
+SW,63527021485878,E:\Workspace\GitHub\CAMCoF\Behaviours\Fatigue\Local_Server\FatigueClassifierServer\src\Monitor.java - Sublime Text (UNREGISTERED)
+SW,63527021491787,Task Switching
+SW,63527021491858,User Interaction Capturer - ISLab
+SW,63527021504981,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527021543942,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021571253,Save As
+SW,63527021582800,mental fatigue paper - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021585106,
+SW,63527021585718,Word
+SW,63527021597254,mental fatigue paper - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021597531,new_version--jcm (Protected View) - Word
+SW,63527021600413,mental fatigue paper - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021602853,new_version--jcm (Protected View) - Word
+SW,63527021604929,new_version--jcm (Protected View) - Word
+SW,63527021605004,mental fatigue paper - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021606160,Project
+SW,63527021609774,mental fatigue paper - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021613677,
+SW,63527021621850,new_version--jcm [Compatibility Mode] - Word
+SW,63527021663481,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527021666464,Task Switching
+SW,63527021666518,mental fatigue paper - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527021880491,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527021884044,User Interaction Capturer - ISLab
+SW,63527021903883,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527022016443,new_version--jcm [Compatibility Mode] - Word
+SW,63527022019105,User Interaction Capturer - ISLab
+SW,63527022026859,User Interaction Capturer - ISLab
+SW,63527022043058,Circadian rhythm - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527022284121,Task Switching
+SW,63527022284174,User Interaction Capturer - ISLab
+SW,63527022285474,bolore - Pesquisa do Google - Google Chrome
+SW,63527022464494,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527022470271,User Interaction Capturer - ISLab
+SW,63527022481807,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527022569044,Save As
+SW,63527022587208,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527022597887,User Interaction Capturer - ISLab
+SW,63527022615056,Modafinil, d-amphetamine and placebo during 64 hours of sustained mental work. I. Effects on mood, fatigue, cognitive performance and body temperature - PIGEAU - 2009 - Journal of Sleep Research - Wiley Online Library - Google Chrome
+SW,63527022724862,User Interaction Capturer - ISLab
+SW,63527022735319,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527022744574,User Interaction Capturer - ISLab
+SW,63527022755110,Casa-braga - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527022814982,User Interaction Capturer - ISLab
+SW,63527022818308,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527022823222,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527022898819,User Interaction Capturer - ISLab
+SW,63527022915217,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023130745,User Interaction Capturer - ISLab
+SW,63527023132704,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023146347,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023156690,User Interaction Capturer - ISLab
+SW,63527023159402,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023163946,
+SW,63527023164077,User Interaction Capturer - ISLab
+SW,63527023186675,
+SW,63527023189885,src
+SW,63527023209584,E:\Workspace\GitHub\CAMCoF\InputReport\test.arff - Sublime Text (UNREGISTERED)
+SW,63527023215978,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527023221349,
+SW,63527023221361,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527023221583,Exception Helper Window
+SW,63527023221783,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527023221811,Exception Helper Window
+SW,63527023242258,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527023252202,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023264488,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023265730,Wiley Online Library: Login Failure - Google Chrome
+SW,63527023283934,Task Switching
+SW,63527023283993,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023287466,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527023290762,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023303439,Task Switching
+SW,63527023304412,Task Switching
+SW,63527023304466,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527023304717,Task Switching
+SW,63527023305096,try-catch (C# Reference) - Google Chrome
+SW,63527023308298,Task Switching
+SW,63527023308361,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527023361448,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023363913,
+SW,63527023364105,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527023364764,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527023365303,User Interaction Capturer - ISLab
+SW,63527023366255,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023371232,Save and Launch
+SW,63527023373131,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023374768,User Interaction Capturer - ISLab
+SW,63527023375907,C:\Windows\System32\java.exe
+SW,63527023376444,User Interaction Capturer - ISLab
+SW,63527023377534,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023393480,E:\Workspace\GitHub\CAMCoF\InputReport\test.arff - Sublime Text (UNREGISTERED)
+SW,63527023467306,Save As
+SW,63527023474950,E:\Workspace\GitHub\CAMCoF\InputReport\test.arff • - Sublime Text (UNREGISTERED)
+SW,63527023476383,
+SW,63527023477243,InputReport
+SW,63527023493177,E:\Workspace\GitHub\CAMCoF\InputReport\test_ULTIMO.arff - Sublime Text (UNREGISTERED)
+SW,63527023496538,Weka Explorer
+SW,63527023501961,E:\Workspace\GitHub\CAMCoF\InputReport\test_ULTIMO.arff • - Sublime Text (UNREGISTERED)
+SW,63527023502180,Weka Explorer
+SW,63527023505404,weka.gui.GenericObjectEditor
+SW,63527023506963,Weka Explorer
+SW,63527023534042,weka.gui.GenericObjectEditor
+SW,63527023536598,Weka Explorer
+SW,63527023538019,Neural Network
+SW,63527023552431,try-catch (C# Reference) - Google Chrome
+SW,63527023556912,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023558440,User Interaction Capturer - ISLab
+SW,63527023583202,
+SW,63527023584824,Neural Network
+SW,63527023596186,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527023598015,Weka Explorer
+SW,63527023601593,Save
+SW,63527023607342,Weka Explorer
+SW,63527023608975,Neural Network
+SW,63527023616637,Weka Explorer
+SW,63527023618622,User Interaction Capturer - ISLab
+SW,63527023619480,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527023620814,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023644955,
+SW,63527023645661,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527023646183,User Interaction Capturer - ISLab
+SW,63527023647201,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023651763,Save and Launch
+SW,63527023653191,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023657262,User Interaction Capturer - ISLab
+SW,63527023658430,C:\Windows\System32\java.exe
+SW,63527023658937,User Interaction Capturer - ISLab
+SW,63527023660194,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023667311,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023675789,
+SW,63527023678168,Neural Network
+SW,63527023695533,
+SW,63527023699968,InputReport
+SW,63527023712524,Opening - Excel
+SW,63527023712852,Excel
+SW,63527023727364,FatigueClassifierServer
+SW,63527023731862,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023733882,
+SW,63527023734616,Neural Network
+SW,63527023743918,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023750238,
+SW,63527023750319,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023752972,new_version--jcm [Compatibility Mode] - Word
+SW,63527023759702,new_version--jcm [Compatibility Mode] - Word
+SW,63527023759831,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023800326,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023802516,User Interaction Capturer - ISLab
+SW,63527023806081,
+SW,63527023807054,Neural Network
+SW,63527023827319,User Interaction Capturer - ISLab
+SW,63527023829357,Weka Explorer
+SW,63527023832279,Save
+SW,63527023871137,Weka Explorer
+SW,63527023875047,User Interaction Capturer - ISLab
+SW,63527023896702,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527023961404,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023970917,User Interaction Capturer - ISLab
+SW,63527023972170,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527023976557,User Interaction Capturer - ISLab
+SW,63527023986389,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527024110564,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024119995,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527024121451,User Interaction Capturer - ISLab
+SW,63527024132237,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527024143411,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527024143428,User Interaction Capturer - ISLab
+SW,63527024147568,
+SW,63527024148125,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527024156956,new_version--jcm [Compatibility Mode] - Word
+SW,63527024161112,Word
+SW,63527024238102,Task Switching
+SW,63527024238151,new_version--jcm [Compatibility Mode] - Word
+SW,63527024241426,User Interaction Capturer - ISLab
+SW,63527024349283,User Interaction Capturer - ISLab
+SW,63527024351082,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024369171,User Interaction Capturer - ISLab
+SW,63527024371062,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024386026,User Interaction Capturer - ISLab
+SW,63527024388974,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024390850,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527024395969,User Interaction Capturer - ISLab
+SW,63527024397252,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024399578,User Interaction Capturer - ISLab
+SW,63527024410011,www.nps.navy.mil/orfacpag/resumepages/projects/fatigue/dongen.pdf - Google Chrome
+SW,63527024511105,User Interaction Capturer - ISLab
+SW,63527024512459,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024514866,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527024562367,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024586990,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527024715440,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024721531,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527024723008,Ronald Opus - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527024845942,Player RFM - Google Chrome
+SW,63527025015631,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025025582,
+SW,63527025036522,figures
+SW,63527025046003,
+SW,63527025046496,
+SW,63527025052354,
+SW,63527025055482,eclipse
+SW,63527025082153,
+SW,63527025082342,
+SW,63527025083325,Program Manager
+SW,63527025083327,
+SW,63527025083461,100% complete
+SW,63527025084828,Program Manager
+SW,63527025085673,Models
+SW,63527025091527,User Interaction Capturer - ISLab
+SW,63527025094925,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025104286,User Interaction Capturer - ISLab
+SW,63527025105688,C:\Windows\System32\java.exe
+SW,63527025105947,
+SW,63527025105959,
+SW,63527025118485,C:\Windows\System32\java.exe
+SW,63527025120589,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025121051,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527025123592,Task Switching
+SW,63527025123652,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025131977,Export
+SW,63527025139361,Runnable JAR File Export
+SW,63527025140651,Runnable JAR File Export
+SW,63527025140873,Confirm Replace
+SW,63527025141999,Runnable JAR File Export
+SW,63527025145752,Runnable JAR File Export
+SW,63527025147748,Runnable JAR File Export
+SW,63527025147828,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025149762,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527025149925,
+SW,63527025156763,
+SW,63527025158335,FatigueClassifierServer
+SW,63527025169943,100% complete
+SW,63527025171611,Release
+SW,63527025182110,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025189475,
+SW,63527025193661,Latex template
+SW,63527025195338,Location is not available
+SW,63527025196868,Articles
+SW,63527025217365,Task Switching
+SW,63527025217427,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025219025,Task Switching
+SW,63527025219085,Models
+SW,63527025221226,
+SW,63527025222200,Release
+SW,63527025230621,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527025246709,Task Switching
+SW,63527025246763,Release
+SW,63527025248573,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025254171,Task Switching
+SW,63527025254224,Release
+SW,63527025255502,Task Switching
+SW,63527025256203,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527025263584,Task Switching
+SW,63527025263646,Release
+SW,63527025264396,Task Switching
+SW,63527025264796,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025268942,Task Switching
+SW,63527025269005,Release
+SW,63527025270007,Task Switching
+SW,63527025270475,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527025279402,
+SW,63527025280421,User Interaction Capturer - ISLab
+SW,63527025281876,C:\Windows\System32\java.exe
+SW,63527025288036,Player RFM - Google Chrome
+SW,63527025356124,User Interaction Capturer - ISLab
+SW,63527025357436,C:\Windows\System32\java.exe
+SW,63527025371566,User Interaction Capturer - ISLab
+SW,63527025382564,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527025406025,ac.els-cdn.com/S0090429500006725/1-s2.0-S0090429500006725-main.pdf?_tid=37f9176c-8cca-11e3-8c7b-00000aab0f01&acdnat=1391428770_686ba7798396f72c8a3a9226ecb8a167 - Google Chrome
+SW,63527025406044,User Interaction Capturer - ISLab
+SW,63527025410510,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527025412300,C:\Windows\System32\java.exe
+SW,63527025414508,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025419424,
+SW,63527025421751,Models
+SW,63527025449811,
+SW,63527025452446,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527025494401,HAIS14.pdf
+SW,63527025494434,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527025494445,HAIS14.pdf
+SW,63527025501079,
+SW,63527025504829,Release
+SW,63527025517746, A comprimir HAIS_14_DRAFT.zip
+SW,63527025517902,Articles
+SW,63527025519988,ac.els-cdn.com/S0090429500006725/1-s2.0-S0090429500006725-main.pdf?_tid=37f9176c-8cca-11e3-8c7b-00000aab0f01&acdnat=1391428770_686ba7798396f72c8a3a9226ecb8a167 - Google Chrome
+SW,63527025535056,Open
+SW,63527025541159,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527025587360,User Interaction Capturer - ISLab
+SW,63527025589116,C:\Windows\System32\java.exe
+SW,63527025608362,User Interaction Capturer - ISLab
+SW,63527025610418,Facebook - Google Chrome
+SW,63527025673953,User Interaction Capturer - ISLab
+SW,63527025680996,ac.els-cdn.com/S0090429503004096/1-s2.0-S0090429503004096-main.pdf?_tid=c95ff59a-8cca-11e3-afc1-00000aab0f6c&acdnat=1391429014_42174450aa7197aba6858f19a9ec7c6d - Google Chrome
+SW,63527025826001,User Interaction Capturer - ISLab
+SW,63527025827634,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025829049,C:\Windows\System32\java.exe
+SW,63527025831345,User Interaction Capturer - ISLab
+SW,63527025834863,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025836299,Confirm Exit
+SW,63527025837844,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527025839023,User Interaction Capturer - ISLab
+SW,63527025839251,Progress Information
+SW,63527025839951,User Interaction Capturer - ISLab
+SW,63527025843994,Facebook - Google Chrome
+SW,63527025875356,
+SW,63527025880184,Models
+SW,63527025903809,Facebook - Google Chrome
+SW,63527025986393,User Interaction Capturer - ISLab
+SW,63527025988647,C:\Windows\System32\java.exe
+SW,63527026004799,User Interaction Capturer - ISLab
+SW,63527026012619,User Interaction Capturer - ISLab
+SW,63527026012622,C:\Windows\System32\java.exe
+SW,63527026020295,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527026073481,
+SW,63527026074566,User Interaction Capturer - ISLab
+SW,63527026077961,C:\Windows\System32\java.exe
+SW,63527026084264,User Interaction Capturer - ISLab
+SW,63527026085438,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527026090175,Ronald Opus - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527026090181,Microsoft Visual Studio
+SW,63527026092157,Ronald Opus - Wikipedia, the free encyclopedia - Google Chrome
+SW,63527026092177,Release
+SW,63527026097896,Articles
+SW,63527026100430,HAIS14.pdf
+SW,63527026102142,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/HAIS14.tex
+SW,63527026103954,Articles
+SW,63527026105141,Models
+SW,63527026105255,Articles
+SW,63527026106023,Program Manager
+SW,63527026107387,100% complete
+SW,63527026115517,Articles
+SW,63527026116212,Program Manager
+SW,63527026123080,File Explorer
+SW,63527026132702,User Interaction Capturer - ISLab
+SW,63527026135193,C:\Windows\System32\java.exe
+SW,63527026139451,User Interaction Capturer - ISLab
+SW,63527026144224,Release
+SW,63527026146705,Opening - Excel
+SW,63527026146979,Excel
+SW,63527026156508,Release
+SW,63527026335886,User Interaction Capturer - ISLab
+SW,63527026337975,Facebook - Google Chrome
+SW,63527026355413,C:\Windows\System32\java.exe
+SW,63527026358227,User Interaction Capturer - ISLab
+SW,63527026364348,
+SW,63527026364537,
+SW,63527026373648, A comprimir Ultimo_test.zip
+SW,63527026388784,User Interaction Capturer - ISLab
+SW,63527026390005,Program Manager
+SW,63527026401889, A comprimir Ultimo_test - Copy.zip
+SW,63527026407628,User Interaction Capturer - ISLab
+SW,63527026408664,Program Manager
+SW,63527026410606,File Explorer
+SW,63527026425077,Facebook - Google Chrome
+SW,63527026564747,C:\Windows\System32\java.exe
+SW,63527026567909,User Interaction Capturer - ISLab
+SW,63527026579421,(1) Facebook - Google Chrome
+SW,63527026673906,User Interaction Capturer - ISLab
+SW,63527026686011,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527026901866,C:\Windows\System32\java.exe
+SW,63527026905122,User Interaction Capturer - ISLab
+SW,63527026913452,Mickael diz… - Google Chrome
+SW,63527026938495,
+SW,63527026940268,Spam (87) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527026969880,User Interaction Capturer - ISLab
+SW,63527026975169,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527027018607,User Interaction Capturer - ISLab
+SW,63527027019857,C:\Windows\System32\java.exe
+SW,63527027027241,User Interaction Capturer - ISLab
+SW,63527027035175,
+SW,63527027041475,bin
+SW,63527027047945,User Interaction Capturer - ISLab
+SW,63527027051119,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527027059392,User Interaction Capturer - ISLab
+SW,63527027060761,C:\Windows\System32\java.exe
+SW,63527027063990,
+SW,63527027064601,new_version--jcm [Compatibility Mode] - Word
+SW,63527027158293,Task Switching
+SW,63527027158381,C:\Windows\System32\java.exe
+SW,63527027182568,User Interaction Capturer - ISLab
+SW,63527027191233,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527027208792,Task Switching
+SW,63527027208842,User Interaction Capturer - ISLab
+SW,63527027214049,Facebook - Google Chrome
+SW,63527027294455,User Interaction Capturer - ISLab
+SW,63527027296334,C:\Windows\System32\java.exe
+SW,63527027301304,Player RFM - Google Chrome
+SW,63527027302763,C:\Windows\System32\java.exe
+SW,63527032977272,C:\Windows\System32\java.exe
+SW,63527032982083,User Interaction Capturer - ISLab
+SW,63527033009126,Untitled - Google Chrome
+SW,63527033106041,User Interaction Capturer - ISLab
+SW,63527033107226,C:\Windows\System32\java.exe
+SW,63527033116716,See Tiago's connections, experience, and more... - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527033128390,
+SW,63527033129908,Document1 - Word
+SW,63527033205968,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527033233676,The page at https://mail.google.com says:
+SW,63527033241854,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527033359296,User Interaction Capturer - ISLab
+SW,63527033362009,C:\Windows\System32\java.exe
+SW,63527033376927,User Interaction Capturer - ISLab
+SW,63527033399977,Facebook - Google Chrome
+SW,63527033410808,C:\Windows\System32\java.exe
+SW,63527033420585,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527033448963,
+SW,63527033451203,new_version--jcm [Compatibility Mode] - Word
+SW,63527033455555,Task Switching
+SW,63527033455627,New Tab - Google Chrome
+SW,63527033456823,Task Switching
+SW,63527033456871,new_version--jcm [Compatibility Mode] - Word
+SW,63527033510170,Task Switching
+SW,63527033510215,New Tab - Google Chrome
+SW,63527033593279,User Interaction Capturer - ISLab
+SW,63527033594815,C:\Windows\System32\java.exe
+SW,63527033604012,Task Switching
+SW,63527033604064,User Interaction Capturer - ISLab
+SW,63527033607208,Task Switching
+SW,63527033607286,C:\Windows\System32\java.exe
+SW,63527033607952,Facebook - Google Chrome
+SW,63527033777810,Task Switching
+SW,63527033777873,C:\Windows\System32\java.exe
+SW,63527033786909,
+SW,63527033787031,User Interaction Capturer - ISLab
+SW,63527033823390,SAPO - Portugal Online! - Google Chrome
+SW,63527033835188,
+SW,63527033842007,Debug - Copy
+SW,63527033843435,Circadian Rhythms: the effect of the light - Mental Health A-Z - Douglas Mental Health University Institute - Google Chrome
+SW,63527033844194,Circadian Rhythms: the effect of the light - Mental Health A-Z - Douglas Mental Health University Institute - Google Chrome
+SW,63527033844213,User Interaction Capturer - ISLab
+SW,63527033844853,Articles
+SW,63527033848826,
+SW,63527033848935,HAIS_14_DRAFT
+SW,63527033849569,report.pdf - Adobe Reader
+SW,63527033972740,HAIS_14_DRAFT
+SW,63527033975482,
+SW,63527033980147,Google Tradutor - Google Chrome
+SW,63527033983604,
+SW,63527033983814,Jump List
+SW,63527033985584,File Explorer
+SW,63527033990068,
+SW,63527033990191,latex
+SW,63527033990315,report.pdf - Adobe Reader
+SW,63527033990610,review_cc.pdf - Adobe Reader
+SW,63527034008016,Task Switching
+SW,63527034008052,report.pdf - Adobe Reader
+SW,63527034009604,Facebook - Google Chrome
+SW,63527034033051,User Interaction Capturer - ISLab
+SW,63527034033923,C:\Windows\System32\java.exe
+SW,63527034063115,Facebook - Google Chrome
+SW,63527034114743,Task Switching
+SW,63527034114798,C:\Windows\System32\java.exe
+SW,63527034117701,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034126563,
+SW,63527034126645,review_cc.pdf - Adobe Reader
+SW,63527034149277,Task Switching
+SW,63527034149334,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034149734,Task Switching
+SW,63527034149747,review_cc.pdf - Adobe Reader
+SW,63527034167827,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034173702,RGui (64-bit)
+SW,63527034175156,RGui (64-bit)
+SW,63527034175575,Question
+SW,63527034176967,RGui (64-bit)
+SW,63527034176998,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034177618,TexMaker
+SW,63527034179094,Texmaker
+SW,63527034260691,Task Switching
+SW,63527034260745,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034268147,
+SW,63527034269653,review_cc.pdf - Adobe Reader
+SW,63527034279621,Task Switching
+SW,63527034279666,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034292865,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527034389329,Texmaker : pdf preview
+SW,63527034445448,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034448175,C:\Windows\System32\java.exe
+SW,63527034455707,User Interaction Capturer - ISLab
+SW,63527034522363,"Universidade" (2) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034572220,Task Switching
+SW,63527034572284,User Interaction Capturer - ISLab
+SW,63527034576234,Facebook - Google Chrome
+SW,63527034583614,
+SW,63527034584593,review_cc.pdf - Adobe Reader
+SW,63527034585983,
+SW,63527034590074,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527034594767,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034596862,
+SW,63527034598850,Document1 - Word
+SW,63527034668327,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527034677291,Task Switching
+SW,63527034677350,Document1 - Word
+SW,63527034695589,Task Switching
+SW,63527034695669,Google Tradutor - Google Chrome
+SW,63527034705519,Task Switching
+SW,63527034705577,Document1 - Word
+SW,63527034716209,
+SW,63527034717124,Document1 - Word
+SW,63527034723610,
+SW,63527034724716,Document1 - Word
+SW,63527034735504,Task Switching
+SW,63527034735529,Google Tradutor - Google Chrome
+SW,63527034755225,Task Switching
+SW,63527034755287,Document1 - Word
+SW,63527034757784,Task Switching
+SW,63527034757848,Google Tradutor - Google Chrome
+SW,63527034761687,Task Switching
+SW,63527034761713,Document1 - Word
+SW,63527034762680,Task Switching
+SW,63527034762736,Google Tradutor - Google Chrome
+SW,63527034764693,Task Switching
+SW,63527034764753,Document1 - Word
+SW,63527034767614,Task Switching
+SW,63527034767680,Google Tradutor - Google Chrome
+SW,63527034770407,Task Switching
+SW,63527034770473,Document1 - Word
+SW,63527034771605,Task Switching
+SW,63527034771662,Google Tradutor - Google Chrome
+SW,63527034773330,Task Switching
+SW,63527034773393,Document1 - Word
+SW,63527034775220,Task Switching
+SW,63527034775252,Google Tradutor - Google Chrome
+SW,63527034783987,Task Switching
+SW,63527034784047,Document1 - Word
+SW,63527034788022,Task Switching
+SW,63527034788085,Google Tradutor - Google Chrome
+SW,63527034788649,Task Switching
+SW,63527034788676,Document1 - Word
+SW,63527034791562,Task Switching
+SW,63527034791621,Google Tradutor - Google Chrome
+SW,63527034792387,Task Switching
+SW,63527034792442,Document1 - Word
+SW,63527034795096,Task Switching
+SW,63527034795160,Google Tradutor - Google Chrome
+SW,63527034796146,Task Switching
+SW,63527034796222,Document1 - Word
+SW,63527034796938,Task Switching
+SW,63527034797009,Google Tradutor - Google Chrome
+SW,63527034801128,Task Switching
+SW,63527034801192,Document1 - Word
+SW,63527034809157,Task Switching
+SW,63527034809203,Google Tradutor - Google Chrome
+SW,63527034810740,Task Switching
+SW,63527034810802,Document1 - Word
+SW,63527034833199,
+SW,63527034835885,Document1 - Word
+SW,63527034838856,Task Switching
+SW,63527034838906,Google Tradutor - Google Chrome
+SW,63527034839337,Task Switching
+SW,63527034839395,Document1 - Word
+SW,63527034841238,Task Switching
+SW,63527034841275,Google Tradutor - Google Chrome
+SW,63527034852260,Task Switching
+SW,63527034852318,Document1 - Word
+SW,63527034858487,Task Switching
+SW,63527034858554,Google Tradutor - Google Chrome
+SW,63527034864060,Task Switching
+SW,63527034864129,Document1 - Word
+SW,63527034868288,Task Switching
+SW,63527034868347,Google Tradutor - Google Chrome
+SW,63527034872661,Task Switching
+SW,63527034872717,Document1 - Word
+SW,63527034882226,Task Switching
+SW,63527034882328,Google Tradutor - Google Chrome
+SW,63527034888675,Task Switching
+SW,63527034888736,Document1 - Word
+SW,63527034894694,Task Switching
+SW,63527034894750,Google Tradutor - Google Chrome
+SW,63527034910617,Task Switching
+SW,63527034910676,Document1 - Word
+SW,63527034913217,
+SW,63527034915157,Document1 - Word
+SW,63527034929505,
+SW,63527034930268,Document1 - Word
+SW,63527034933244,Language
+SW,63527034935923,Document1 - Word
+SW,63527034940228,Task Switching
+SW,63527034940281,Google Tradutor - Google Chrome
+SW,63527034941986,Task Switching
+SW,63527034942047,Document1 - Word
+SW,63527034943717,
+SW,63527034945338,
+SW,63527034948799,
+SW,63527034948827,Document1 - Word
+SW,63527034949344,Task Switching
+SW,63527034949398,Google Tradutor - Google Chrome
+SW,63527034972836,Task Switching
+SW,63527034972898,Document1 - Word
+SW,63527035008283,
+SW,63527035010401,
+SW,63527035017095,
+SW,63527035017128,Document1 - Word
+SW,63527035018678,
+SW,63527035020208,
+SW,63527035024571,
+SW,63527035024601,Document1 - Word
+SW,63527035028121,
+SW,63527035029446,
+SW,63527035035289,
+SW,63527035035767,Document1 - Word
+SW,63527035062077,Task Switching
+SW,63527035062144,Google Tradutor - Google Chrome
+SW,63527035063730,
+SW,63527035064926,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527035074644,HAIS14.pdf
+SW,63527035074676,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527035074684,HAIS14.pdf
+SW,63527035080223,Task Switching
+SW,63527035080292,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527035081900,Google Tradutor - Google Chrome
+SW,63527035089828,User Interaction Capturer - ISLab
+SW,63527035094139,C:\Windows\System32\java.exe
+SW,63527035105061,User Interaction Capturer - ISLab
+SW,63527035114475,Task Switching
+SW,63527035114531,C:\Windows\System32\java.exe
+SW,63527035131542,Task Switching
+SW,63527035131600,User Interaction Capturer - ISLab
+SW,63527035133591,SampleApplication
+SW,63527035134157,Facebook - Google Chrome
+SW,63527035139076,SampleApplication
+SW,63527035153642,
+SW,63527035177684,Facebook - Google Chrome
+SW,63527035177701,SampleApplication
+SW,63527035177785,Facebook - Google Chrome
+SW,63527035178144,Visual Studio Just-In-Time Debugger
+SW,63527035178752,VsImmersiveActivateHelper.exe
+SW,63527035230439,Visual Studio Just-In-Time Debugger
+SW,63527035231056,Task Manager
+SW,63527035237589,Task Manager
+SW,63527035250274,Facebook - Google Chrome
+SW,63527035257447,Microsoft Visual Studio
+SW,63527035267950,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527035275269,
+SW,63527035276828,User Interaction Capturer - ISLab
+SW,63527035278584,C:\Windows\System32\java.exe
+SW,63527035283254,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527035283397,C:\Windows\System32\java.exe
+SW,63527035285053,Facebook - Google Chrome
+SW,63527035286315,C:\Windows\System32\java.exe
+SW,63527035288842,Task Manager
+SW,63527035289926,C:\Windows\System32\java.exe
+SW,63527035291971,User Interaction Capturer - ISLab
+SW,63527035293000,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527035295316,Task Switching
+SW,63527035295391,User Interaction Capturer - ISLab
+SW,63527035297644,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035302235,
+SW,63527035303660,Document1 - Word
+SW,63527035341159,Task Switching
+SW,63527035341229,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035422316,Task Switching
+SW,63527035422378,Document1 - Word
+SW,63527035430636,Task Switching
+SW,63527035430691,Google Tradutor - Google Chrome
+SW,63527035433140,Task Switching
+SW,63527035433205,Document1 - Word
+SW,63527035457912,
+SW,63527035459268,review_cc.pdf - Adobe Reader
+SW,63527035463581,Task Switching
+SW,63527035463639,Document1 - Word
+SW,63527035475198,Task Switching
+SW,63527035475251,review_cc.pdf - Adobe Reader
+SW,63527035476817,Google Tradutor - Google Chrome
+SW,63527035498286,Task Switching
+SW,63527035498346,review_cc.pdf - Adobe Reader
+SW,63527035499880,
+SW,63527035501732,Document1 - Word
+SW,63527035542418,Task Switching
+SW,63527035542494,review_cc.pdf - Adobe Reader
+SW,63527035548282,Google Tradutor - Google Chrome
+SW,63527035593973,Task Switching
+SW,63527035594036,review_cc.pdf - Adobe Reader
+SW,63527035595995,
+SW,63527035597533,Document1 - Word
+SW,63527035619273,Google Tradutor - Google Chrome
+SW,63527035622568,
+SW,63527035624667,
+SW,63527035624967,
+SW,63527035626200,File Explorer
+SW,63527035632823,Opening - Excel
+SW,63527035633131,Excel
+SW,63527035654137,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035657665,User Interaction Capturer - ISLab
+SW,63527035661609,C:\Windows\System32\java.exe
+SW,63527035664593,User Interaction Capturer - ISLab
+SW,63527035669299,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035670862,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035670882,User Interaction Capturer - ISLab
+SW,63527035674051,
+SW,63527035674907,review_cc.pdf - Adobe Reader
+SW,63527035680195,
+SW,63527035681189,new_version--jcm [Compatibility Mode] - Word
+SW,63527035682079,
+SW,63527035682505,Document1 - Word
+SW,63527035813798,
+SW,63527035814753,Document1 - Word
+SW,63527035832593,Task Switching
+SW,63527035832676,new_version--jcm [Compatibility Mode] - Word
+SW,63527035910592,C:\Windows\System32\java.exe
+SW,63527035918759,[21.02.2014] Jantar 08/09 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035927184,
+SW,63527035927291,new_version--jcm [Compatibility Mode] - Word
+SW,63527035929776,[21.02.2014] Jantar 08/09 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527035935124,
+SW,63527035937075,Document1 - Word
+SW,63527035995203,
+SW,63527035996478,
+SW,63527035999438,
+SW,63527035999474,Document1 - Word
+SW,63527036000950,
+SW,63527036002353,
+SW,63527036011207,
+SW,63527036011243,Document1 - Word
+SW,63527036013762,
+SW,63527036014631,Document1 - Word
+SW,63527036023198,Google Tradutor - Google Chrome
+SW,63527036032433,Task Switching
+SW,63527036032492,Document1 - Word
+SW,63527036092113,Task Switching
+SW,63527036092238,Google Tradutor - Google Chrome
+SW,63527036130814,Task Switching
+SW,63527036130887,Document1 - Word
+SW,63527036135371,Task Switching
+SW,63527036135441,Google Tradutor - Google Chrome
+SW,63527036140289,Task Switching
+SW,63527036140357,Document1 - Word
+SW,63527036141891,Task Switching
+SW,63527036141968,Google Tradutor - Google Chrome
+SW,63527036142953,Task Switching
+SW,63527036143029,Document1 - Word
+SW,63527036144319,Task Switching
+SW,63527036144382,Google Tradutor - Google Chrome
+SW,63527036146107,Task Switching
+SW,63527036146176,Document1 - Word
+SW,63527036148109,Task Switching
+SW,63527036148192,Google Tradutor - Google Chrome
+SW,63527036149752,Task Switching
+SW,63527036149824,Document1 - Word
+SW,63527036150938,Task Switching
+SW,63527036151009,Google Tradutor - Google Chrome
+SW,63527036153095,Task Switching
+SW,63527036153166,Document1 - Word
+SW,63527036154487,Task Switching
+SW,63527036154552,Google Tradutor - Google Chrome
+SW,63527036158644,Task Switching
+SW,63527036158715,Document1 - Word
+SW,63527036159050,Task Switching
+SW,63527036159121,Google Tradutor - Google Chrome
+SW,63527036187904,Task Switching
+SW,63527036187976,Document1 - Word
+SW,63527036220473,
+SW,63527036221567,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036235474,HAIS14.pdf
+SW,63527036235503,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036235514,HAIS14.pdf
+SW,63527036241872,Task Switching
+SW,63527036241944,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036243261,Google Tradutor - Google Chrome
+SW,63527036289956,User Interaction Capturer - ISLab
+SW,63527036294707,C:\Windows\System32\java.exe
+SW,63527036311612,Task Switching
+SW,63527036311683,User Interaction Capturer - ISLab
+SW,63527036313485,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527036316975,
+SW,63527036318294,HAIS14.pdf
+SW,63527036330328,
+SW,63527036330977,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036338087,Task Switching
+SW,63527036338221,HAIS14.pdf
+SW,63527036380457,Task Switching
+SW,63527036380518,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036383540,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527036429716,
+SW,63527036429823,Document1 - Word
+SW,63527036614616,Task Switching
+SW,63527036614684,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527036693893,Task Switching
+SW,63527036693965,Document1 - Word
+SW,63527036717838,
+SW,63527036718405,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036723329,Task Switching
+SW,63527036723387,Document1 - Word
+SW,63527036726966,
+SW,63527036728171,Document1 - Word
+SW,63527036731548,Task Switching
+SW,63527036731621,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036737928,HAIS14.pdf
+SW,63527036737955,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036737964,HAIS14.pdf
+SW,63527036772503,Task Switching
+SW,63527036772576,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527036773953,Google Tradutor - Google Chrome
+SW,63527036777681,User Interaction Capturer - ISLab
+SW,63527036780498,C:\Windows\System32\java.exe
+SW,63527036790177,Task Switching
+SW,63527036790237,User Interaction Capturer - ISLab
+SW,63527036802810,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527036909460,
+SW,63527036910508,Document1 - Word
+SW,63527036921209,Facebook - Google Chrome
+SW,63527036970120,Task Switching
+SW,63527036970177,Document1 - Word
+SW,63527036971893,Task Switching
+SW,63527036971976,de forma imediata - Pesquisa do Google - Google Chrome
+SW,63527037010560,Task Switching
+SW,63527037010632,Document1 - Word
+SW,63527037012173,Task Switching
+SW,63527037012248,Google Tradutor - Google Chrome
+SW,63527037093988,Task Switching
+SW,63527037094058,Document1 - Word
+SW,63527037102919,Task Switching
+SW,63527037102999,Google Tradutor - Google Chrome
+SW,63527037110503,Task Switching
+SW,63527037110577,Document1 - Word
+SW,63527037113459,
+SW,63527037114447,Document1 - Word
+SW,63527037115346,
+SW,63527037116652,
+SW,63527037125703,
+SW,63527037125734,Document1 - Word
+SW,63527037131549,
+SW,63527037132887,Document1 - Word
+SW,63527037139844,Task Switching
+SW,63527037139914,Google Tradutor - Google Chrome
+SW,63527037164014,C:\Windows\System32\java.exe
+SW,63527037171121,Task Switching
+SW,63527037171178,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037184548,
+SW,63527037187033,Document1 - Word
+SW,63527037197580,Task Switching
+SW,63527037197651,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037244240,Task Switching
+SW,63527037244310,Document1 - Word
+SW,63527037270462,Google Tradutor - Google Chrome
+SW,63527037275463,C:\Windows\System32\java.exe
+SW,63527037279062,User Interaction Capturer - ISLab
+SW,63527037293609,Google Tradutor - Google Chrome
+SW,63527037295281,Task Switching
+SW,63527037295344,User Interaction Capturer - ISLab
+SW,63527037296250,Task Switching
+SW,63527037296315,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037350809,Task Switching
+SW,63527037350838,User Interaction Capturer - ISLab
+SW,63527037352738,
+SW,63527037354800,Document1 - Word
+SW,63527037359459,Task Switching
+SW,63527037359530,User Interaction Capturer - ISLab
+SW,63527037361038,Google Tradutor - Google Chrome
+SW,63527037384092,Task Switching
+SW,63527037384122,User Interaction Capturer - ISLab
+SW,63527037386329,
+SW,63527037388057,Document1 - Word
+SW,63527037435181,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527037441314,
+SW,63527037441326,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527037441582,Exception Helper Window
+SW,63527037441810,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527037441843,Exception Helper Window
+SW,63527037457549,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527037473851,
+SW,63527037474930,User Interaction Capturer - ISLab
+SW,63527037487208,
+SW,63527037490574,reverse capacity human - Pesquisa do Google - Google Chrome
+SW,63527037502489,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037502512,User Interaction Capturer - ISLab
+SW,63527037504790,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527037555373,Task Switching
+SW,63527037555444,User Interaction Capturer - ISLab
+SW,63527037615363,User Interaction Capturer - ISLab
+SW,63527037616731,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527037618692,Converting string to double in C# - Stack Overflow - Google Chrome
+SW,63527037658663,
+SW,63527037659758,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527037661692,Task Switching
+SW,63527037661764,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037663549,
+SW,63527037664756,User Interaction Capturer - ISLab
+SW,63527037688443,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037715145,Task Switching
+SW,63527037715207,User Interaction Capturer - ISLab
+SW,63527037739235,Task Switching
+SW,63527037739310,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037740772,
+SW,63527037742548,User Interaction Capturer - ISLab
+SW,63527037756149,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037817495,Task Switching
+SW,63527037817552,User Interaction Capturer - ISLab
+SW,63527037820370,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527037939401,
+SW,63527037940502,User Interaction Capturer - ISLab
+SW,63527037941757,C:\Windows\System32\java.exe
+SW,63527037943562,c# - Double.TryParse or Convert.ToDouble - which is faster and safer? - Stack Overflow - Google Chrome
+SW,63527037946075,
+SW,63527037947492,Document1 - Word
+SW,63527037961213,Task Switching
+SW,63527037961289,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527037987507,Task Switching
+SW,63527037987578,Document1 - Word
+SW,63527038107904,Google Tradutor - Google Chrome
+SW,63527038111058,Task Switching
+SW,63527038111116,Document1 - Word
+SW,63527038114533,Task Switching
+SW,63527038114603,Google Tradutor - Google Chrome
+SW,63527038149139,Task Switching
+SW,63527038149213,Document1 - Word
+SW,63527038168671,
+SW,63527038169498,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527038184717,HAIS14.pdf
+SW,63527038184749,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527038184760,HAIS14.pdf
+SW,63527038198520,C:\Windows\System32\java.exe
+SW,63527038200190,User Interaction Capturer - ISLab
+SW,63527038205807,Google Tradutor - Google Chrome
+SW,63527038338940,
+SW,63527038339984,C:\Windows\System32\java.exe
+SW,63527038342935,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527038357329,
+SW,63527038359704,Release
+SW,63527038365681,1391429337511_test - Excel
+SW,63527038381705,
+SW,63527038385168,Release
+SW,63527038406384,1391429337511_test - Excel
+SW,63527038407044,Excel
+SW,63527038413084,1391429337511_test - Excel
+SW,63527038414384,FatigueClassifierServer
+SW,63527038417869,1391429337511_test - Excel
+SW,63527038418485,Excel
+SW,63527038426879,1391429337511_test - Excel
+SW,63527038428554,FatigueClassifierServer
+SW,63527038435882,User Interaction Capturer - ISLab
+SW,63527038438533,C:\Windows\System32\java.exe
+SW,63527038439904,FatigueClassifierServer
+SW,63527038468577,1391429337511_test - Excel
+SW,63527038469279,Excel
+SW,63527038473041,
+SW,63527038476560,1391441144835_test - Excel
+SW,63527038476740,Insert Paste
+SW,63527038478388,1391441144835_test - Excel
+SW,63527038489362,Microsoft Excel
+SW,63527038490970,1391441144835_test - Excel
+SW,63527038493396,Microsoft Excel
+SW,63527038494539,1391441144835_test - Excel
+SW,63527038494749,Microsoft Excel
+SW,63527038499399,1391441144835_test - Excel
+SW,63527038499509,1391429337511_test - Excel
+SW,63527038503339,Release
+SW,63527038506618,Opening - Excel
+SW,63527038506951,Excel
+SW,63527038520222,Release
+SW,63527038522566,1391438481970_test - Excel
+SW,63527038523163,Excel
+SW,63527038531670,
+SW,63527038532836,
+SW,63527038533286,
+SW,63527038534182,1391441144835_test - Excel
+SW,63527038534414,Insert Paste
+SW,63527038535553,1391441144835_test - Excel
+SW,63527038543891,Microsoft Excel
+SW,63527038545304,1391441144835_test - Excel
+SW,63527038546764,Microsoft Excel
+SW,63527038547945,1391441144835_test - Excel
+SW,63527038548147,Microsoft Excel
+SW,63527038549991,1391441144835_test - Excel
+SW,63527038550382,1391438481970_test - Excel
+SW,63527038551937,Release
+SW,63527038561405,User Interaction Capturer - ISLab
+SW,63527038565821,C:\Windows\System32\java.exe
+SW,63527038570101,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527038603524,
+SW,63527038604711,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527038606748,
+SW,63527038607857,Document1 - Word
+SW,63527038614382,
+SW,63527038615038,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527038619940,HAIS14.pdf
+SW,63527038619966,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527038619975,HAIS14.pdf
+SW,63527039584926,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527039587156,User Interaction Capturer - ISLab
+SW,63527039588638,C:\Windows\System32\java.exe
+SW,63527039613424,User Interaction Capturer - ISLab
+SW,63527039613852,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527039615179,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527039621342,
+SW,63527039622672,User Interaction Capturer - ISLab
+SW,63527039624634,C:\Windows\System32\java.exe
+SW,63527039628375,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527039720605,
+SW,63527039721759,HAIS14.pdf
+SW,63527039747302,
+SW,63527039747416,new_version--jcm [Compatibility Mode] - Word
+SW,63527039762616,
+SW,63527039766416,review_cc.pdf - Adobe Reader
+SW,63527039810343,
+SW,63527039811407,HAIS14.pdf
+SW,63527039835645,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527039851292,User Interaction Capturer - ISLab
+SW,63527039856930,User Interaction Capturer - ISLab
+SW,63527039856933,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527039858070,C:\Windows\System32\java.exe
+SW,63527039874073,
+SW,63527039878695,latex
+SW,63527039920692,
+SW,63527039920820,Processed_data
+SW,63527039921066,review_cc.pdf - Adobe Reader
+SW,63527039921514,report_all_four_distribution_detailed.pdf - Adobe Reader
+SW,63527040051149,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527040056700,C:\Windows\System32\java.exe
+SW,63527040068901,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527040206415,
+SW,63527040209204,Release
+SW,63527040214016,Replace or Skip Files
+SW,63527040214540,bin
+SW,63527040218584, A comprimir Release - Copy.zip
+SW,63527040225455,bin
+SW,63527040244234,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527040299745,
+SW,63527040312675,HAIS14.pdf
+SW,63527040327751,
+SW,63527040328893,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040337153,
+SW,63527040338538,report.pdf - Adobe Reader
+SW,63527040364016,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527040365988,
+SW,63527040366547,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040388465,Todo o correio - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527040417580,Task Switching
+SW,63527040417646,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040463042,HAIS14.pdf
+SW,63527040463081,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040463091,HAIS14.pdf
+SW,63527040483065,
+SW,63527040484435,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040513545,Google Tradutor - Google Chrome
+SW,63527040602024,Task Switching
+SW,63527040602084,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040614552,HAIS14.pdf
+SW,63527040614585,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040614597,HAIS14.pdf
+SW,63527040635490,Task Switching
+SW,63527040635558,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040699501,HAIS14.pdf
+SW,63527040699530,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527040699538,HAIS14.pdf
+SW,63527040723807,C:\Windows\System32\java.exe
+SW,63527040736071,Facebook - Google Chrome
+SW,63527040742951,User Interaction Capturer - ISLab
+SW,63527040751016,Facebook - Google Chrome
+SW,63527040918326,
+SW,63527040921016,Document1 - Word
+SW,63527040923367,
+SW,63527040924223,HAIS14.pdf
+SW,63527040948782,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527040956662,C:\Windows\System32\java.exe
+SW,63527041090941,User Interaction Capturer - ISLab
+SW,63527041096213,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527041198429,
+SW,63527041198542,new_version--jcm [Compatibility Mode] - Word
+SW,63527041237978,Task Switching
+SW,63527041238041,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527041244351,Task Switching
+SW,63527041244414,new_version--jcm [Compatibility Mode] - Word
+SW,63527041252733,
+SW,63527041254863,Document1 - Word
+SW,63527041258836,Task Switching
+SW,63527041258905,new_version--jcm [Compatibility Mode] - Word
+SW,63527041273382,Task Switching
+SW,63527041273447,Document1 - Word
+SW,63527041306426,Google Tradutor - Google Chrome
+SW,63527041315958,Task Switching
+SW,63527041316016,Document1 - Word
+SW,63527041345610,Task Switching
+SW,63527041345684,Google Tradutor - Google Chrome
+SW,63527041355902,Task Switching
+SW,63527041355974,Document1 - Word
+SW,63527041360741,
+SW,63527041361677,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527041372362,HAIS14.pdf
+SW,63527041372387,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527041372398,HAIS14.pdf
+SW,63527041402859,
+SW,63527041405005,report.pdf - Adobe Reader
+SW,63527041408660,
+SW,63527041410540,review_cc.pdf - Adobe Reader
+SW,63527041470071,Adobe Reader
+SW,63527041471204,review_cc.pdf - Adobe Reader
+SW,63527041471517,Task Switching
+SW,63527041471593,report.pdf - Adobe Reader
+SW,63527041472897,Google Tradutor - Google Chrome
+SW,63527041475419,
+SW,63527041476787,Document1 - Word
+SW,63527041488154,
+SW,63527041490264,Document1 - Word
+SW,63527041491828,
+SW,63527041492700,Document1 - Word
+SW,63527041505941,Task Switching
+SW,63527041506002,Google Tradutor - Google Chrome
+SW,63527041508168,Task Switching
+SW,63527041508520,report.pdf - Adobe Reader
+SW,63527041509449,Task Switching
+SW,63527041510029,review_cc.pdf - Adobe Reader
+SW,63527041511387,Task Switching
+SW,63527041511456,report.pdf - Adobe Reader
+SW,63527041512709,Task Switching
+SW,63527041513503,Document1 - Word
+SW,63527041526178,Task Switching
+SW,63527041526247,report.pdf - Adobe Reader
+SW,63527041527810,Google Tradutor - Google Chrome
+SW,63527041532672,Task Switching
+SW,63527041532739,report.pdf - Adobe Reader
+SW,63527041534251,Google Tradutor - Google Chrome
+SW,63527041536098,
+SW,63527041537676,Document1 - Word
+SW,63527041546431,
+SW,63527041547370,Document1 - Word
+SW,63527041564191,Task Switching
+SW,63527041564251,Google Tradutor - Google Chrome
+SW,63527041568838,Task Switching
+SW,63527041568895,Document1 - Word
+SW,63527041577732,Task Switching
+SW,63527041577782,Google Tradutor - Google Chrome
+SW,63527041579236,Task Switching
+SW,63527041579339,Document1 - Word
+SW,63527041587588,Task Switching
+SW,63527041587641,Google Tradutor - Google Chrome
+SW,63527041589600,Task Switching
+SW,63527041589669,Document1 - Word
+SW,63527041592506,Task Switching
+SW,63527041592565,Google Tradutor - Google Chrome
+SW,63527041596814,Task Switching
+SW,63527041596908,Document1 - Word
+SW,63527041599823,Task Switching
+SW,63527041599845,Google Tradutor - Google Chrome
+SW,63527041604531,Task Switching
+SW,63527041604595,Document1 - Word
+SW,63527041622324,
+SW,63527041623626,Document1 - Word
+SW,63527041639119,Task Switching
+SW,63527041639144,Google Tradutor - Google Chrome
+SW,63527041642161,Task Switching
+SW,63527041642226,Document1 - Word
+SW,63527041648364,Task Switching
+SW,63527041648429,Google Tradutor - Google Chrome
+SW,63527041650242,Task Switching
+SW,63527041650314,Document1 - Word
+SW,63527041653741,Task Switching
+SW,63527041653804,Google Tradutor - Google Chrome
+SW,63527041655585,Task Switching
+SW,63527041655664,Document1 - Word
+SW,63527041662545,Task Switching
+SW,63527041662590,Google Tradutor - Google Chrome
+SW,63527041664277,Task Switching
+SW,63527041664339,Document1 - Word
+SW,63527041707861,
+SW,63527041709024,Document1 - Word
+SW,63527041718277,
+SW,63527041719144,Document1 - Word
+SW,63527041720252,
+SW,63527041721435,Document1 - Word
+SW,63527041735472,
+SW,63527041736496,Document1 - Word
+SW,63527041739490,
+SW,63527041740768,Document1 - Word
+SW,63527041773153,Task Switching
+SW,63527041773234,Google Tradutor - Google Chrome
+SW,63527041784419,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527041784576,
+SW,63527041784586,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527041784690,Exception Helper Window
+SW,63527041784836,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527041784864,Exception Helper Window
+SW,63527041790755,Task Switching
+SW,63527041796904,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527041801964,
+SW,63527041802649,
+SW,63527041803071,User Interaction Capturer - ISLab
+SW,63527041804982,C:\Windows\System32\java.exe
+SW,63527041806757,
+SW,63527041810672,Public
+SW,63527041842543,Opening - Excel
+SW,63527041842878,Excel
+SW,63527041845299,Excel
+SW,63527041848915,1391442827397_test - Excel
+SW,63527041861227,1391441144835_test - Excel
+SW,63527041895408,User Interaction Capturer - ISLab
+SW,63527041896554,1391442827397_test - Excel
+SW,63527041901710,1391441144835_test - Excel
+SW,63527041903183,Microsoft Excel
+SW,63527041905035,1391441144835_test - Excel
+SW,63527041905825,Save As
+SW,63527041908861,Confirm Save As
+SW,63527041910182,Save As
+SW,63527041910276,1391441144835_test - Excel
+SW,63527041910643,Microsoft Excel
+SW,63527041911756,1391441144835_test - Excel
+SW,63527041911977,User Interaction Capturer - ISLab
+SW,63527041914158,Release
+SW,63527041918182,Google Tradutor - Google Chrome
+SW,63527041922197,Task Switching
+SW,63527041922250,Release
+SW,63527041942177,Eclipse
+SW,63527041947989,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527041990723,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042066318,
+SW,63527042067638,Java - FatigueClassifierServer/src/util/MathUtil.java - Eclipse
+SW,63527042105749,rounding double to two decimal places - Google Chrome
+SW,63527042107974,Task Switching
+SW,63527042107983,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527042108819,Task Switching
+SW,63527042108956,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527042142154,Export
+SW,63527042147689,Runnable JAR File Export
+SW,63527042148893,Runnable JAR File Export
+SW,63527042149097,Confirm Replace
+SW,63527042151069,Runnable JAR File Export
+SW,63527042156031,Runnable JAR File Export
+SW,63527042156983,Runnable JAR File Export
+SW,63527042157068,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042180561,Export
+SW,63527042184505,Runnable JAR File Export
+SW,63527042185761,Runnable JAR File Export
+SW,63527042185921,Confirm Replace
+SW,63527042186836,Runnable JAR File Export
+SW,63527042190265,Runnable JAR File Export
+SW,63527042191547,Runnable JAR File Export
+SW,63527042191677,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042202074,Confirm Exit
+SW,63527042203331,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042204843,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527042204956,
+SW,63527042205003,Progress Information
+SW,63527042206325,
+SW,63527042206688,
+SW,63527042212886,
+SW,63527042214648,Release
+SW,63527042215861,User Interaction Capturer - ISLab
+SW,63527042221749,Release
+SW,63527042222461,100% complete
+SW,63527042223682,Release
+SW,63527042226115,User Interaction Capturer - ISLab
+SW,63527042226975,C:\Windows\System32\java.exe
+SW,63527042230492,Release
+SW,63527042235534,Opening - Excel
+SW,63527042235842,Excel
+SW,63527042244026,Release
+SW,63527042245892,Opening - Excel
+SW,63527042246215,Excel
+SW,63527042258100,Release
+SW,63527042258265,1391441144835_test - Excel
+SW,63527042258908,Excel
+SW,63527042263139,Task Switching
+SW,63527042263214,1391441144835_test - Excel
+SW,63527042269286,1391445007792_test - Excel
+SW,63527042271103,1391441144835_test - Excel
+SW,63527042273059,Microsoft Excel
+SW,63527042274202,1391441144835_test - Excel
+SW,63527042274962,Save As
+SW,63527042277761,Confirm Save As
+SW,63527042278676,Save As
+SW,63527042278801,1391441144835_test - Excel
+SW,63527042279138,Microsoft Excel
+SW,63527042280073,1391441144835_test - Excel
+SW,63527042280239,Release
+SW,63527042325444,User Interaction Capturer - ISLab
+SW,63527042329700,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527042340189,
+SW,63527042342350,Document1 - Word
+SW,63527042344582,Task Switching
+SW,63527042345362,User Interaction Capturer - ISLab
+SW,63527042346116,Task Switching
+SW,63527042347061,Player RFM - Google Chrome
+SW,63527042348961,Player RFM - Google Chrome
+SW,63527042348980,User Interaction Capturer - ISLab
+SW,63527042375151,Task Switching
+SW,63527042375209,User Interaction Capturer - ISLab
+SW,63527042376603,Task Switching
+SW,63527042376660,Google Tradutor - Google Chrome
+SW,63527042392516,Task Switching
+SW,63527042392587,User Interaction Capturer - ISLab
+SW,63527042394748,
+SW,63527042396350,Document1 - Word
+SW,63527042413363,Task Switching
+SW,63527042413434,User Interaction Capturer - ISLab
+SW,63527042414610,Task Switching
+SW,63527042415225,Google Tradutor - Google Chrome
+SW,63527042446943,Task Switching
+SW,63527042447007,User Interaction Capturer - ISLab
+SW,63527042447946,Task Switching
+SW,63527042448422,Document1 - Word
+SW,63527042461355,Task Switching
+SW,63527042461416,User Interaction Capturer - ISLab
+SW,63527042462878,Task Switching
+SW,63527042463524,Google Tradutor - Google Chrome
+SW,63527042494031,Task Switching
+SW,63527042494106,User Interaction Capturer - ISLab
+SW,63527042495875,
+SW,63527042497398,Document1 - Word
+SW,63527042533539,
+SW,63527042534627,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527042543879,
+SW,63527042544499,
+SW,63527042544506,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527042545630,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527042562324,
+SW,63527042562572,
+SW,63527042570235,Eclipse
+SW,63527042570256,
+SW,63527042574812,Release
+SW,63527042585833,
+SW,63527042586002,
+SW,63527042588492,File Explorer
+SW,63527042596635,
+SW,63527042599195,Release
+SW,63527042600319,100% complete
+SW,63527042602146,Release
+SW,63527042606345,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527042609345,
+SW,63527042611366,User Interaction Capturer - ISLab
+SW,63527042612411,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042615115,C:\Windows\System32\java.exe
+SW,63527042616406,
+SW,63527042616455,
+SW,63527042622184,C:\Windows\System32\java.exe
+SW,63527042622930,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042624273,C:\Windows\System32\java.exe
+SW,63527042627306,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042629925,User Interaction Capturer - ISLab
+SW,63527042631758,C:\Windows\System32\java.exe
+SW,63527042632364,User Interaction Capturer - ISLab
+SW,63527042633920,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042680313,Export
+SW,63527042685107,Runnable JAR File Export
+SW,63527042686928,Runnable JAR File Export
+SW,63527042687111,Confirm Replace
+SW,63527042687892,Runnable JAR File Export
+SW,63527042691658,Runnable JAR File Export
+SW,63527042693036,Runnable JAR File Export
+SW,63527042693136,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042699471,Confirm Exit
+SW,63527042700691,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527042702107,
+SW,63527042702363,
+SW,63527042702495,Progress Information
+SW,63527042706671,
+SW,63527042708555,Release
+SW,63527042709645,100% complete
+SW,63527042710984,Release
+SW,63527042716977,User Interaction Capturer - ISLab
+SW,63527042718330,C:\Windows\System32\java.exe
+SW,63527042718820,User Interaction Capturer - ISLab
+SW,63527042721940,C:\Windows\System32\java.exe
+SW,63527042724914,Release
+SW,63527042728353,Google Tradutor - Google Chrome
+SW,63527042788978,
+SW,63527042790477,Document1 - Word
+SW,63527042816722,
+SW,63527042818514,Document1 - Word
+SW,63527042840797,
+SW,63527042841559,Document1 - Word
+SW,63527042931748,
+SW,63527042933331,new_version--jcm [Compatibility Mode] - Word
+SW,63527042935391,
+SW,63527042936723,SampleApplication
+SW,63527042947322,new_version--jcm [Compatibility Mode] - Word
+SW,63527042947336,SampleApplication
+SW,63527042947432,new_version--jcm [Compatibility Mode] - Word
+SW,63527042948265,
+SW,63527042949592,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527042958113,
+SW,63527042959724,Release
+SW,63527042960832,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527042975762,Eclipse
+SW,63527043010750,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527043019838,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527043024090,
+SW,63527043025723,User Interaction Capturer - ISLab
+SW,63527043026310,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527043029294,C:\Windows\System32\java.exe
+SW,63527043029987,User Interaction Capturer - ISLab
+SW,63527043031396,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043077879,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043085072,"Universidade" (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043099203,"Universidade" - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043099225,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043146094,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043147238,User Interaction Capturer - ISLab
+SW,63527043148890,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043163536,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043168237,Facebook - Google Chrome
+SW,63527043176478,
+SW,63527043179491,new_version--jcm [Compatibility Mode] - Word
+SW,63527043198963,Task Switching
+SW,63527043199029,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043199803,Task Switching
+SW,63527043200328,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043200880,Task Switching
+SW,63527043202512,Document1 - Word
+SW,63527043204287,
+SW,63527043204938,Document1 - Word
+SW,63527043213889,Task Switching
+SW,63527043213975,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043214775,Task Switching
+SW,63527043215476,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043234717,Task Switching
+SW,63527043234786,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043235916,Task Switching
+SW,63527043235952,Google Tradutor - Google Chrome
+SW,63527043248491,Task Switching
+SW,63527043248562,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043249319,Task Switching
+SW,63527043249385,Google Tradutor - Google Chrome
+SW,63527043296891,Task Switching
+SW,63527043297096,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043298875,
+SW,63527043301800,Document1 - Word
+SW,63527043304133,User Interaction Capturer - ISLab
+SW,63527043305048,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043316317,Google Tradutor - Google Chrome
+SW,63527043318231,Task Switching
+SW,63527043318293,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043325758,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527043330809,Task Switching
+SW,63527043330876,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043332469,Google Tradutor - Google Chrome
+SW,63527043345380,
+SW,63527043346670,Document1 - Word
+SW,63527043381747,
+SW,63527043382975,Document1 - Word
+SW,63527043389538,
+SW,63527043390576,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527043402830,HAIS14.pdf
+SW,63527043402868,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527043402878,HAIS14.pdf
+SW,63527043410094,
+SW,63527043410200,HAIS14.pdf
+SW,63527043412869,User Interaction Capturer - ISLab
+SW,63527043414494,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043429031,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043475767,
+SW,63527043478374,Document1 - Word
+SW,63527043544409,
+SW,63527043546222,Document1 - Word
+SW,63527043643033,
+SW,63527043644468,Document1 - Word
+SW,63527043651848,
+SW,63527043652724,Document1 - Word
+SW,63527043653498,
+SW,63527043654202,Document1 - Word
+SW,63527043655167,
+SW,63527043656085,Document1 - Word
+SW,63527043661218,
+SW,63527043661568,Document1 - Word
+SW,63527043662845,
+SW,63527043663801,Document1 - Word
+SW,63527043675501,Task Switching
+SW,63527043675565,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043696721,Task Switching
+SW,63527043696806,Document1 - Word
+SW,63527043711116,Task Switching
+SW,63527043711184,Google Tradutor - Google Chrome
+SW,63527043714792,Task Switching
+SW,63527043714856,Document1 - Word
+SW,63527043751138,Task Switching
+SW,63527043751205,Google Tradutor - Google Chrome
+SW,63527043752723,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043759915,Google Tradutor - Google Chrome
+SW,63527043791800,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043791823,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043794699,User Interaction Capturer - ISLab
+SW,63527043803036,
+SW,63527043804261,Document1 - Word
+SW,63527043856242,Task Switching
+SW,63527043856385,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043857504,Task Switching
+SW,63527043857565,Document1 - Word
+SW,63527043858838,Task Switching
+SW,63527043858913,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527043877185,Task Switching
+SW,63527043877261,Document1 - Word
+SW,63527043908703,
+SW,63527043909586,Document1 - Word
+SW,63527043926557,Task Switching
+SW,63527043926617,Google Tradutor - Google Chrome
+SW,63527043929130,User Interaction Capturer - ISLab
+SW,63527043930518,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043932636,Task Switching
+SW,63527043932708,User Interaction Capturer - ISLab
+SW,63527043934143,Google Tradutor - Google Chrome
+SW,63527043934789,Task Switching
+SW,63527043934849,User Interaction Capturer - ISLab
+SW,63527043936153,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527043940126,Task Switching
+SW,63527043940190,User Interaction Capturer - ISLab
+SW,63527043941673,Google Tradutor - Google Chrome
+SW,63527043992720,Task Switching
+SW,63527043992800,User Interaction Capturer - ISLab
+SW,63527044024424,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527044027250,
+SW,63527044028396,new_version--jcm [Compatibility Mode] - Word
+SW,63527044031730,Task Switching
+SW,63527044031795,Facebook - Google Chrome
+SW,63527044039876,
+SW,63527044042091,Document1 - Word
+SW,63527044045078,Task Switching
+SW,63527044045158,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527044046718,Task Switching
+SW,63527044046791,Document1 - Word
+SW,63527044056067,Task Switching
+SW,63527044056127,Google Tradutor - Google Chrome
+SW,63527044077543,Task Switching
+SW,63527044077602,Document1 - Word
+SW,63527044102402,Task Switching
+SW,63527044102462,Google Tradutor - Google Chrome
+SW,63527044105483,Task Switching
+SW,63527044105513,Document1 - Word
+SW,63527044141933,Task Switching
+SW,63527044141992,Google Tradutor - Google Chrome
+SW,63527044184855,Task Switching
+SW,63527044184922,Document1 - Word
+SW,63527044211238,
+SW,63527044212026,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044238248,HAIS14.pdf
+SW,63527044238281,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044238307,HAIS14.pdf
+SW,63527044260434,
+SW,63527044264017,review_cc.pdf - Adobe Reader
+SW,63527044280851,Adobe Reader
+SW,63527044281809,review_cc.pdf - Adobe Reader
+SW,63527044291960,
+SW,63527044294723,HAIS_14_DRAFT
+SW,63527044334817,E:\Workspace\GitHub\CAMCoF\InputReport\test_ULTIMO.arff • - Sublime Text (UNREGISTERED)
+SW,63527044353483,Task Switching
+SW,63527044354366,review_cc.pdf - Adobe Reader
+SW,63527044356222,Task Switching
+SW,63527044356289,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527044363304,
+SW,63527044364498,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044369921,Abrir ficheiro
+SW,63527044375400,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044384506,
+SW,63527044386257,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527044410913,
+SW,63527044413495,review_cc.pdf - Adobe Reader
+SW,63527044418816,Adobe Reader
+SW,63527044420087,review_cc.pdf - Adobe Reader
+SW,63527044432498,Task Switching
+SW,63527044432565,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044442256,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527044448663,
+SW,63527044449513,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527044469710,HAIS14.pdf
+SW,63527044469737,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044469748,HAIS14.pdf
+SW,63527044476332,Task Switching
+SW,63527044476410,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044528818,HAIS14.pdf
+SW,63527044528850,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044528860,HAIS14.pdf
+SW,63527044532047,Task Switching
+SW,63527044532119,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044535857,Erro
+SW,63527044537057,Document : E:/Dropbox/Articles/HAIS_14_DRAFT/bib.bib
+SW,63527044544209,HAIS14.pdf
+SW,63527044544240,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044544251,HAIS14.pdf
+SW,63527044546889,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044559904,
+SW,63527044564160,latex
+SW,63527044578564,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044595981,HAIS14.pdf
+SW,63527044596026,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044596046,HAIS14.pdf
+SW,63527044600969,Task Switching
+SW,63527044601039,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044602572,Task Switching
+SW,63527044602733,HAIS14.pdf
+SW,63527044615185,Task Switching
+SW,63527044615251,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044644148,HAIS14.pdf
+SW,63527044644183,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044644193,HAIS14.pdf
+SW,63527044647095,Task Switching
+SW,63527044647157,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044675486,HAIS14.pdf
+SW,63527044675519,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527044675529,HAIS14.pdf
+SW,63527044704949,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527044715973,Google Tradutor - Google Chrome
+SW,63527044833612,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527044977643,
+SW,63527044978694,HAIS14.pdf
+SW,63527044989378,Task Switching
+SW,63527044989447,(1) Facebook - Google Chrome
+SW,63527045057059,
+SW,63527045058084,HAIS14.pdf
+SW,63527045128129,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527045172604,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527045174895,
+SW,63527045176154,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527045183804,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527045188265,
+SW,63527045188275,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527045188387,Exception Helper Window
+SW,63527045188542,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527045188571,Exception Helper Window
+SW,63527045195737,UserInterfaceCapturer (Debugging) - Microsoft Visual Studio
+SW,63527045213770,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527045215847,
+SW,63527045216479,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527045216906,User Interaction Capturer - ISLab
+SW,63527045218416,C:\Windows\System32\java.exe
+SW,63527045219006,User Interaction Capturer - ISLab
+SW,63527045223113,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527045234145,
+SW,63527045234258,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045235816,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527045247956,
+SW,63527045248441,
+SW,63527045266105,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527045289713,Task Switching
+SW,63527045289803,Facebook - Google Chrome
+SW,63527045310583,cultureinfo.invariantculture c# error - Pesquisa do Google - Google Chrome
+SW,63527045310603,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527045410024,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045415279,abola.pt - Google Chrome
+SW,63527045575526,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045578671,Facebook - Google Chrome
+SW,63527045656836,User Interaction Capturer - ISLab
+SW,63527045658583,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045662879,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527045833876,User Interaction Capturer - ISLab
+SW,63527045834988,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045841573,User Interaction Capturer - ISLab
+SW,63527045844439,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045872619,User Interaction Capturer - ISLab
+SW,63527045876560,C:\Windows\System32\java.exe
+SW,63527045877082,User Interaction Capturer - ISLab
+SW,63527045878376,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527045881566,java - Round a double to 2 decimal places - Stack Overflow - Google Chrome
+SW,63527045949369,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527045949389,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046130979,User Interaction Capturer - ISLab
+SW,63527046132321,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527046134172,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046136275,Facebook - Google Chrome
+SW,63527046205817,User Interaction Capturer - ISLab
+SW,63527046206731,E:\Dropbox\Articles\review_article_DRAFT\latex\bib.bib - Sublime Text (UNREGISTERED)
+SW,63527046207363,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046212378,:.: Jornal Record :.: - Google Chrome
+SW,63527046363018,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046366202,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527046484498,User Interaction Capturer - ISLab
+SW,63527046488313,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046494328,Facebook - Google Chrome
+SW,63527046590863,User Interaction Capturer - ISLab
+SW,63527046594712,
+SW,63527046594889,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046598319,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527046609158,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527046654353,Task Switching
+SW,63527046654433,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527046666959,User Interaction Capturer - ISLab
+SW,63527046668456,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046678156,Task Switching
+SW,63527046678228,User Interaction Capturer - ISLab
+SW,63527046678825,Task Switching
+SW,63527046678859,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046680070,Facebook - Google Chrome
+SW,63527046680743,Facebook - Google Chrome
+SW,63527046680764,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046682061,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046684039,User Interaction Capturer - ISLab
+SW,63527046686175,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046687463,User Interaction Capturer - ISLab
+SW,63527046689312,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527046744712,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046746280,User Interaction Capturer - ISLab
+SW,63527046750163,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046752687,Facebook - Google Chrome
+SW,63527046850567,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046859726,User Interaction Capturer - ISLab
+SW,63527046861047,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527046862608,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527046873362,
+SW,63527046874448,User Interaction Capturer - ISLab
+SW,63527046876322,C:\Windows\System32\java.exe
+SW,63527046876870,User Interaction Capturer - ISLab
+SW,63527046878702,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527046880258,
+SW,63527046883815,Release
+SW,63527046889108,
+SW,63527046891832,Release
+SW,63527046903145,
+SW,63527046904535,Release
+SW,63527046937379,Opening - Excel
+SW,63527046937711,Excel
+SW,63527046950738,
+SW,63527046952960,Release
+SW,63527046954734,1391446233190_test - Excel
+SW,63527046955401,Excel
+SW,63527046959562,Task Switching
+SW,63527046959657,1391446233190_test - Excel
+SW,63527046962407,Microsoft Excel
+SW,63527046964320,1391446233190_test - Excel
+SW,63527046964746,1391441144835_test - Excel
+SW,63527046966022,Task Switching
+SW,63527046966085,Release
+SW,63527046967634,
+SW,63527046969448,FatigueClassifierServer
+SW,63527046970804,1391441144835_test - Excel
+SW,63527046971354,Excel
+SW,63527046975571,Task Switching
+SW,63527046975641,1391441144835_test - Excel
+SW,63527046980213,Task Switching
+SW,63527046980292,1391448420621_test - Excel
+SW,63527046982467,1391441144835_test - Excel
+SW,63527046983590,FatigueClassifierServer
+SW,63527046984689,1391441144835_test - Excel
+SW,63527046985286,Excel
+SW,63527046991659,Task Switching
+SW,63527046991741,1391441144835_test - Excel
+SW,63527046995052,Task Switching
+SW,63527046995153,1391449079188_test - Excel
+SW,63527046996669,1391441144835_test - Excel
+SW,63527046997861,FatigueClassifierServer
+SW,63527047002896,Excel
+SW,63527047008112,Task Switching
+SW,63527047008187,FatigueClassifierServer
+SW,63527047011079,
+SW,63527047012623,1391441144835_test - Excel
+SW,63527047014786,Task Switching
+SW,63527047014860,FatigueClassifierServer
+SW,63527047016189,1391441144835_test - Excel
+SW,63527047016778,Excel
+SW,63527047020355,1391441144835_test - Excel
+SW,63527047021054,Task Switching
+SW,63527047021138,FatigueClassifierServer
+SW,63527047023400,1391441144835_test - Excel
+SW,63527047023962,Excel
+SW,63527047029776,Task Switching
+SW,63527047029861,1391441144835_test - Excel
+SW,63527047036840,Task Switching
+SW,63527047036891,1391422283583_test - Excel
+SW,63527047037561,Task Switching
+SW,63527047038151,FatigueClassifierServer
+SW,63527047039377,1391422283583_test - Excel
+SW,63527047040006,Excel
+SW,63527047048286,Task Switching
+SW,63527047048363,1391422283583_test - Excel
+SW,63527047050554,Task Switching
+SW,63527047050656,1391422979943_test - Excel
+SW,63527047051993,1391422283583_test - Excel
+SW,63527047054565,Microsoft Excel
+SW,63527047057419,1391422283583_test - Excel
+SW,63527047057886,1391422979943_test - Excel
+SW,63527047059536,
+SW,63527047065800,1391441144835_test - Excel
+SW,63527047066458,Task Switching
+SW,63527047066528,FatigueClassifierServer
+SW,63527047068019,1391441144835_test - Excel
+SW,63527047068545,Excel
+SW,63527047073912,1391441144835_test - Excel
+SW,63527047089271,
+SW,63527047091324,1391441144835_test - Excel
+SW,63527047091439,Find and Replace
+SW,63527047101791,Microsoft Excel
+SW,63527047103297,1391441144835_test - Excel
+SW,63527047103331,Find and Replace
+SW,63527047103926,1391441144835_test - Excel
+SW,63527047108829,Find and Replace
+SW,63527047108887,1391441144835_test - Excel
+SW,63527047127505,Save As
+SW,63527047133191,1391441144835_test - Excel
+SW,63527047134163,Microsoft Excel
+SW,63527047143632,1391441144835_test - Excel
+SW,63527047201002,Microsoft Excel
+SW,63527047203769,1391441144835_test - Excel
+SW,63527047209284,
+SW,63527047211943,1391441144835_test - Excel
+SW,63527047232900,Microsoft Excel
+SW,63527047234175,1391441144835_test - Excel
+SW,63527047238095,Microsoft Excel
+SW,63527047239466,1391441144835_test - Excel
+SW,63527047244394,Convert Text to Columns Wizard - Step 1 of 3
+SW,63527047257789,1391441144835_test - Excel
+SW,63527047276803,
+SW,63527047278358,1391441144835_test - Excel
+SW,63527047297269,Chart Filtering
+SW,63527047297923,1391441144835_test - Excel
+SW,63527047308978,
+SW,63527047310899,1391441144835_test - Excel
+SW,63527047319652,
+SW,63527047321715,1391441144835_test - Excel
+SW,63527047321826,Information
+SW,63527047323027,1391441144835_test - Excel
+SW,63527047335384,Save As
+SW,63527047340377,1391441144835_test - Excel
+SW,63527047341546,Microsoft Excel
+SW,63527047343139,results - Excel
+SW,63527047357269,
+SW,63527047359401,results - Excel
+SW,63527047384969,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527047388299,User Interaction Capturer - ISLab
+SW,63527047391043,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527047393090,UserInterfaceCapturer (Running) - Microsoft Visual Studio
+SW,63527047419002,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527047434361,UserInterfaceCapturer - Microsoft Visual Studio
+SW,63527047446609,
+SW,63527047447637,User Interaction Capturer - ISLab
+SW,63527047448977,C:\Windows\System32\java.exe
+SW,63527047451516,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527047454018,Run As
+SW,63527047454095,Task Switching
+SW,63527047454126,C:\Windows\System32\java.exe
+SW,63527047457587,Task Switching
+SW,63527047457618,Run As
+SW,63527047459193,User Interaction Capturer - ISLab
+SW,63527047460938,Run As
+SW,63527047463197,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527047468235,User Interaction Capturer - ISLab
+SW,63527047469140,C:\Windows\System32\java.exe
+SW,63527047469707,User Interaction Capturer - ISLab
+SW,63527047470945,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527047473234,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527047478132,
+SW,63527047479516,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527047480530,
+SW,63527047482458,HAIS_14_DRAFT
+SW,63527047495062, A comprimir
+SW,63527047496475,Articles
+SW,63527047500426,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527047522425,Open
+SW,63527047526644,HAIS 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527047531114,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527047532664,User Interaction Capturer - ISLab
+SW,63527047535176,results - Excel
+SW,63527047537514,Java - FatigueClassifierServer/src/Monitor.java - Eclipse
+SW,63527047564455,Delete
+SW,63527047567766,Java - FatigueClassifierServer/src/util/FileUtil.java - Eclipse
+SW,63527047579504,Task Switching
+SW,63527047579525,results - Excel
+SW,63527047586476,
+SW,63527047588291,results - Excel
+SW,63527047588401,Microsoft Excel
+SW,63527047590393,results - Excel
+SW,63527047592204,Java - FatigueClassifierServer/src/machineLearning/classifier/FatigueClassifier.java - Eclipse
+SW,63527047596267,
+SW,63527047598962,results - Excel
+SW,63527047599062,Microsoft Excel
+SW,63527047601842,results - Excel
+SW,63527047607487,
+SW,63527047615196,results - Excel
+SW,63527047627887,
+SW,63527047629823,results - Excel
+SW,63527047631054,
+SW,63527047632360,results - Excel
+SW,63527047634241,
+SW,63527047636239,results - Excel
+SW,63527047637273,
+SW,63527047638425,results - Excel
+SW,63527047639428,
+SW,63527047640400,results - Excel
+SW,63527047641394,
+SW,63527047642472,results - Excel
+SW,63527047643725,
+SW,63527047644673,results - Excel
+SW,63527047645883,
+SW,63527047647375,results - Excel
+SW,63527047649029,
+SW,63527047650816,results - Excel
+SW,63527047653833,
+SW,63527047655115,results - Excel
+SW,63527047658265,
+SW,63527047659179,results - Excel
+SW,63527047679782,
+SW,63527047681156,results - Excel
+SW,63527047681263,Find and Replace
+SW,63527047686769,Microsoft Excel
+SW,63527047687931,results - Excel
+SW,63527047687973,Find and Replace
+SW,63527047688939,results - Excel
+SW,6352704769615

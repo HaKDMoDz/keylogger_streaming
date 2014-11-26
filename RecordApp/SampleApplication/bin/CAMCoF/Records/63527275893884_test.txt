@@ -1,0 +1,572 @@
+# user: test #
+SW,63527275945988,Adobe Reader Updater
+SW,63527275976814,
+SW,63527276005219,TexMaker
+SW,63527276006551,Texmaker
+SW,63527276026427,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527276181426,Texmaker
+SW,63527276194142,Texmaker : pdf preview
+SW,63527276216077,
+SW,63527276964878,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527276969730,File Explorer
+SW,63527276996885,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527277025790,This PC
+SW,63527277058225,
+SW,63527277058311,6
+SW,63527277059957,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277161532,
+SW,63527277162368,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527277187859,Task Switching
+SW,63527277187915,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277189989,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527277191469,6
+SW,63527277197033,
+SW,63527277197133,20
+SW,63527277197956,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277251764,20
+SW,63527277261852,
+SW,63527277261947,adriana
+SW,63527277262513,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277318462,adriana
+SW,63527277319337,Task Switching
+SW,63527277319387,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527277319822,Task Switching
+SW,63527277319871,adriana
+SW,63527277324521,
+SW,63527277324616,angelo
+SW,63527277325262,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277361694,angelo
+SW,63527277365791,
+SW,63527277365891,Champion
+SW,63527277366502,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277446372,Champion
+SW,63527277453904,
+SW,63527277453999,edp
+SW,63527277454632,report1.pdf - Adobe Reader
+SW,63527277459816,edp
+SW,63527277498472,Progress
+SW,63527277498654,JPAB
+SW,63527277504804,
+SW,63527277505638,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527277519251,Abrir ficheiro
+SW,63527277539194,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527277543760,Erro
+SW,63527277545039,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_all_four_distribution_detailed.Rnw
+SW,63527277581760,Task Switching
+SW,63527277581818,JPAB
+SW,63527277618827,
+SW,63527277619708,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_all_four_distribution_detailed.Rnw
+SW,63527277621472,Abrir ficheiro
+SW,63527277629434,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_all_four_distribution_detailed.Rnw
+SW,63527277666221,Task Switching
+SW,63527277666268,Tiago_2_UNCHECKED
+SW,63527277693995,
+SW,63527277694916,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_all_four_distribution_detailed.Rnw
+SW,63527277707698,Abrir ficheiro
+SW,63527277730012,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_all_four_distribution_detailed.Rnw
+SW,63527277744922,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527277785023,Task Switching
+SW,63527277785077,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527277786144,Task Switching
+SW,63527277786192,Facebook - Google Chrome
+SW,63527277815169,
+SW,63527277816468,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527277817119,Task Switching
+SW,63527277817167,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527277886418,
+SW,63527277887964,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527277891398,HAIS14.pdf
+SW,63527277891439,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527277891452,report_individual_four_distribution.pdf
+SW,63527277902833,Tiago_2_UNCHECKED
+SW,63527277905164,
+SW,63527277905254,Tiago_2_UNCHECKED
+SW,63527277905762,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527277953424,Facebook - Google Chrome
+SW,63527277954689,Tiago_2_UNCHECKED
+SW,63527277969656,
+SW,63527277970138,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527277972984,Abrir ficheiro
+SW,63527277979653,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527278004416,Facebook - Google Chrome
+SW,63527278051113,
+SW,63527278053809,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527278055639,Task Switching
+SW,63527278055656,:.: Jornal Record :.: - Google Chrome
+SW,63527278064464,report_individual_four_distribution.pdf
+SW,63527278071487,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527278073184,
+SW,63527278074257,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527278109640,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527278111481,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527278115873,Abrir ficheiro
+SW,63527278122574,Document : E:/Dropbox/Records/Processed_data/temp/Tiago_2_UNCHECKED/report_individual_four_distribution.Rnw
+SW,63527278124719,report_individual_four_distribution.pdf
+SW,63527278125801,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_individual_four_distribution.Rnw
+SW,63527278141616,JPAB
+SW,63527278151553,Opening - Excel
+SW,63527278151831,Excel
+SW,63527278217100,
+SW,63527278224245,results4 - Excel
+SW,63527278233586,Task Switching
+SW,63527278233660,Data (E:)
+SW,63527278234410,Task Switching
+SW,63527278234463,results4 - Excel
+SW,63527278267312,
+SW,63527278272941,results4 - Excel
+SW,63527278296593,Task Switching
+SW,63527278296648,Data (E:)
+SW,63527278298206,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278299471,Task Switching
+SW,63527278299506,Data (E:)
+SW,63527278549842,Task Switching
+SW,63527278549889,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278551533,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_individual_four_distribution.Rnw
+SW,63527278554797,Data (E:)
+SW,63527278562114,
+SW,63527278562304,Jump List
+SW,63527278565265,File Explorer
+SW,63527278571805,
+SW,63527278571917,JPAB
+SW,63527278572489,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527278615877,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278645473,Task Switching
+SW,63527278646415,"Senado" (1) - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278650422,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527278654887,Task Switching
+SW,63527278654934,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527278668022,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278669276,
+SW,63527278670873,JPAB
+SW,63527278685093,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_individual_four_distribution.Rnw
+SW,63527278687875,Abrir ficheiro
+SW,63527278695405,Document : E:/Dropbox/Records/Processed_data/temp/JPAB/report_individual_four_distribution.Rnw
+SW,63527278698509,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278700470,results4 - Excel
+SW,63527278770287,
+SW,63527278773436,results4 - Excel
+SW,63527278790991,Microsoft Excel
+SW,63527278792187,results4 - Excel
+SW,63527278792437,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527278794573,
+SW,63527278797494,Document : E:/Dropbox/Records/Processed_data/temp/daniel/report_individual_four_distribution.Rnw
+SW,63527280364956,report_individual_four_distribution.pdf
+SW,63527280365035,Document : E:/Dropbox/Records/Processed_data/temp/daniel/report_individual_four_distribution.Rnw
+SW,63527280365046,report_individual_four_distribution.pdf
+SW,63527280397710,
+SW,63527280399518,daniel
+SW,63527280401135,
+SW,63527280401236,daniel
+SW,63527280401803,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527280404094,daniel
+SW,63527280412521,
+SW,63527280413158,Document : E:/Dropbox/Records/Processed_data/temp/daniel/report_individual_four_distribution.Rnw
+SW,63527280416361,Abrir ficheiro
+SW,63527280426387,Document : E:/Dropbox/Records/Processed_data/temp/daniel/report_individual_four_distribution.Rnw
+SW,63527280460598,
+SW,63527280462030,jaime
+SW,63527280463295,
+SW,63527280463400,jaime
+SW,63527280463928,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527280501597,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527280511198,
+SW,63527280513509,jaime
+SW,63527280532697,
+SW,63527280533461,Document : E:/Dropbox/Records/Processed_data/temp/jaime/report_individual_four_distribution.Rnw
+SW,63527280535561,Abrir ficheiro
+SW,63527280543284,Document : E:/Dropbox/Records/Processed_data/temp/jaime/report_individual_four_distribution.Rnw
+SW,63527280554659,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527280566427,
+SW,63527280567508,Document : E:/Dropbox/Records/Processed_data/data/xica/report_individual_four_distribution.Rnw
+SW,63527280593827,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527280598846,Task Switching
+SW,63527280598917,Document : E:/Dropbox/Records/Processed_data/data/xica/report_individual_four_distribution.Rnw
+SW,63527280620495,
+SW,63527280621731,Data (E:)
+SW,63527280623489,Opening - Excel
+SW,63527280623770,Excel
+SW,63527280669704,
+SW,63527280673703,results3 - Excel
+SW,63527280722766,Task Switching
+SW,63527280722843,Data (E:)
+SW,63527280723399,Task Switching
+SW,63527280723452,results3 - Excel
+SW,63527281319776,
+SW,63527281321394,results3 - Excel
+SW,63527281371791,
+SW,63527281373314,xica
+SW,63527281374711,
+SW,63527281374823,xica
+SW,63527281374976,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527281375228,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527281408198,results3 - Excel
+SW,63527281549672,report_individual_four_distribution.pdf
+SW,63527281562414,
+SW,63527281565473,Data (E:)
+SW,63527281566560,results3 - Excel
+SW,63527281567065,Excel
+SW,63527281583345,
+SW,63527281585345,results3 - Excel
+SW,63527281589573,
+SW,63527281591160,results2 - Excel
+SW,63527281611418,Task Switching
+SW,63527281611475,results3 - Excel
+SW,63527281648945,
+SW,63527281667293,results3 - Excel
+SW,63527281736095,
+SW,63527281751110,results3 - Excel
+SW,63527281754382,report_individual_four_distribution.pdf
+SW,63527281783033,
+SW,63527281785561,xica
+SW,63527281792105,
+SW,63527281793335,Data (E:)
+SW,63527281794765,results3 - Excel
+SW,63527281795639,Excel
+SW,63527281833626,
+SW,63527281835800,results3 - Excel
+SW,63527281839494,Task Switching
+SW,63527281839579,results_andre - Excel
+SW,63527281842158,Task Switching
+SW,63527281842233,results3 - Excel
+SW,63527281852410,Task Switching
+SW,63527281852466,results_andre - Excel
+SW,63527281863843,Task Switching
+SW,63527281863921,results3 - Excel
+SW,63527281867300,Task Switching
+SW,63527281867389,results_andre - Excel
+SW,63527281868657,Task Switching
+SW,63527281868737,results3 - Excel
+SW,63527281909294,Task Switching
+SW,63527281909376,results_andre - Excel
+SW,63527281916069,Task Switching
+SW,63527281916142,results3 - Excel
+SW,63527281928985,Task Switching
+SW,63527281929090,results_andre - Excel
+SW,63527281932294,Task Switching
+SW,63527281932372,results3 - Excel
+SW,63527281940377,Task Switching
+SW,63527281940458,results_andre - Excel
+SW,63527281941949,Task Switching
+SW,63527281942030,results3 - Excel
+SW,63527281943513,Analysis Lens
+SW,63527281948288,results3 - Excel
+SW,63527281963604,Task Switching
+SW,63527281963691,results_andre - Excel
+SW,63527281965864,Task Switching
+SW,63527281965935,results3 - Excel
+SW,63527281979104,Task Switching
+SW,63527281979190,results_andre - Excel
+SW,63527281984611,Task Switching
+SW,63527281984685,results3 - Excel
+SW,63527282058221,
+SW,63527282072509,results3 - Excel
+SW,63527282280715,
+SW,63527282281725,Document : E:/Dropbox/Records/Processed_data/data/xica/report_individual_four_distribution.Rnw
+SW,63527282314696,
+SW,63527282327149,results_andre - Excel
+SW,63527282394783,results3 - Excel
+SW,63527282422693,results_andre - Excel
+SW,63527282430295,results3 - Excel
+SW,63527282497499,results_andre - Excel
+SW,63527282502922,results3 - Excel
+SW,63527282840183,
+SW,63527282841634,Data (E:)
+SW,63527282858120,Paint
+SW,63527282873423,
+SW,63527282874083,Screenshot (35) - Paint
+SW,63527282909681,
+SW,63527282910967,Untitled - Paint
+SW,63527282911689,Save As
+SW,63527282920916,Untitled - Paint
+SW,63527282922368,
+SW,63527282923135,Document : E:/Dropbox/Records/Processed_data/data/xica/report_individual_four_distribution.Rnw
+SW,63527282951088,Task Switching
+SW,63527282951147,data_graph - Paint
+SW,63527282952965,Task Switching
+SW,63527282953035,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527282970862,
+SW,63527282971489,report_individual_four_distribution.pdf
+SW,63527282973955,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527282974002,results3 - Excel
+SW,63527282974235,Microsoft Excel
+SW,63527282977367,results3 - Excel
+SW,63527282983023,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527282999073,report_individual_four_distribution.pdf
+SW,63527282999142,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527282999154,HAIS14.pdf
+SW,63527283047854,
+SW,63527283051536,results3 - Excel
+SW,63527283171209,
+SW,63527283172125,Screenshots
+SW,63527283177654,Paint
+SW,63527283191881,
+SW,63527283192575,Screenshot (36) - Paint
+SW,63527283196388,
+SW,63527283198029,Untitled - Paint
+SW,63527283198720,Save As
+SW,63527283204662,Untitled - Paint
+SW,63527283205635,Task Switching
+SW,63527283205661,Screenshots
+SW,63527283206417,Task Switching
+SW,63527283206450,graph1 - Paint
+SW,63527283207479,Screenshots
+SW,63527283209294,data_graph - Paint
+SW,63527283213829,data_graph - Paint
+SW,63527283213843,Screenshots
+SW,63527283219381,Screenshots
+SW,63527283222419,Paint
+SW,63527283236300,
+SW,63527283238352,Screenshot (36) - Paint
+SW,63527283245158,
+SW,63527283246277,Untitled - Paint
+SW,63527283246929,Save As
+SW,63527283253063,Untitled - Paint
+SW,63527283255003,
+SW,63527283255959,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527283260148,Task Switching
+SW,63527283260205,graph2 - Paint
+SW,63527283261595,Task Switching
+SW,63527283261678,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527283276837,HAIS14.pdf
+SW,63527283276895,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527283276906,HAIS14.pdf
+SW,63527283371621,
+SW,63527283377199,Skype
+SW,63527283379017,
+SW,63527283379170,HAIS14.pdf
+SW,63527283379357,Skype™ - andre.pimenta.53
+SW,63527283400302,
+SW,63527283401285,HAIS14.pdf
+SW,63527283420445,
+SW,63527283423719,xica
+SW,63527283425698,
+SW,63527283425872,xica
+SW,63527283426057,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283440556,HAIS14.pdf
+SW,63527283487558,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283495782,HAIS14.pdf
+SW,63527283496666,
+SW,63527283498079,xica
+SW,63527283507286,
+SW,63527283507471,6
+SW,63527283507639,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283507987,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283551048,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283572612,HAIS14.pdf
+SW,63527283575979,
+SW,63527283579718,Screenshots
+SW,63527283583858,Paint
+SW,63527283600371,
+SW,63527283600570,Jump List
+SW,63527283603713,
+SW,63527283603881,File Explorer
+SW,63527283623639,Paint
+SW,63527283624579,Task Switching
+SW,63527283624616,images
+SW,63527283625717,Task Switching
+SW,63527283625803,R_results_2 - Paint
+SW,63527283626192,Task Switching
+SW,63527283626864,Screenshot (37) - Paint
+SW,63527283629193,Task Switching
+SW,63527283629267,R_results_2 - Paint
+SW,63527283679843,
+SW,63527283681621,6
+SW,63527283687215,
+SW,63527283687387,20
+SW,63527283687540,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283687928,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283695947,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283696792,Task Switching
+SW,63527283696892,20
+SW,63527283704643,
+SW,63527283704800,adriana
+SW,63527283705033,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283705338,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283716780,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283717437,Task Switching
+SW,63527283717469,adriana
+SW,63527283736606,
+SW,63527283737500,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527283740529,Abrir ficheiro
+SW,63527283755223,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527283761810,Re: Perolas do facebook!!! - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527283874937,
+SW,63527283875720,Skype™ [1] - andre.pimenta.53
+SW,63527283886007,
+SW,63527283886578,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527283891426,HAIS14.pdf
+SW,63527283950666,
+SW,63527283972939,pimenta
+SW,63527283977991,
+SW,63527283978174,pimenta
+SW,63527283978361,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527283978662,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284015410,
+SW,63527284052915,pimenta
+SW,63527284065009,
+SW,63527284065963,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284071523,Task Switching
+SW,63527284071552,pimenta
+SW,63527284103432,Task Switching
+SW,63527284103524,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284104251,Task Switching
+SW,63527284104274,pimenta
+SW,63527284106908,
+SW,63527284108153,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284112681,
+SW,63527284116834,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284129104,pimenta
+SW,63527284181767,
+SW,63527284183941,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284185618,pimenta
+SW,63527284187922,
+SW,63527284188779,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284192009,AgroSocial - Google Chrome
+SW,63527284265452,
+SW,63527284267024,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284279126,Neurocomputing - Journal - Elsevier - Google Chrome
+SW,63527284286452,Task Switching
+SW,63527284286518,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284306807,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284312926,
+SW,63527284315879,R_results_2 - Paint
+SW,63527284365030,
+SW,63527284366183,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284371868,
+SW,63527284373104,pimenta
+SW,63527284375088,
+SW,63527284375240,pimenta
+SW,63527284375433,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284375762,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284398714,
+SW,63527284402682,Screenshots
+SW,63527284406338,Paint
+SW,63527284428499,
+SW,63527284431560,R_results_2 - Paint
+SW,63527284456984,
+SW,63527284459590,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527284470090,R_results_2 - Paint
+SW,63527284571048,
+SW,63527284572440,images
+SW,63527284576470,Paint
+SW,63527284583388,Task Switching
+SW,63527284583425,images
+SW,63527284584185,Task Switching
+SW,63527284584662,R_results_2 - Paint
+SW,63527284590523,Task Switching
+SW,63527284590593,images
+SW,63527284591267,Task Switching
+SW,63527284591307,R_results_2 - Paint
+SW,63527284594119,Task Switching
+SW,63527284594206,images
+SW,63527284594625,Task Switching
+SW,63527284594661,R_results_2 - Paint
+SW,63527284595055,Task Switching
+SW,63527284595583,R_results - Paint
+SW,63527284599642,Task Switching
+SW,63527284599727,R_results_2 - Paint
+SW,63527284606464,Task Switching
+SW,63527284606500,R_results - Paint
+SW,63527284610992,Task Switching
+SW,63527284611072,R_results_2 - Paint
+SW,63527284617591,
+SW,63527284619256,R_results_2 - Paint
+SW,63527284620538,
+SW,63527284621583,Document : E:/Dropbox/Records/Processed_data/data/pimenta/report_individual_four_distribution.Rnw
+SW,63527284628489,Task Switching
+SW,63527284628581,R_results_2 - Paint
+SW,63527284629880,Task Switching
+SW,63527284629918,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527284643372,HAIS14.pdf
+SW,63527284643418,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527284643430,HAIS14.pdf
+SW,63527284678791,
+SW,63527284684438,Start
+SW,63527284684528,Start menu
+SW,63527284692214,DoubleClickShield
+SW,63527284692237,
+SW,63527284692354,Weka 3.6
+SW,63527284693112,HAIS14.pdf
+SW,63527284701440,Skype™ - andre.pimenta.53
+SW,63527284703417,Weka GUI Chooser
+SW,63527284704046,
+SW,63527284708411,Weka Explorer
+SW,63527284711304,Open
+SW,63527284718737,Weka Explorer
+SW,63527284718833,Load Instances
+SW,63527284720719,Weka Explorer
+SW,63527284721107,weka.gui.GenericObjectEditor
+SW,63527284722895,Weka Explorer
+SW,63527284724208,Open
+SW,63527284736545,Weka Explorer
+SW,63527284746527,Open
+SW,63527284749904,Weka Explorer
+SW,63527284750365,Load Instances
+SW,63527284751544,Weka Explorer
+SW,63527284753115,Open
+SW,63527284767409,Weka Explorer
+SW,63527284771522,Open
+SW,63527284776826,Weka Explorer
+SW,63527284782482,Open
+SW,63527284788123,Weka Explorer
+SW,63527284818433,Open
+SW,63527284822689,Weka Explorer
+SW,63527284826470,Open
+SW,63527284829152,Weka Explorer
+SW,63527284840084,Weka GUI Chooser
+SW,63527284845410,
+SW,63527284851800,Screenshots
+SW,63527284879112,Weka GUI Chooser
+SW,63527284881939,Weka Explorer
+SW,63527284885185,Open
+SW,63527284909263,Weka Explorer
+SW,63527284917243,Open
+SW,63527284919097,Weka Explorer
+SW,63527284952870,
+SW,63527284954174,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527285035575,Weka Explorer
+SW,63527285064556,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527285072979,HAIS14.pdf
+SW,63527285073027,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527285073045,HAIS14.pdf
+SW,63527285092683,Fwd: HAIS 2014: 6th CFP- Extension deadline: 17th February 2014 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527285105487,Open
+SW,63527285112323,hais 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527285118831,hais 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527285118858,HAIS14.pdf
+SW,63527285126361,HAIS14.pdf
+SW,63527285157907,
+SW,63527285159118,Document : E:\Dropbox\Articles\HAIS_14_DRAFT\HAIS14.tex
+SW,63527285197298,HAIS14.pdf
+SW,63527285466362,
+SW,63527285466451,results3 - Excel
+SW,63527285471997,
+SW,63527285472747,HAIS14.pdf
+SW,63527285493361,hais 14 - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527285527000,HAIS14.pdf
+SW,63527285604236,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527285716009,HAIS14.pdf
+SW,63527285825029,Caixa de entrada - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527285826514,results3 - Excel
+SW,63527285827446,Microsoft Excel
+SW,63527285830264,results3 - Excel
+SW,63527285830492,Microsoft Excel
+SW,63527285831480,results3 - Excel
+SW,63527285832014,results_andre - Excel
+SW,63527285833659,Weka Explorer
+SW,63527285833762,results_andre - Excel
+SW,63527285835473,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527285835612,results_andre - Excel
+SW,63527285836534,report_individual_four_distribution.pdf - Adobe Reader
+SW,63527285836700,results_andre - Excel
+SW,63527285838796,Microsoft Excel
+SW,63527285840025,results_andre - Excel
+SW,63527285840193,Microsoft Excel
+SW,63527285841213,results_andre - Excel
+SW,63527285841289,results2 - Excel
+SW,63527285843004,Microsoft Excel
+SW,63527285844100,results2 - Excel
+SW,63527285844784,Save As
+SW,63527285848939,Confirm Save As
+SW,63527285850005,Save As
+SW,63527285850068,re

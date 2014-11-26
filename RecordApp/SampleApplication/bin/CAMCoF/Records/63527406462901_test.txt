@@ -1,0 +1,30 @@
+# user: test #
+SW,63527406463886,Dialog
+SW,63527406480670,DoubleClickShield
+SW,63527406481139,
+SW,63527406481201,Program Manager
+SW,63527406482623,Adobe Reader Updater
+SW,63527406484880,Untitled - Google Chrome
+SW,63527406489419,
+SW,63527406489619,
+SW,63527406491893,Untitled - Google Chrome
+SW,63527406576564,
+SW,63527406701123,File Explorer
+SW,63527406705312,
+SW,63527406707516,
+SW,63527406709543,File Explorer
+SW,63527406715310,C:\Users\André\Desktop\ESWA - Carneiro.tex - Sublime Text (UNREGISTERED)
+SW,63527406754248,Task Switching
+SW,63527406754917,chica
+SW,63527406755967,Task Switching
+SW,63527406756021,C:\Users\André\Desktop\chica\2012-06-09 (1).log - Sublime Text (UNREGISTERED)
+SW,63527406761399,Participar num Hangout com Davide Rua Carneiro - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527406819977,
+SW,63527408698589,TexMaker
+SW,63527408699407,Texmaker
+SW,63527408707994,Rascunhos - 53.andre.pimenta@gmail.com - Gmail - Google Chrome
+SW,63527409574581,
+SW,63527409574709,
+SW,63527409576135,User Interaction Capturer - ISLab
+SW,63527409576175,
+SW,63527409578361,User Interaction Capturer - ISLab

@@ -1,0 +1,17 @@
+e:\FabioUserFiles\Desktop\MouseKeyboardLibraryCodeProject\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+e:\FabioUserFiles\Desktop\MouseKeyboardLibraryCodeProject\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+e:\FabioUserFiles\Desktop\MouseKeyboardLibraryCodeProject\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+e:\FabioUserFiles\Desktop\MouseKeyboardLibraryCodeProject\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\OriginalMouseKeyboardRecord\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+E:\Workspace\GitHub\CAMCoF\Client\Client_no_connection\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+E:\Workspace\Tests\RecordApp\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
